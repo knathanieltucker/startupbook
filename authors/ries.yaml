@@ -1,0 +1,8 @@
+name: Eric Ries
+description: Writer of the Lean Startup
+
+advise:
+  - tags: methodology
+    id: 1
+    quote: >
+      Build, measure, learn

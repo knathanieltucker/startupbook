@@ -1,0 +1,24 @@
+name: Paul Graham
+
+advise:
+  - tags: [action, ideas]
+    id: 1
+    quote: >
+      If I could go back and redo my twenties, that would be one thing I’d do more of: just try hacking things together. Like many people that age, I spent a lot of time worrying about what I should do. I also spent some time trying to build stuff. I should have spent less time worrying and more time building. If you’re not sure what to do, make something.
+
+      Raymond Chandler’s advice to thriller writers was “When in doubt, have a man come through a door with a gun in his hand.” He followed that advice. Judging from his books, he was often in doubt. But though the result is occasionally cheesy, it’s never boring. In life, as in books, action is underrated.
+
+  - tags: [methodology]
+    id: 2
+    quote: >
+      Do things that don’t scale
+
+  - tags: [employees, people]
+    id: 3
+    quote: >
+      If you think about people you know, you’ll find the animal test is easy to apply. Call the person’s image to mind and imagine the sentence “so-and-so is an animal.” If you laugh, they’re not.
+
+  - tags: ideas
+    id: 4
+    quote: >
+      Just as trying to think up startup ideas tends to produce bad ones, working on things that could be dismissed as “toys” often produces good ones.
