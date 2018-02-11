@@ -1,0 +1,30 @@
+name: Stanley Tank
+
+description: Founder of Door Dash
+tags: [don't scale]
+
+advise:
+  - tags: [story, product validation, user interviews]
+    id: 1
+    quote: >
+       we talked to around 150 to 200 small business owners, and when we brought up this idea of delivery, they kept agreeing with us; they would say, "You know, we don't have delivery infrastructure. It's such a huge pain for us. There aren't any good solutions out there."
+
+  - tags: [ideas, idea validation]
+    id: 2
+    quote: >
+       The best ideas feel like you’re too late because it feels obvious to you.
+
+  - tags: [mvp, don't scale]
+    id: 3
+    quote: >
+      I think another key point to remember is we launched this in about an hour. We didn't have any drivers; we didn't have any algorithms; we didn't have a backend; we didn't spend six months building a fancy dispatch system – we didn't have any of that. We just launched because at the beginning it's all about testing the idea, trying to get this thing off the ground, and figuring out if this was something people even wanted. And it's okay to hack things together at the beginning.
+
+  - tags: [customers, users, feedback, user love, personalization]
+    id: 4
+    quote: >
+      I remember for the first few months when we got started, we would manually email every single new customer at the end of every night asking how their first delivery went, and how they heard about us. We would personalize all these emails: If I saw someone order chicken skewers from Oren's Hummus, we would say "Oh I love Oren's Hummus. How are your chicken skewers? How did you hear about us?" Feedback like that was really valuable, and customers really appreciated that.
+
+  - tags: [idea validation, hypothesis, move fast, don't scale]
+    id: 5
+    quote: >
+      there are three things I would say I learned from doing DoorDash. First, test your hypothesis. You want to treat your startup ideas like experiments. The second thing is, launch fast. We launched in less than an hour with a really simple landing page. And finally, it's okay to do things that don't scale. Doing things that don't scale is one of your biggest competitive advantages when you're starting out, and you can figure out how to scale once you have your demand. And then maybe once you've scaled, then you go get that ice cream. Thank you

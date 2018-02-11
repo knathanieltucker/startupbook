@@ -1,0 +1,165 @@
+name: Adora Chueng
+
+description: Founder of homejoy
+
+advise:
+  - tags: [idea, idea validation]
+    id: 1
+    quote: >
+      You should be able to describe your problem in one sentence. And then you should think, "How does that problem relate to me? Am I really passionate about that problem?" And then you should think, "Okay it's a problem I have, but is it a problem that other people have?" And you verify that by going out and talking to people.
+
+  - tags: [preparation, idea validation]
+    id: 2
+    quote: >
+      The first thing you should do is think about the industry that you are getting yourself into. Whether it is big or whether it is huge, you should really immerse yourself in that industry. And there are a number of ways to do this.
+
+  - tags: [preparation, idea validation]
+    id: 3
+    quote: >
+      One is to really become a cog in that industry for a little bit.
+
+  - tags: [preparation, idea validation]
+    id: 4
+    quote: >
+      Netflix’s Chief Content Officer, Ted Sarandos operated a video store in Arizona which allowed him to learn about what customers want to watch.
+
+  - tags: [idea, idea validation, competitors]
+    id: 5
+    quote: >
+       You should be so obsessed that you want to know what everybody in that space is doing. And it is things like writing a list of all of the potential competitors, similar types of companies, and Google searching them and clicking on every single link and reading every single article from search result number 1 to 1000.  I found all potential competitors big and small and if they were public, I would go and read their S-1s, I would go read all of their quarterly financials, I would sit on earnings calls. You know most of these, you don't get much out of it but there are these golden nuggets that you will find every once in a while. And you won't be able to find that unless you actually go through the work of getting all that information in your head. You should become an expert in your industry. There should be no doubt when you are building this that you are the expert so that people trust you when you are building this product.
+
+  - tags: [market, customer segments]
+    id: 6
+    quote: >
+      In the beginning, you realistically want to corner off a certain part of the customer base so that you can really optimize for them.
+
+  - tags: [idea validation, storyboard, product]
+    id: 7
+    quote: >
+      And lastly, before you even create a product or before you put code down, you should really storyboard out the user experience of how you are going to solve the problem. And that is not just meaning the website itself, it also means how does the customer find out about you... You need to be able to go through that whole flow and visualize in your head what the perfect user experience is. And then put it down on paper and put it into code, and then start from there.
+
+  - tags: [product, mvp]
+    id: 8
+    quote: >
+      Minimal viable product pretty much means what is the smallest feature set that you should build to solve the problem that you are trying to solve.
+
+  - tags: [users, first users]
+    id: 9
+    quote: >
+       The first few users should be obviously people you are connected with. You and your cofounder should be using it, your mom and dad should be using it, and your friends and coworkers should be using it.
+
+  - tags: [users, first users]
+    id: 10
+    quote: >
+       Beyond that, you want to get more user feedback. I've listed here some of the obvious places to go to depending on what you are selling. You can take your pick of the draw here. So, online communities, on Hacker News now there is the show HN - that's a great place. Especially if you are building tools for developers and things like that. Local communities - so if you're building consumer products you know there are a lot of influential local community mailing lists. Especially those for parents. Those are places you might want to hit up too.
+
+  - tags: [story, users]
+    id: 11
+    quote: >
+       So what we did was, because we are in Mountain View, some of you guys might know on Castro Street they have street fairs there during the summertime. So we would go out and basically chase down people and get them to try to book a cleaning. Almost everyone would say no until one day we just took advantage of the weather. It was a very hot and humid day and what we noticed was that everyone gravitated towards the food and drink area, especially on a hot day.
+
+       We figured we needed to get in the middle of that so we took water bottles and froze them and we started handing out free bottles of water that were cold. And people just came to us. I think we basically guilt tripped people into booking cleanings. But the proof in the pudding was that I figured most of the people were guilt tripped into doing it, but then they went home and they didn't cancel on us. Well, some of them did but the majority of them did not. I thought that's good, I have to go clean their houses but at least there is something we are actually solving here.
+
+  - tags: [story, users]
+    id: 12
+    quote: >
+      I know another startup in the last batch, I forgot their name right now, but they were selling shipping type products or trying to replace shipping products. So they would show up to the US postal office and find people who were trying to ship products and just take them out of line and get them to try to use the product and have them ship it for them. So you just have to go to places where people are really going to show up. Your conversion rate is going to be really low but to go from 0 to 1 to 3 to 4 these are the kind of things you might have to do.
+
+  - tags: [users, customer service, feedback]
+    id: 13
+    quote: >
+      So now that you have users using you ,what do you do with all of these users? The first thing you should do is make sure that there is a way for people to contact you.
+
+  - tags: [users, feedback]
+    id: 14
+    quote: >
+       inbound feedback is good, but really what you should be doing is going out to your users and talking to them.
+
+  - tags: [measures]
+    id: 15
+    quote: >
+       The best way to do that is by tracking customer retention.
+
+  - tags: [measures]
+    id: 16
+    quote: >
+       So a good leading indicator is actually collecting reviews and ratings. Such as five-star and four-star reviews or collecting some notion of nps, which is net promoter score.
+
+  - tags: [feedback, concepts]
+    id: 17
+    quote: >
+      One thing you should be wary of is the honesty curve. Some people will just lie to you. These are degrees of separation from you, and this is the level of honesty.
+
+  - tags: [users, growth, product, features]
+    id: 18
+    quote: >
+       You might have 10 users at this point and there is no point in trying to build features for when you might have 10 million users. You want to optimize for the next stage of growth which will be 10 to 100 users.
+
+  - tags: [growth, priorities]
+    id: 19
+    quote: >
+       A third point here is temporary brokenness is much better than permanent paralysis.
+
+  - tags: [concept, feedback, features]
+    id: 20
+    quote: >
+        Lastly beware of the Frankenstein approach which is - great you talked to all of these users and they gave you all of these ideas and the first thing you are going to want to do is go build every single one of them and then go show them the next day and make them happier. You should definitely listen to user feedback but when someone tells you to build a feature you shouldn't go build it right away. What you should really do is get to the bottom of why they are asking you to build the feature.
+
+  - tags: [launch]
+    id: 21
+    quote: >
+      And I think that unless you are building something that requires tens of millions of dollars just to start up there is really no point in waiting around to launch the product.
+
+  - tags: [growth, ads]
+    id: 22
+    quote: >
+       So there are three types of growth. Sticky, viral, and paid growth.
+
+  - tags: [marketing]
+    id: 23
+    quote: >
+       Marketing channels: 1) try one at a time 2) always be iterating on them
+
+  - tags: [LTV, growth, ads]
+    id: 24
+    quote: >
+        LTV of a customer should be more than what you pay for them (CAC).
+
+  - tags: [growth, ads]
+    id: 25
+    quote: |
+      * SEM
+      * display ads
+      * facebook ads
+      * groupon/daily deals
+      * street marketing
+      * b2b sales
+      * direct mailers
+
+  - tags: [pivots]
+    id: 26
+    quote: >
+       The best guidance that I can give on that is the kind of look at these three criteria, which is once you realize that you can't grow, and despite building out all of these great features and talking to all of these users none of them stick, or the economics of the business just don't make sense - then once you make that realization you just need to move on.
+
+  - tags: [marketing]
+    id: 27
+    quote: >
+       Marketing channels: 1) try one at a time 2) always be iterating on them
+
+  - tags: [LTV, growth, ads]
+    id: 28
+    quote: >
+        LTV of a customer should be more than what you pay for them.
+
+
+
+  - tags: game plan
+    id: 29
+    quote: |
+      1. Idea that you (and users) are passionate about
+      2. Know the industry in and out
+      3. Find your beachhead market
+      4. Storyboard
+      5. Build MVP
+      6. Make your one liner
+      7. Get initial users

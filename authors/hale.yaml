@@ -1,0 +1,192 @@
+name: Kevin Hale
+
+desc: Founder of Wufoo, Expert at YC
+
+advise:
+  - tags: [users, love, success]
+    id: 1
+    quote: >
+      "How do we make things that have a passionate user base, that our users are unconditionally wanting it to be successful, both on the products that we built and the companies behind them?"
+
+  - tags: [success, first users]
+    id: 2
+    quote: >
+      best way to get to $1 billion is to focus on the values that help you get that first dollar to acquire that first user. If you get that right, everything else will take care of itself.
+
+  - tags: [users, love]
+    id: 1
+    quote: >
+       We weren't interested in building software that people just wanted to use, that reminded you that you worked in a cubicle because it was a database app at its core. We wanted a product that people wanted to love, that people wanted to have a relationship with,
+
+  - tags: [users, first users, new users]
+    id: 2
+    quote: >
+       two metaphors: acquiring new users as if we are trying to date them, and existing users as if they are a successful marriage
+
+  - tags: [users, new users, aha moment]
+    id: 1
+    quote: >
+      My argument for people who are very good at product is that they discover so many other moments and make them memorable: the first email you ever get, what happens when you got your first login, the links, the advertisements, the very first time you interacted with customer support. All of those are opportunities to seduce.
+
+  - tags: [quality, concepts, philosophy]
+    id: 2
+    quote: >
+      So how do we think about making first moments? We actually took this concept from the Japanese. They actually have two words for how to describe things when you're finished with them, in terms of saying, "is this a quality item?" The two words for quality are atarimae hinshitsu and miryokuteki hinshitsu. The first one means taken for granted quality, which basically means functionality. The last one means enchanting quality. Take for example a pen. Something has miryokuteki if the weight of the pen, the way the ink flows out of it, the way it's viewed by the people reading the hand writing from the pen, is pleasurable both to the user of the pen and the people who experience the byproducts, taking it to the next level.
+
+  - tags: [metrics, product, users, product testing, delight]
+    id: 1
+    quote: >
+      I think a lot of times when we are assessing products we never think about, "Hey, what is the emotion on the person's face when they interact with this?"
+
+  - tags: [delight, story]
+    id: 2
+    quote: >
+      You don't always have to do it with design. This is a sign-up form for Cork'd, which used to be a social network for people that love to drink wine. On it, it says, "Email address- it's also your sign in name, and has to be legit. First name – what mom calls you. Last name - what your army buddies call you. Password – something you'll remember but hard to guess. Password confirmation – type it again, think of it as a test." It's literally a poem as you fill it out the form. And this is the kind of thing when you're like, "Oh, I like the people behind this, I’m going to enjoy this experience." Now what does it say, when you fill out a form like this, about what their personality looks like it's going to be?
+
+  - tags: [delight, UX, documentation]
+    id: 1
+    quote: >
+      Speaking of documentation, Stripe - what's interesting about an API company, is that there is no UX. The UX is actually just documentation, and there are opportunities even in documentation to sort of enchant and amaze. One of the things that I love about them is that their examples are wonderful, but if you log into the app, one of the things that is a super pain for most people is when you’re doing most people's APIs, is grabbing your API credentials and keys. And what shocked us is that it says, "If you are logged into the app, we automatically put your API credentials into the examples, so you only have to copy and paste once, when trying to learn their API.”
+
+  - tags: [delight, story, marketing]
+    id: 2
+    quote: >
+      When Wufoo wanted to launch the third version of our API, we realized, "Okay finally this is good enough that we want people to build on top of it." We were trying to figure out how we launch this out to the world that sort of has our personality behind it, because a lot of people usually do things like a programming API contest that give out iPads and iPhones; it makes you look like everyone else. So at our company, one weird value we have is that our cofounders are big medieval nuts, and we would take everyone out to Medieval Times every single year on the anniversary and founding of the company. So we said we have to do something in that flavor. We contacted the guys at armor.com, and said, "Can you forge us a custom battle axe?" We said, if you win our programming contest, you would win one. The result is, people wanted to talk about this. People wanted to say they were working on this because they wanted to say, "I am programming for a weapon." What's cool is we had over 25 different applications created for us, of quality and quantity that we could not have paid for on the budget and time that we had. We got things like an iPhone app, an Android app, a Wordpress Plugin, and all we did was change the way people talked about our origin story of how they interacted with one of our services.
+
+  - tags: [retention, users]
+    id: 1
+    quote: >
+      When it comes to long-term relationships, or marriages, the only research that we ended up having to read is the stuff done by John Gottman. He's been featured in "This American Life," Malcolm Gladwell's books, etc.
+
+  - tags: [retention, story, customer support]
+    id: 2
+    quote: >
+      So John Gottman understands something fundamental about how relationships work in the long term, and that basically how we fight even in the short term period can indicate the whole system and what it's going to look like. One of the surprising things he discovered is not that successfully married people don't fight at all; turns out, everybody fights and we all fight about the exact same things: money, kids, sex, time, and others ("Others" are things like jealousy and the in-laws.) To bring this around, you can actually attribute every single one of these to problems to things you see in customer support when you're building out your products, so Money - this costs too much, or I'm having trouble with credit cards. Kids - users' client. Sex - performance, how long you're up and how fast. Others - I said was jealousy or in-laws, so that's competition and partnerships, anything weird happening there, people are going to write to you about. And the reason I like to think about this in terms of customer support is that, in everyone's processing of a conversion funnel, customer support is a thing that happens in between every one of the steps; it's the reason why people don't make it further down there; it's the thing that prevents conversion from happening.
+
+  - tags: [cutomer support, employees, feedback]
+    id: 1
+    quote: >
+      make everyone do customer support. What you end up having is you fix the feedback. The people who built the software are the ones supporting it, and you get all these nice benefits as a result.
+
+  - tags: [cutomer support, employees, feedback, counterintuitive]
+    id: 2
+    quote: >
+       Paul English was a big supporter of this in Kayak. What he did was install a red customer support phone line in the middle of the engineering floor, and it would just ring with customer support calls.
+
+
+
+
+
+  - tags: [users, retention, feedback, metrics]
+    id: 1
+    quote: >
+      Now, John Gottman talks about the reason that we often break up with one another is due to four major causes. They are warning signs. He calls them the Four Horsemen: criticism, contempt, defensiveness, stonewalling. Criticism is basically people starting to focus, not just on the specific issue at hand, but on the over arching issues like "You never listen to users" or "You never think about us" all the time. Contempt is when somebody is purposely trying to insult another person. Defensiveness is not trying to take accountability, or trying to make excuses for their actions. Stonewalling is basically shutting down. Stonewalling according to John Gottman, is one of the worst things we can do in a relationship. Often times we don't worry about these things in customer support, criticism or contempt. Defensiveness, you see this all the time especially in companies as they get older. But stonewalling, this is something I see happening with startups all the time. You get a bunch of customer support calls coming in, and you just think, "I don't need to answer, I don't need to respond." That act of not even getting back to them is one of the worst things you can do, and it's probably some of the biggest causes of churn in the early stages of startups.
+
+  - tags: [feedback, users, emotion]
+    id: 2
+    quote: >
+      So, as form builders we added a drop-down, and what we said was, "what's your emotional state." Our hypothesis was nobody's going to fill this out; we thought this was going to be a lame experiment, but we'll see how it goes. It turned out that this field was filled out 75.8% of the time. The Browser Type drop-down field in comparison was filled out 78.1% of the time. So people were basically telling us, "For my technical support issue, how I feel about this problem is just as important as all the technical details you need to figure out in order to debug it."
+
+  - tags: [feedback, employees, users, product, routine]
+    id: 1
+    quote: >
+       Jared Spool, at User Interface Engineer (one of the biggest players in the space) says that there's a direct correlation to how much time we spend directly exposed to users and how good our designs get. He said it has to come in this specific way. It has to be a direct exposure. It can't be something where someone generates a report or through a graph. You have to be interacting with them in somewhat real time. It has to be a minimum of every six weeks, and it has to be for at least two hours; otherwise your software will get worse over time.
+
+  - tags: [concepts, features, product, intuitive, documentation, users]
+    id: 2
+    quote: >
+       This is currently where their knowledge point is (PowerPoint slide), and this is the target point where you're trying to get them to. The gap between the two is called the knowledge gap as Spool calls it. And what's interesting about this is there's only two ways to fix this. That gap represents how intuitive your app is. You either get the user to increase their knowledge or decrease the amount of knowledge that's needed to use the application. And often times as engineers or people who build and work on these products we think let's add new features. New features only means let's increase the knowledge gap.
+
+
+  - tags: [metrics, churn, growth, conversion rate]
+    id: 1
+    quote: >
+      What a lot of people keep forgetting is that there's almost no difference between an increase in conversion rate, 1% increase, and 1% decrease in churn
+
+  - tags: [features, delight]
+    id: 2
+    quote: >
+      they would have this message show up, "Hey since you've been gone, here's all the awesome stuff that Wufoo did for you." Hands-down, this was the most talked about feature that I heard every time I went out to talk to users. They would say things like, "Dude I love that 'Since you've been gone' thing. Even though I pay the same amount every single month, you guys are doing something for me almost every week. It's totally awesome; it makes me feel like I'm getting maximum value."
+
+  - tags: [product, success, price]
+    id: 1
+    quote: >
+      here's an article that was put out by the Harvard Business Review several years ago by Michael Treacy and Fred Wiersema and in it they talk about the discipline of market leaders. They say there's only three ways that you achieve market dominance, and depending on how you want to achieve that market dominance, you have to organize your company in a very specific way: best price, best product, and best overall solution.
+
+  - tags: [communication, teams, meetings]
+    id: 2
+    quote: >
+      What we came up with was a 15 minute rule. You could have a chat or a phone call with someone, but it could last no longer than 15 minutes. So if you had some complicated issue that you couldn't figure out, at 15 minutes you are to immediately table that item, and have us discuss it on Friday.
+
+  - tags: [delight, UX, documentation]
+    id: 1
+    quote: >
+      Speaking of documentation, Stripe - what's interesting about an API company, is that there is no UX. The UX is actually just documentation, and there are opportunities even in documentation to sort of enchant and amaze. One of the things that I love about them is that their examples are wonderful, but if you log into the app, one of the things that is a super pain for most people is when you’re doing most people's APIs, is grabbing your API credentials and keys. And what shocked us is that it says, "If you are logged into the app, we automatically put your API credentials into the examples, so you only have to copy and paste once, when trying to learn their API.”
+
+  - tags: [delight, story, marketing]
+    id: 2
+    quote: >
+      When Wufoo wanted to launch the third version of our API, we realized, "Okay finally this is good enough that we want people to build on top of it." We were trying to figure out how we launch this out to the world that sort of has our personality behind it, because a lot of people usually do things like a programming API contest that give out iPads and iPhones; it makes you look like everyone else. So at our company, one weird value we have is that our cofounders are big medieval nuts, and we would take everyone out to Medieval Times every single year on the anniversary and founding of the company. So we said we have to do something in that flavor. We contacted the guys at armor.com, and said, "Can you forge us a custom battle axe?" We said, if you win our programming contest, you would win one. The result is, people wanted to talk about this. People wanted to say they were working on this because they wanted to say, "I am programming for a weapon." What's cool is we had over 25 different applications created for us, of quality and quantity that we could not have paid for on the budget and time that we had. We got things like an iPhone app, an Android app, a Wordpress Plugin, and all we did was change the way people talked about our origin story of how they interacted with one of our services.
+
+  - tags: [retention, users]
+    id: 1
+    quote: >
+      When it comes to long-term relationships, or marriages, the only research that we ended up having to read is the stuff done by John Gottman. He's been featured in "This American Life," Malcolm Gladwell's books, etc.
+
+  - tags: [retention, story, customer support]
+    id: 2
+    quote: >
+      So John Gottman understands something fundamental about how relationships work in the long term, and that basically how we fight even in the short term period can indicate the whole system and what it's going to look like. One of the surprising things he discovered is not that successfully married people don't fight at all; turns out, everybody fights and we all fight about the exact same things: money, kids, sex, time, and others ("Others" are things like jealousy and the in-laws.) To bring this around, you can actually attribute every single one of these to problems to things you see in customer support when you're building out your products, so Money - this costs too much, or I'm having trouble with credit cards. Kids - users' client. Sex - performance, how long you're up and how fast. Others - I said was jealousy or in-laws, so that's competition and partnerships, anything weird happening there, people are going to write to you about. And the reason I like to think about this in terms of customer support is that, in everyone's processing of a conversion funnel, customer support is a thing that happens in between every one of the steps; it's the reason why people don't make it further down there; it's the thing that prevents conversion from happening.
+
+  - tags: [cutomer support, employees, feedback]
+    id: 1
+    quote: >
+      make everyone do customer support. What you end up having is you fix the feedback. The people who built the software are the ones supporting it, and you get all these nice benefits as a result.
+
+  - tags: [cutomer support, employees, feedback, counterintuitive]
+    id: 2
+    quote: >
+       Paul English was a big supporter of this in Kayak. What he did was install a red customer support phone line in the middle of the engineering floor, and it would just ring with customer support calls.
+
+
+
+
+  - tags: [relationships, ceo, employees, users]
+    id: 1
+    quote: >
+      relationships:
+      https://www.psychologytoday.com/articles/199403/what-makes-marriage-work
+
+  - tags: [users, behavior, motivation]
+    id: 2
+    quote: >
+      Fogg Behavior Model: Behavior = motivation + ability + triggers
+
+  - tags: [cutomer support, employees, feedback]
+    id: 1
+    quote: >
+      make everyone do customer support. What you end up having is you fix the feedback. The people who built the software are the ones supporting it, and you get all these nice benefits as a result.
+
+  - tags: [cutomer support, employees, feedback, counterintuitive]
+    id: 2
+    quote: >
+       Paul English was a big supporter of this in Kayak. What he did was install a red customer support phone line in the middle of the engineering floor, and it would just ring with customer support calls.
+
+  - tags: [willpower, users, features, design]
+    id: 1
+    quote: |
+      In 1999, Professor Baba Shiv (currently at Stanford) and his co-author Alex Fedorikhin did a simple experiment on 165 grad students.They asked half to memorize a seven-digit number and the other half to memorize a two-digit number. After completing the memorization task, participants were told the experiment was over, and then offered a snack choice of either chocolate cake or a fruit bowl.
+
+      The participants who memorized the seven-digit number were nearly 50% more likely than the other group to choose cake over fruit.
+
+      Researchers were astonished by a pile of experiments that led to one bizarre conclusion:
+
+      Willpower and cognitive processing draw from the same pool of resources.
+
+      An experiment asked one group of dogs to sit, just sit, nothing else, for a few minutes before being released to play with their favorite treat “puzzle” toy (the ones where the dog has to work at getting the treats out of it). The other group of dogs were allowed to just hang out in their crates before getting the treat puzzle.
+
+      You know where this goes: the dogs that had to sit — exercising self-control — gave up on the puzzle much earlier than the dogs that were just hanging out in their crate.The dogs that were NOT burning cognitive resources being obedient had more determination and mental/emotional energy for solving the puzzle. Think about that next time you ask Sparky to be patient. His cognitive resources are easily-depleted too.
+
+      Now think about what we're doing to our users.
+
+      If your UX asks the user to make choices, for example, even if those choices are both clear and useful, the act of deciding is a cognitive drain. And not just while they're deciding... even after we choose, an unconscious cognitive background thread is slowly consuming/leaking resources, "Was that the right choice?"

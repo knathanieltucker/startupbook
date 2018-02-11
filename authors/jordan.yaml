@@ -1,0 +1,10 @@
+name: Jeff Jordan
+
+description: Partner at Andreessen Horowitz
+tags: [growth]
+
+advise:
+  - tags: [growth, market, metrics]
+    id: 1
+    quote: >
+       “adding layers to the cake”.  Much of the natural effort in the organization is spent on chasing optimization of the core business.  This makes sense, as small improvements in a big business can have a meaningful impact.  But there is huge potential leverage to adding layers of new, complementary businesses on top of the core (aka “cake”).

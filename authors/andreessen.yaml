@@ -1,0 +1,52 @@
+name: Marc Andreessen
+
+description: Founder Netscape, Andreessen Horowitz
+tags: []
+
+advise:
+  - tags: [vc, power law]
+    id: 1
+    quote: >
+       one is the venture capital business is one hundred percent a game of outliers, it is extreme outliers. So the conventional statistics are in the order of four thousand venture fundable companies a year that want to raise venture capital. About two hundred of those will get funded by what is considered a top tier VC. About fifteen of those will, someday, get to a hundred million dollars in revenue. And those fifteen, for that year, will generate something on the order of 97% of the returns for the entire category of venture capital in that year
+
+  - tags: [vc, philosopy, investment]
+    id: 2
+    quote: >
+       invest in strength versus lack of weakness.
+
+  - tags: [success, philosopy]
+    id: 3
+    quote: >
+       The key to success is be so good they can't ignore you.
+
+  - tags: [vc, fundraising]
+    id: 4
+    quote: >
+       raising venture capital is the easiest thing a startup founder is ever going to do. As compared to recruiting engineers, recruiting engineer number twenty. It’s far harder than raising venture capital. Selling to large enterprise is harder, getting viral growth going on a consumer business is harder, getting advertising revenue is harder.
+
+  - tags: [risk, vc, fundraising, philosopy]
+    id: 5
+    quote: >
+        So a startup at the very beginning is just this long list of risks, right, and the way I always think about running a startup is also how I think about raising money. Which is a process of peeling away layers of risk as you go.
+
+         And the best way to do that with us is to say I raised a seed round, I achieved these milestones. I eliminated these risks. I raised the A round. I achieved these milestones. I eliminated these risks. Now I am raising a B round. Here are my milestones, here are my risks, and by the time I raise go to raise a C round here is the state I will be in.
+
+  - tags: [seed, vc, series A]
+    id: 6
+    quote: >
+       Every once in a while we will go straight to a company that hasn’t raised a seed round. Really the only times when that happens is when it is a founder who has been a successful founder in the past and is almost certainly somebody we have worked with in the past.
+
+  - tags: [seed, vc, series A]
+    id: 7
+    quote: >
+        So by far the best way to get the introductions to the A stage venture firms is to work through the seed investors. Or work through something like Y Combinator.
+
+  - tags: [saas, series A, mvp, founder]
+    id: 8
+    quote: >
+      For example, enterprise software companies, SaaS, application companies. It’s much more common that there is no MVP, it’s much more common that it's a cold start. And it is much more common that they build a product in the A round. There is no point in having an MVP, the customer isn’t going to buy an MVP, the customer actually needs a full product when they first start using it. So the company actually needs to raise five or ten million dollars to get the first product built. But in almost all those cases that is going to be a founder that has done it before.
+
+  - tags: [boards, vc]
+    id: 9
+    quote: >
+      When a company gets in dire straights, it doesn't matter what the terms for the prior round are, they all get renegotiated. I have been on boards for twenty years, I have never been in an important board vote that mattered.

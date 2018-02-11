@@ -1,0 +1,47 @@
+name: Walker Williams
+
+description: Founder of Teespring
+tags: [don't scale]
+
+advise:
+  - tags: [sales, pain points]
+    id: 1
+    quote: >
+      I think something you have to understand is when you first launch a company, just by virtue of the fact that it's a new product, you're going to be bad at selling it right? You've got no idea what the pain points of customers really are. You've never sold that before. You don't have any success stories to point to, or testimonials. Those first users are always going to be the hardest.
+
+  - tags: [product market fit, idea validation]
+    id: 2
+    quote: >
+      The common thread that I hear is, founders need to spend personal time and effort, a lot of their personal time and effort to bring those users in themselves. It could mean a number of things - anything from sending 100 emails a day, getting on the phone and just calling as many people as you can, going through a network like Stanford or Y Combinator. Anything you can do to just get that first user. I really equate it to pushing a boulder uphill. And if you think of a smooth hill when you get started, the incline is the steepest and those first inches are the hardest. But over time as you get farther and farther, the incline steadies out, it gets easier, and eventually you reach a point where you're at the top of the hill and the boulder starts to roll on its own.
+
+  - tags: [sales, free]
+    id: 3
+    quote: >
+      I don't recommend giving your product for free. And there are plenty of exceptions to this rule, but in general, cutting costs or giving the product away is an unsustainable strategy I wouldn't recommend. You need to make sure that users value your product. And you know, people treat products that are free in a much different way than a paid product, and often times it can give you a false sense of security like, "Oh we're getting all these users; surely we can convert them to paid."
+
+  - tags: [first users, users, user love, user interviews]
+    id: 4
+    quote: >
+      The easiest way to turn a user into a champion is to the delight them with an experience they are going to remember, so something that's unusual or out of the ordinary – an exceptional experience.
+
+      The easiest way to do this early, and again something that is completely unsustainable - it's not going to scale forever - is to just talk to those users.
+
+  - tags: [churn, users, customer service, social media]
+    id: 5
+    quote: >
+      There are three ways to talk to your customers. You can run customer service yourself... The second step is to proactively reach out to current and churn customers... Finally, the one I'm probably most OCD about is social media and communities.
+
+  - tags: [champion, detractor, customer service]
+    id: 6
+    quote: >
+      One detractor who's had a terrible experience in your platform is enough to reverse the progress of 10 champions. That's all it takes, is one to say, "No you shouldn't use those guys for X reasons," to ruin a ton of momentum.
+
+  - tags: [champion, frustration]
+    id: 7
+    quote: >
+      And the customers who are originally the most frustrated tend to turn into the biggest champions and the longest term users.
+
+  - tags: [gowth, don't scale]
+    id: 8
+    quote: >
+      A great rule of thumb is to only worry about the next order of magnitude, so when you have your tenth user, you shouldn't be wondering how you are going to serve one million users. You should be worried about how you're going to get to 100.

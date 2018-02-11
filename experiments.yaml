@@ -1,0 +1,22 @@
+description: Partner at Andreessen Horowitz
+tags: [experiments]
+
+advise:
+  - tags: [willpower, users, features, design]
+    id: 1
+    quote: |
+      In 1999, Professor Baba Shiv (currently at Stanford) and his co-author Alex Fedorikhin did a simple experiment on 165 grad students.They asked half to memorize a seven-digit number and the other half to memorize a two-digit number. After completing the memorization task, participants were told the experiment was over, and then offered a snack choice of either chocolate cake or a fruit bowl.
+
+      The participants who memorized the seven-digit number were nearly 50% more likely than the other group to choose cake over fruit.
+
+      Researchers were astonished by a pile of experiments that led to one bizarre conclusion:
+
+      Willpower and cognitive processing draw from the same pool of resources.
+
+      An experiment asked one group of dogs to sit, just sit, nothing else, for a few minutes before being released to play with their favorite treat “puzzle” toy (the ones where the dog has to work at getting the treats out of it). The other group of dogs were allowed to just hang out in their crates before getting the treat puzzle.
+
+      You know where this goes: the dogs that had to sit — exercising self-control — gave up on the puzzle much earlier than the dogs that were just hanging out in their crate.The dogs that were NOT burning cognitive resources being obedient had more determination and mental/emotional energy for solving the puzzle. Think about that next time you ask Sparky to be patient. His cognitive resources are easily-depleted too.
+
+      Now think about what we're doing to our users.
+
+      If your UX asks the user to make choices, for example, even if those choices are both clear and useful, the act of deciding is a cognitive drain. And not just while they're deciding... even after we choose, an unconscious cognitive background thread is slowly consuming/leaking resources, "Was that the right choice?"
