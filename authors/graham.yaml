@@ -400,3 +400,126 @@ advise:
     id: 68
     quote: >
       But acquirers have an additional reason to want startups. A rapidly growing company is not merely valuable, but dangerous.
+
+
+
+
+
+
+
+
+  - tags: [pitch, vc, investment]
+    id: 49
+    quote: >
+      Inexperienced founders make the same mistake when trying to convince investors. They try to convince with their pitch. Most would be better off if they let their startup do the work—if they started by understanding why their startup is worth investing in, then simply explained this well to investors.
+
+  - tags: [vc, power law, success]
+    id: 50
+    quote: >
+      Most are interested in you if you seem like you have a chance, however small, of being one of the 15 big successes, and otherwise not.
+
+  - tags: [success, founders, market, evidence]
+    id: 51
+    quote: >
+      How do you seem like you'll be one of the big successes? You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.
+
+  - tags: [pitch, vc]
+    id: 52
+    quote: >
+      Convince yourself that your startup is worth investing in, and then when you explain this to investors they'll believe you.
+
+  - tags: [tam, market, beachhead]
+    id: 53
+    quote: >
+      Your target market has to be big, and it also has to be capturable by you.
+
+  - tags: [negotiation, vc, rejections]
+    id: 54
+    quote: >
+      You are asked whether other vc's are on board:
+
+      If you're not a master of negotiation (and perhaps even if you are) the best solution is to tackle the problem head-on, and to explain why investors have turned you down and why they're mistaken.
+
+  - tags: [priorities, fundraising]
+    id: 55
+    quote: >
+      Because fundraising is so distracting, a startup should either be in fundraising mode or not. And when you do decide to raise money, you should focus your whole attention on it so you can get it done quickly and get back to work.
+
+      If an investor says they're ready to invest, but they need you to come in for one meeting to meet some of the partners, tell them no, if you're not in fundraising mode, because that's fundraising.
+
+  - tags: [vc, fundraising]
+    id: 56
+    quote: >
+      If you get cold-emailed by an associate at a VC firm, you shouldn't meet even if you are in fundraising mode. Deals don't happen that way.
+
+  - tags: [vc, intros]
+    id: 57
+    quote: >
+      Intros vary greatly in effectiveness. The best type of intro is from a well-known investor who has just invested in you. So when you get an investor to commit, ask them to introduce you to other investors they respect. [7] The next best type of intro is from a founder of a company they've funded. You can also get intros from other people in the startup community, like lawyers and reporters.
+
+  - tags: [vc]
+    id: 58
+    quote: >
+      Treat investors as saying no till they unequivocally say yes, in the form of a definite offer with no contingencies.
+
+  - tags: [vc, protocol]
+    id: 59
+    quote: >
+      http://www.ycombinator.com/handshake/
+
+  - tags: [vc, fundraising]
+    id: 60
+    quote: >
+      When you talk to investors your m.o. should be breadth-first search, weighted by expected value. You should always talk to investors in parallel rather than serially.
+
+  - tags: [vc, protocol]
+    id: 61
+    quote: >
+      Never leave a meeting with an investor without asking what happens next.
+
+  - tags: [vc, lead, fundraising]
+    id: 62
+    quote: >
+      When you first start fundraising, the expected value of an investor who won't "lead" is zero, so talk to such investors last if at all.
+
+  - tags: [employees, cost, price, burn rate]
+    id: 63
+    quote: >
+      In most startups, nearly all the costs are a function of the number of people, and $15k per month is the conventional total cost (including benefits and even office space) per person.
+
+  - tags: [fundraising, estimates]
+    id: 64
+    quote: >
+      Though you can focus on different plans when talking to different types of investors, you should on the whole err on the side of underestimating the amount you hope to raise.
+
+      For example, if you'd like to raise $500k, it's better to say initially that you're trying to raise $250k. Then when you reach $150k you're more than half done. That sends two useful signals to investors: that you're doing well, and that they have to decide quickly because you're running out of room. Whereas if you'd said you were raising $500k, you'd be less than a third done at $150k.
+
+  - tags: [fundraising, ramen profitability]
+    id: 65
+    quote: >
+      There are almost two distinct modes of fundraising: one in which founders who need money knock on doors seeking it, knowing that otherwise the company will die or at the very least people will have to be fired, and one in which founders who don't need money take some to grow faster than they could merely on their own revenues. To emphasize the distinction I'm going to name them: type A fundraising is when you don't need money, and type B fundraising is when you do.
+
+  - tags: [vc, investors, fundraising, valuation]
+    id: 66
+    quote: >
+      Not only is fundraising not the test that matters, valuation is not even the thing to optimize about fundraising. The number one thing you want from phase 2 fundraising is to get the money you need, so you can get back to focusing on the real test, the success of your company. Number two is good investors. Valuation is at best third.
+
+  - tags: [valuation, fundraising, investors]
+    id: 67
+    quote: >
+      Occasionally you'll encounter investors who describe themselves as "valuation sensitive." What this means in practice is that they are compulsive negotiators who will suck up a lot of your time trying to push your price down. You should therefore never approach such investors first. While you shouldn't chase high valuations, you also don't want your valuation to be set artificially low because the first investor who committed happened to be a compulsive negotiator.
+
+  - tags: [fundraising, offers]
+    id: 68
+    quote: >
+      A greedy algorithm takes the best of the options in front of it right now. And that is how startups should approach fundraising in phases 2 and later. Don't try to look into the future because (a) the future is unpredictable, and indeed in this business you're often being deliberately misled about it and (b) your first priority in fundraising should be to get it finished and get back to work anyway.
+
+  - tags: [fundraising, series A, seed]
+    id: 66
+    quote: >
+      Our rule of thumb is not to sell more than 25% in phase 2, on top of whatever you sold in phase 1, which should be less than 15%.
+
+  - tags: [founders, fundraising, priorities]
+    id: 67
+    quote: >
+      If you have multiple founders, pick one to handle fundraising so the other(s) can keep working on the company.

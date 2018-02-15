@@ -1,0 +1,68 @@
+name: Alfred Lin
+
+description: Founder of Zappos, Partner as Sequoia
+tags: [culture]
+
+advise:
+  - tags: [philosopy, culture, beliefs, actions]
+    id: 1
+    quote: >
+      Gandhi “Your beliefs become your thoughts. Your thoughts become your words. Your words become your actions. Your actions become the habits. Your habits become your values. And your values become your destiny.”
+
+  - tags: [culture, first principles, employees, retention, trust]
+    id: 2
+    quote: |
+      Culture =
+
+      First principles = beliefs and core values that you need to fall back on
+
+      Alignment = values align your team
+
+      Stability = core values are things that should never change that you can build a company around
+
+      Trust = trust comes more easily when your team has the same values
+
+      Exclusion = people who do not share your values should not be part of your team
+
+      Retention = team members who share your values you want to retain and they are more likely to be retained when those values are strongly expressed
+
+  - tags: [culture, values, creating culture]
+    id: 3
+    quote: >
+      So how do you create a set of values and define the culture etc? Get asked that a lot. You have to start with the leader of the company and the founder, and ask yourself what are the values that are the most important to you? Of those things, that are most important in the business? Who are the types of people you like working with? And what are their values? And through that you distill together what a set of values are. Think about all the people that you've never liked working with. What values do they have? Think of the opposite of that. Maybe those should be considered values for your company.
+
+  - tags: [culture, values, creating culture]
+    id: 4
+    quote: >
+       When Zappos went through this process we asked all the employees at the time what core values they can identify with and they came up with thirty-seven. We whittled that down to about ten.
+
+  - tags: [philosopy, team, employees, culture]
+    id: 5
+    quote: |
+      Five Dysfunctions of a team by Patrick Lencioni
+
+      1. Inattention to Results, Status and Ego
+      2. Avoidence of Accountability, Low standards
+      3. Lack of commitment, ambiguity
+      4. Fear of conflict, artificial harmony
+      5. Abscense of trust, Invulnerability
+
+  - tags: [interviews, culture, priorities, employees]
+    id: 6
+    quote: >
+      One of the things I think a lot of companies don't actually do is, they interview for technical fit or skill fit, a competency in that realm, but they don’t actually interview for the culture fit, whether someone will actually believe in and follow the mission. I think that is a big, big no no.
+
+  - tags: [culture, habit, customer service]
+    id: 7
+    quote: >
+      Everybody wants to provide great customer service, every company wants to have great culture. What they fail to do is make it a daily habit.
+
+  - tags: [interviews, culture, employees]
+    id: 6
+    quote: >
+      “When we hire people we do two sets of interviews. The hiring manager and his or her team will do the standard fit within the team, relevant experience, technical ability and so on. But then our HR department does a second set of interviews purely for culture fit.”
+
+  - tags: [culture, customer service]
+    id: 7
+    quote: >
+      “Everyone that’s hired, it doesn’t matter what position–you can be an accountant, lawyer, software developer–goes through the exact same training as our call center reps. It’s a four-week training program and then they’re actually on the phone for two weeks taking calls from customers. At the end of that first week of training we make an offer to the entire class that we’ll pay you for the time you’ve already spent training plus a bonus of $2,000 to quit and leave the company right now.”

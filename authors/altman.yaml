@@ -181,3 +181,200 @@ advise:
     id: 36
     quote: >
       If you start a company, only do so if you have an idea you’re in love with.
+
+
+
+
+
+
+
+  - tags: [hiring]
+    id: 1
+    quote: >
+      It turns out it’s both really hard and really important to hire good people; in fact, it’s probably the most important thing a founder does.
+
+  - tags: [hiring, product market fit, vision, priority]
+    id: 2
+    quote: >
+      After you figure out your vision and get product-market fit, you should probably be spending between a third and a half of your time hiring.
+
+  - tags: [hiring, first hires, ceo]
+    id: 3
+    quote: >
+      You can’t outsource this—you need to be spending time identifying people, getting potential candidates to want to work at your company, and meeting every person that comes to interview.  Keith Rabois believes the CEO/founders should interview every candidate until the company is at least 500 employees.
+
+  - tags: [hiring, first hires]
+    id: 4
+    quote: >
+      you should spend the time to learn a role before you hire for it.  If you don’t understand it, it’s very hard to get the right person.  The classic example of this is a hacker-CEO deciding to hire a VP of Sales because he doesn’t want to get his hands dirty.  This does not work.  He needs to do it himself first and learn it in detail.  Then after that, he should lean on his board or investors to give him opinions on his final few candidates.
+
+  - tags: [employees, adaptable, hiring]
+    id: 5
+    quote: >
+      Remember that in a startup, anyone you hire is likely to be doing a new job in three to six months.
+
+  - tags: [hiring, smart, effective, interviews, references]
+    id: 6
+    quote: >
+      Look for smart, effective people.
+
+      Talk to the candidates about what they’ve done.  Ask them about their most impressive projects and biggest wins.  Specifically, ask them about how they spend their time during an average day, and what they got done in the last month.  Go deep in a specific area and ask about what the candidate actually did—it’s easy to take credit for a successful project.  Ask them how they would solve a problem you are having related to the role they are interviewing for.
+
+      That, combined with the right questions when you check references, will usually give you a good feel about effectiveness.  And usually you can gauge intelligence by the end of an hour-long conversation.
+
+  - tags: [audition, interviews, hiring]
+    id: 7
+    quote: >
+      Whenever possible (and it’s almost always possible), have someone do a day or two of work with you before you hire her; you can do this at night or on the weekends.  If you’re interviewing a developer, have her write code for a real but non-critical project.  For a PR person, have her write a press release and identify reporters to pitch it to.  Just have the person sign a contractor agreement and pay them for this work like a normal contractor.
+
+  - tags: [network, hiring, candidates]
+    id: 8
+    quote: >
+       “use your personal networks more”.  By at least a 10x margin, the best candidate sources I’ve ever seen are friends and friends of friends.  Even if you don’t think you can get these people, go after the best ones relentlessly.  If it works out 5% of the time, it’s still well worth it.
+
+  - tags: [hiring, referrals, protocol]
+    id: 9
+    quote: >
+      When you hire someone, as soon as you’re sure she’s a star you should sit her down and wring out of her the names of everyone that you should try to hire.  You may have to work pretty hard at this.
+
+  - tags: [hiring, candidates, referrals]
+    id: 10
+    quote: >
+      Technical recruiters are pretty bad.  The job boards are generally worse.  Conferences can be good.  Hosting interesting tech talks can be good for technical hiring.  University recruiting works well once you’re reasonably established.
+
+      Use you investors and their networks to find candidates.  In your investor update emails, let them know what kind of people you need to hire.
+
+  - tags: [hiring, heuristics]
+    id: 11
+    quote: >
+      At Stripe, I believe they call this the Sunday test—would you be likely to come into the office on a Sunday because you want to hang out with this person?  Liking the people you work with is pretty important to the right kind of company culture.  Only a few times have I ever seen a scenario where I didn’t like an otherwise very good candidate.  I only made the hire once, and it was a mistake.
+
+  - tags: [remote employees, employees]
+    id: 12
+    quote: >
+      As a side note, avoid remote employees in the early days.  As a culture is still gelling, it’s important to have everyone in the same building.
+
+  - tags: [employees, hiring, equity, compensation]
+    id: 13
+    quote: >
+      Be generous with compensation packages, but mostly with equity.
+
+      For a company on a good but not absolute breakout trajectory, some rough numbers I’ve seen are about 1.5% for the first engineer and about 0.25% for the twentieth.  But the variance is huge.
+
+  - tags: [salary, employees, heuristics]
+    id: 14
+    quote: >
+      Incidentally, a very successful YC company has a flat salary for effectively all of their engineers, and it seems to work well.  It's lower than what these people could get elsewhere, but clearly they enjoy the work and believe the stock is going to be worth a lot.
+
+  - tags: [heuristics, hiring]
+    id: 15
+    quote: >
+      If you have a difficult-to-articulate desire to pass, pass.
+
+  - tags: [employees, hiring, priorities]
+    id: 16
+    quote: >
+      Always be recruiting.
+
+  - tags: [employees, hiring, metrics]
+    id: 17
+    quote: >
+      Make everyone on your team commit to a hire/no hire decision for everyone they meet, and write up their thoughts.  If you get it wrong, this is useful to look back at later.  It’s good to have a brief in-person discussion with the entire interviewing team after a candidate leaves.
+
+  - tags: [employees, hiring, protocol]
+    id: 18
+    quote: >
+      Have someone take the candidate out to lunch or dinner.  Insist that everyone is on time and prepared for interviews/auditions.  Make sure every candidate leaves with a positive impression of your company.
+
+      Be organized—one person should coordinate the entire interview process, make sure every topic you want to cover gets covered, convene people for the discussion after all interviews are done, etc.  Also, have a consistent framework for how you decide whether or not to hire—do you need unanimous consent?
+
+  - tags: [employees, hiring, interviews]
+    id: 19
+    quote: >
+       try to work on a project together instead of an interview, else ask about projects and referrals
+
+  - tags: [employees, hiring, interviews]
+    id: 20
+    quote: >
+      good communication skills tend to correlate with hires that work out.
+
+  - tags: [employees, firing]
+    id: 21
+    quote: >
+      Fire fast when it’s not working, If someone is getting every decision wrong, that's when you need to act,
+
+  - tags: [employees, firing]
+    id: 22
+    quote: >
+      you also wanna fire people who are a) creating office politics, and b) who are persistently negative.
+
+  - tags: [founders, equity]
+    id: 23
+    quote: >
+      Founder equity: And it should be near-equal. If you're not willing to give someone - your co-founder - you know, like an equal share of the equity, I think that should make you think hard about whether or not you want them as a co-founder. But in any case, you should try to have the ink dry on this before the company gets too far along. Like, certainly in the first number of weeks.
+
+  - tags: [employees, hiring]
+    id: 24
+    quote: >
+      If you have to choose between hiring a sub-optimal employee and losing your customers to a competitor, what do you do? If it's going to be one of the first five employees at a company I would lose those customers.
+
+  - tags: [ceo, execution]
+    id: 25
+    quote: >
+      jobs of the CEO. There are probably more than five, here are five that come up a lot in the early days. The first four everyone thinks of as CEO jobs: set the vision, raise money, evangelize the mission to people you’re trying to recruit, executives, partners, press, everybody, hire and manage the team. But the fifth one is setting the execution bar and this is not the one that most founders get excited about or envision themselves doing but I think it is actually one of the critical CEO roles and no one but the CEO can do this.
+
+  - tags: priorities
+    id: 26
+    quote: >
+      You need to figure out what the one or two most important things are, and then just do those.
+
+  - tags: priorities
+    id: 27
+    quote: >
+      You’re saying no ninety-seven times out of a hundred, and most founders find they have to make a very conscious effort to do this.
+
+  - tags: [founders, priorities]
+    id: 28
+    quote: >
+      Founders come to meetings, they come in, they meet us in person. One piece of advice that I have that’s always worked for me: they get on planes in marginal situations
+
+  - tags: [success, execution]
+    id: 29
+    quote: >
+       If every time we talk to a team they've gotten new things done, that's the best predictor we have that a company will be successful.
+
+  - tags: momentum
+    id: 30
+    quote: >
+      A winning team feels good and keeps winning. A team that hasn’t won in a while gets demotivated and keeps losing. So always keep momentum
+
+  - tags: [momentum, bad times]
+    id: 31
+    quote: >
+       A board member of mine used to say that sales fix everything in a startup. And that is really true.
+
+  - tags: [momentum, bad times]
+    id: 32
+    quote: >
+      And you have to remind people: “hey, stuff’s not working right now we don’t actually hate each other, we just need to get back on track and everything will work.”
+
+  - tags: competition
+    id: 33
+    quote: >
+       Henry Ford that I love: “The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.”
+
+  - tags: interview questions
+    id: 34
+    quote: >
+      Is this person in the top five percent of people you've ever worked with? What specifically did they do? Would you hire them again? Why aren't you trying to hire them again?
+
+
+  - tags: [philosophy, people]
+    id: 35
+    quote: >
+      No matter what you choose, build stuff and be around smart people.
+
+  - tags: [idea, idea validtion]
+    id: 36
+    quote: >
+      If you start a company, only do so if you have an idea you’re in love with.

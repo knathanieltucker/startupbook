@@ -1,0 +1,46 @@
+name: Emmett Shear
+
+description: Founder of Twitch
+tags: []
+
+advise:
+  - tags: [user, idea, idea validation]
+    id: 1
+    quote: >
+      we used a very common trick that lets you get away with not talking to users, which was that we were our own consumer.
+
+  - tags: [user interview, target users, target market]
+    id: 2
+    quote: >
+      I wish I could tell you the recipe for figuring who the target user is for your product, and who your target user should be, but there isn't a recipe. It comes down to thinking really hard and using your judgment to figure out who you are really building this for.
+
+  - tags: [user interview, features, user flow]
+    id: 3
+    quote: >
+      The main thing you're trying to do when running this first set of interviews is not necessarily ask questions about optimizing user flow.
+
+      So you want to stay as far away from features as possible because the things they tell you feel overwhelmingly real. When you have a real user asking you for a feature, it's very hard to say no to them because here's a real person who really has this problem. They're saying, "Build me this feature."
+
+      But as you start to talk to lots of people and really get a sense for what their problems are, you figure out if this is actually a promising area or not.
+
+  - tags: [user interviews, target users, user groups]
+    id: 4
+    quote: >
+      Once you've talked to about six to eight people, you are usually about done. It's unlikely you're going to discover a bunch of new information. Which is why it is important to talk to different extremes of people. Go find people who are different, because if you talk to six Stanford College students you are going to get a very different response than if you talk to six high school students or six parents.
+
+  - tags: [idea validation, product validation, validation, paid, free]
+    id: 5
+    quote: >
+      Sales is the cure-all for this problem. Get people to give you their credit card and I guarantee you they are actually interested in the feature. It's one of the most validating things that you can do for a product.
+
+  - tags: [user interviews, features, product]
+    id: 6
+    quote: >
+      The most common mistake is showing people your product. Don't show them your product. It’s like telling them about a feature. You want to learn what's already in their heads. You want avoid putting things there. The other thing is asking about your pet feature direction. If you think you want to add subscriptions to your product, going and asking people, "Would you pay for a subscription? Would you use this feature?"
+
+      Another big mistake people make is talking to who is available rather than talking to who they need to talk to.
+
+  - tags: [user interviews]
+    id: 7
+    quote: >
+      I recommend recording interviews.
