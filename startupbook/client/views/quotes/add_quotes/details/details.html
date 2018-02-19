@@ -1,0 +1,82 @@
+<template name="QuotesAddQuotesDetails">
+	<div class="page-container container" id="content">
+		<div class="row" id="title_row">
+			<div class="col-md-12">
+			</div>
+		</div>
+		{{> QuotesAddQuotesDetailsForm}}
+	</div>
+</template>
+
+<template name="QuotesAddQuotesDetailsForm">
+	<div id="quotes-add-quotes-details-form" class="">
+		<h2 id="component-title">
+			<a href="#" id="form-back-button" class="btn btn-default" title="back">
+				<span class="fa fa-chevron-left">
+				</span>
+			</a>
+			Quote Details
+		</h2>
+		<form role="form">
+			{{#if errorMessage}}
+			<div class="alert alert-warning">
+				{{errorMessage}}
+			</div>
+			{{/if}}
+
+			{{#if infoMessage}}
+			<div class="alert alert-success">
+				{{infoMessage}}
+			</div>
+			{{/if}}
+			<div class="form-group  field-quote">
+				<label for="quote">
+					Quote
+				</label>
+				<div class="input-div">
+					<p class="form-control-static  control-field-quote">
+						{{quote.quote}}
+					</p>
+				</div>
+			</div>
+			<div class="form-group  field-tags">
+				<label for="tags">
+					Tags
+				</label>
+				<div class="input-div">
+					<p class="form-control-static  control-field-tags">
+						{{quote.tags}}
+					</p>
+				</div>
+			</div>
+			<div class="form-group  field-md-id">
+				<label for="mdId">
+					Markdown ID
+				</label>
+				<div class="input-div">
+					<p class="form-control-static  control-field-md-id">
+						{{quote.mdId}}
+					</p>
+				</div>
+			</div>
+			<div class="form-group  field-author-name">
+				<label for="author.name">
+					Author
+				</label>
+				<div class="input-div">
+					<p class="form-control-static  control-field-author-name">
+						{{quote.author.name}}
+					</p>
+				</div>
+			</div>
+			<div class="form-group">
+				<div class="submit-div">
+					<a href="#" id="form-close-button" class="btn btn-primary">
+						OK
+					</a>
+				</div>
+			</div>
+		</form>
+	</div>
+</template>
+

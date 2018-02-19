@@ -1,0 +1,555 @@
+{
+	"application": {
+		"collections": [
+			{
+				"name": "authors",
+				"type": "collection",
+				"fields": [
+					{
+						"name": "name",
+						"title": "Author name",
+						"type": "string",
+						"required": true
+					},
+					{
+						"name": "authorTags",
+						"title": "Author tags",
+						"type": "array",
+						"input": "tags"
+					},
+					{
+						"name": "usedTags",
+						"title": "Tags the author uses",
+						"type": "array",
+						"input": "tags"
+					},
+					{
+						"name": "description",
+						"title": "Description of the author",
+						"type": "string"
+					}
+				]
+			},
+			{
+				"name": "quotes",
+				"type": "collection",
+				"fields": [
+					{
+						"name": "quote",
+						"title": "Quote",
+						"type": "string",
+						"required": true,
+						"searchable": false,
+						"sortable": false,
+						"input": "textarea"
+					},
+					{
+						"name": "authorId",
+						"title": "Author",
+						"type": "string",
+						"required": true,
+						"input": "select",
+						"lookup_query_name": "all_authors",
+						"lookup_key": "_id",
+						"lookup_field": "name",
+						"join_collection": "authors",
+						"join_container": "author",
+						"join_fields": [
+							"name"
+						],
+						"show_in_dataview": false,
+						"show_in_read_only_form": false
+					},
+					{
+						"name": "tags",
+						"title": "Tags",
+						"type": "array",
+						"required": true,
+						"input": "tags"
+					},
+					{
+						"name": "mdId",
+						"title": "Markdown ID",
+						"type": "integer",
+						"required": true,
+						"searchable": false
+					},
+					{
+						"name": "author.name",
+						"title": "Author",
+						"type": "string",
+						"searchable": false,
+						"show_in_insert_form": false,
+						"show_in_update_form": false
+					}
+				]
+			},
+			{
+				"name": "tags",
+				"type": "collection",
+				"fields": [
+					{
+						"name": "name",
+						"title": "Name",
+						"type": "string"
+					},
+					{
+						"name": "count",
+						"title": "Count",
+						"type": "integer"
+					}
+				]
+			}
+		],
+		"queries": [
+			{
+				"name": "all_authors",
+				"collection": "authors",
+				"filter": "{}",
+				"options": "{}"
+			},
+			{
+				"name": "author_list",
+				"collection": "authors",
+				"filter": "{}",
+				"options": "{}"
+			},
+			{
+				"name": "authors_null",
+				"collection": "authors",
+				"find_one": true,
+				"filter": "{\"_id\":null}",
+				"options": "{}"
+			},
+			{
+				"name": "author",
+				"collection": "authors",
+				"find_one": true,
+				"filter": "{\"_id\":\":authorId\"}",
+				"options": "{}"
+			},
+			{
+				"name": "author_list1",
+				"collection": "authors",
+				"filter": "{}",
+				"options": "{}"
+			},
+			{
+				"name": "authors_null1",
+				"collection": "authors",
+				"find_one": true,
+				"filter": "{\"_id\":null}",
+				"options": "{}"
+			},
+			{
+				"name": "author1",
+				"collection": "authors",
+				"find_one": true,
+				"filter": "{\"_id\":\":authorId\"}",
+				"options": "{}"
+			},
+			{
+				"name": "quote_list",
+				"collection": "quotes",
+				"filter": "{}",
+				"options": "{}"
+			},
+			{
+				"name": "quotes_null",
+				"collection": "quotes",
+				"find_one": true,
+				"filter": "{\"_id\":null}",
+				"options": "{}"
+			},
+			{
+				"name": "quote",
+				"collection": "quotes",
+				"find_one": true,
+				"filter": "{\"_id\":\":quoteId\"}",
+				"options": "{}"
+			},
+			{
+				"name": "tag_list",
+				"collection": "tags",
+				"filter": "{}",
+				"options": "{}"
+			},
+			{
+				"name": "tags_null",
+				"collection": "tags",
+				"find_one": true,
+				"filter": "{\"_id\":null}",
+				"options": "{}"
+			},
+			{
+				"name": "tag",
+				"collection": "tags",
+				"find_one": true,
+				"filter": "{\"_id\":\":tagId\"}",
+				"options": "{}"
+			}
+		],
+		"free_zone": {
+			"type": "zone",
+			"components": [
+				{
+					"name": "menu",
+					"type": "menu",
+					"items": [
+						{
+							"title": "Authors",
+							"route": "authors"
+						},
+						{
+							"title": "Quotes",
+							"route": "quotes"
+						},
+						{
+							"title": "Guide",
+							"route": "guide"
+						},
+						{
+							"title": "Tags",
+							"route": "tags"
+						}
+					],
+					"object_type": "menu"
+				}
+			],
+			"pages": [
+				{
+					"name": "authors",
+					"type": "page",
+					"components": [
+						{
+							"name": "menu",
+							"type": "menu",
+							"items": [
+								{
+									"title": "Add Authors",
+									"route": "authors.add_authors"
+								}
+							],
+							"object_type": "menu"
+						}
+					],
+					"pages": [
+						{
+							"name": "add_authors",
+							"type": "page",
+							"components": [
+								{
+									"name": "view",
+									"type": "data_view",
+									"title": "Authors",
+									"query_name": "author_list1",
+									"insert_route": "authors.add_authors.insert",
+									"details_route": "authors.add_authors.details",
+									"edit_route": "authors.add_authors.update",
+									"details_route_params": [
+										{
+											"name": "authorId",
+											"value": "this._id"
+										}
+									],
+									"edit_route_params": [
+										{
+											"name": "authorId",
+											"value": "this._id"
+										}
+									],
+									"object_type": "data_view"
+								}
+							],
+							"pages": [
+								{
+									"name": "details",
+									"type": "page",
+									"components": [
+										{
+											"name": "form",
+											"type": "form",
+											"title": "Author Details",
+											"query_name": "author1",
+											"mode": "read_only",
+											"close_route": "authors.add_authors",
+											"back_route": "authors.add_authors",
+											"object_type": "form"
+										}
+									],
+									"route_params": [
+										"authorId"
+									]
+								},
+								{
+									"name": "insert",
+									"type": "page",
+									"components": [
+										{
+											"name": "form",
+											"type": "form",
+											"title": "New Author",
+											"query_name": "authors_null1",
+											"mode": "insert",
+											"submit_route": "authors.add_authors",
+											"cancel_route": "authors.add_authors",
+											"object_type": "form"
+										}
+									]
+								},
+								{
+									"name": "update",
+									"type": "page",
+									"components": [
+										{
+											"name": "form",
+											"type": "form",
+											"title": "Edit Author",
+											"query_name": "author1",
+											"mode": "update",
+											"submit_route": "authors.add_authors",
+											"cancel_route": "authors.add_authors",
+											"object_type": "form"
+										}
+									],
+									"route_params": [
+										"authorId"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "tags",
+					"type": "page",
+					"components": [
+						{
+							"name": "view",
+							"type": "data_view",
+							"title": "Tags",
+							"query_name": "tag_list",
+							"insert_route": "tags.insert",
+							"details_route": "tags.details",
+							"edit_route": "tags.update",
+							"details_route_params": [
+								{
+									"name": "tagId",
+									"value": "this._id"
+								}
+							],
+							"edit_route_params": [
+								{
+									"name": "tagId",
+									"value": "this._id"
+								}
+							],
+							"object_type": "data_view"
+						}
+					],
+					"pages": [
+						{
+							"name": "details",
+							"type": "page",
+							"components": [
+								{
+									"name": "form",
+									"type": "form",
+									"title": "Tag Details",
+									"query_name": "tag",
+									"mode": "read_only",
+									"close_route": "tags",
+									"back_route": "tags",
+									"object_type": "form"
+								}
+							],
+							"route_params": [
+								"tagId"
+							]
+						},
+						{
+							"name": "insert",
+							"type": "page",
+							"components": [
+								{
+									"name": "form",
+									"type": "form",
+									"title": "New Tag",
+									"query_name": "tags_null",
+									"mode": "insert",
+									"submit_route": "tags",
+									"cancel_route": "tags",
+									"object_type": "form"
+								}
+							]
+						},
+						{
+							"name": "update",
+							"type": "page",
+							"components": [
+								{
+									"name": "form",
+									"type": "form",
+									"title": "Edit Tag",
+									"query_name": "tag",
+									"mode": "update",
+									"submit_route": "tags",
+									"cancel_route": "tags",
+									"object_type": "form"
+								}
+							],
+							"route_params": [
+								"tagId"
+							]
+						}
+					]
+				},
+				{
+					"name": "quotes",
+					"type": "page",
+					"components": [
+						{
+							"name": "menu",
+							"type": "menu",
+							"items": [
+								{
+									"title": "Add Quotes",
+									"route": "quotes.add_quotes"
+								},
+								{
+									"title": "View Quotes"
+								}
+							],
+							"object_type": "menu"
+						}
+					],
+					"pages": [
+						{
+							"name": "add_quotes",
+							"type": "page",
+							"components": [
+								{
+									"name": "view",
+									"type": "data_view",
+									"title": "Quotes",
+									"query_name": "quote_list",
+									"insert_route": "quotes.add_quotes.insert",
+									"details_route": "quotes.add_quotes.details",
+									"edit_route": "quotes.add_quotes.update",
+									"details_route_params": [
+										{
+											"name": "quoteId",
+											"value": "this._id"
+										}
+									],
+									"edit_route_params": [
+										{
+											"name": "quoteId",
+											"value": "this._id"
+										}
+									],
+									"object_type": "data_view"
+								}
+							],
+							"pages": [
+								{
+									"name": "details",
+									"type": "page",
+									"components": [
+										{
+											"name": "form",
+											"type": "form",
+											"title": "Quote Details",
+											"query_name": "quote",
+											"mode": "read_only",
+											"close_route": "quotes.add_quotes",
+											"back_route": "quotes.add_quotes",
+											"object_type": "form"
+										}
+									],
+									"route_params": [
+										"quoteId"
+									]
+								},
+								{
+									"name": "insert",
+									"type": "page",
+									"components": [
+										{
+											"name": "form",
+											"type": "form",
+											"title": "New Quote",
+											"query_name": "quotes_null",
+											"mode": "insert",
+											"submit_route": "quotes.add_quotes",
+											"cancel_route": "quotes.add_quotes",
+											"object_type": "form"
+										}
+									]
+								},
+								{
+									"name": "update",
+									"type": "page",
+									"components": [
+										{
+											"name": "form",
+											"type": "form",
+											"title": "Edit Quote",
+											"query_name": "quote",
+											"mode": "update",
+											"submit_route": "quotes.add_quotes",
+											"cancel_route": "quotes.add_quotes",
+											"object_type": "form"
+										}
+									],
+									"route_params": [
+										"quoteId"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "guide",
+					"type": "page",
+					"query_name": "quote_list",
+					"components": [
+						{
+							"name": "menu",
+							"type": "menu",
+							"items": [
+								{
+									"title": "Introduction",
+									"route": "guide.introduction"
+								}
+							],
+							"object_type": "menu"
+						}
+					],
+					"pages": [
+						{
+							"name": "introduction",
+							"type": "page",
+							"components": [
+								{
+									"name": "introduction",
+									"type": "markdown",
+									"source": "temp\n",
+									"object_type": "markdown"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		"server_startup_code": "import _ from 'underscore';\nimport readYaml from 'read-yaml';\nimport fs from 'fs';\n\nconst dirs = fs.readdirSync('./assets/app/authors');\n\nAuthors.remove({});\nQuotes.remove({});\nTags.remove({});\n\nlet authorQuotes;\nlet author;\nlet tags;\n_.each(dirs, (dir) => {\n  authorQuotes = readYaml.sync(`./assets/app/authors/${dir}`);\n  authorId = Authors.insert({\n    name: authorQuotes.name,\n    description: authorQuotes.description || '',\n    authorTags: authorQuotes.tags || '',\n  });\n\n  _.each(authorQuotes.advise, (quote) => {\n    Quotes.insert({\n    quote: quote.quote,\n    authorId: authorId,\n    tags: Array.isArray(quote.tags) ? quote.tags : [quote.tags],\n    mdId: quote.id,});\n    \n    \n    tags = Array.isArray(quote.tags) ? quote.tags : [quote.tags];\n    _.each(tags, (tag) => {\n      Tags.upsert({\n          name: tag\n      \t}, {\n          $setOnInsert: {\n              name: tag\n          },\n          $inc: {\n              count: 1\n          }\n      });\n\n    });\n    \n  });\n});",
+		"client_startup_code": "function fillQuote (mdId) {\n  quote = Quotes.findOne({'mdId': mdId});\n\n  fullQuote = `> ${quote.quote}`\n  fullQuote += `\\n -- <cite>${quote.author.name}</cite>, ${quote.tags}`\n\n  return fullQuote;\n}\n\nHandlebars.registerHelper('qt', fillQuote);",
+		"packages": {
+			"npm": [
+				"read-yaml"
+			]
+		}
+	}
+}
