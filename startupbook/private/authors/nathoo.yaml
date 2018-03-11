@@ -1,0 +1,99 @@
+name: Kirsty Nathoo
+
+description: Partners, Y Combinator
+tags: [legal, accounting]
+
+advise:
+  - tags: [legal, incorporation]
+    id: 1
+    quote: >
+      Delaware is in the business of forming corporations. The law there is very clear and very settled. It's the standard. The other thing is that investors are very comfortable with Delaware.
+
+  - tags: [legal]
+    id: 2
+    quote: >
+      https://www.clerky.com
+
+  - tags: [idea, equity]
+    id: 3
+    quote: >
+      The first thing that you need to know is that execution has greater value than the idea.
+
+  - tags: [equity, split, founders]
+    id: 4
+    quote: >
+      Stock allocation doesn't have to be exactly equal, but if it's very disproportionate, that's a huge read flag for us. We wonder what conversation is not happening among the Founder team when the ownership isn't equal. For example, is one Founder secretly thinking that this whole startup thing is temporary? Has one Founder overinflated the work that he or she has already done on the company? Or overinflated his or her education or prior experience? Do the founders really trust each other? Have they been honest with each other about their exceptions for the startup and for the future? When ownership is disproportionate, we worry that the founders are not in sync with one another.
+
+  - tags: [equity, split, founders]
+    id: 5
+    quote: >
+      The take away on this point: in the top YC companies, which we call those with the highest valuations, there are zero instances where the founders have a significantly disproportionate equity split.
+
+  - tags: [legal, incorporation]
+    id: 6
+    quote: >
+      The main things here are sign the paper work, sign the Stock Purchase Agreements, sign the 83(b) Election, and make sure that you actually have proof that you sent that in. If you don't have the proof it just goes into a black hole at the IRS. Investors and acquirers will walk away from a deal if you can't prove that.
+
+  - tags: [fundraising, legal]
+    id: 7
+    quote: >
+      The main point here is keep it simple. Raise your money using standard documents. Make sure that you have people who understand what they are getting into and understand what you're getting into in terms of future dilution.
+
+  - tags: [advisor, investor]
+    id: 8
+    quote: >
+      Once an investor has given your company money, that person should be a de facto adviser but without any official title and more importantly without the company having to give anything extra in return for the advice.
+
+  - tags: [legal]
+    id: 9
+    quote: >
+      Pro-rata rights are a very common request from investors. They are not necessarily a bad thing, but as a founder you absolutely need to know how pro-rata rights work. Especially because the corollary to an investor having pro-rata rights to avoid dilution is that founders typically suffer greater dilution.
+
+  - tags: [investors]
+    id: 10
+    quote: >
+      At YC we encourage companies to give monthly updates to their investors because it's a great opportunity to ask for help with introductions or help with hiring. That kind of thing. You have to be really careful about overreach. Any investor saying they want a monthly budget or weekly update, that's not ok.
+
+  - tags: [accounting]
+    id: 11
+    quote: >
+      However, it's crucial to keep the receipts so when you do engage a book keeper or a CPA to prepare your tax returns, they can figure out what are business expenses and what aren't business expenses.
+
+  - tags: [founders, employment]
+    id: 12
+    quote: >
+      The take away here is avoid problems by paying yourself. Paying your payroll taxes and thinking of your co-founders wages like a marital pre-nup.
+
+  - tags: [employee, payment, wages]
+    id: 13
+    quote: >
+      They need to be paid at least minimum wage. In San Francisco, which has a slightly higher minimum wage than California as a whole, that works out to about two thousand dollars a month. It's not a huge amount but it can add up.
+
+  - tags: [payments, wages]
+    id: 14
+    quote: >
+      This is all about the basics. You absolutely must use a payroll service provider who will look after this for you. Services like Zen Payroll are focused on startups.
+
+  - tags: [promotion, employee, manager]
+    id: 15
+    quote: >
+      Almost all good managers in Silicon Valley are promoted because of their individual performance.
+
+  - tags: [firing]
+    id: 16
+    quote: |
+      1. Fire quickly
+      2. Communicate effectively
+      3. Pay all wages immediately
+      4. Cut all digital access
+      5. Repurchase shares
+
+  - tags: [metrics]
+    id: 17
+    quote: >
+      knowing your key metrics. At any time you should know the cash position, you should know your burn rate, you should know when that cash is going to run out so you can talk to your investors.
+
+  - tags: [legal]
+    id: 17
+    quote: >
+      http://www.startupcompanylawyer.com

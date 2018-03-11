@@ -523,3 +523,141 @@ advise:
     id: 90
     quote: >
       If you have multiple founders, pick one to handle fundraising so the other(s) can keep working on the company.
+
+
+
+  - tags: [mistakes, product, users]
+    id: 82
+    quote: >
+      In a sense there's just one mistake that kills startups: not making something users want.
+
+  - tags: [founders, single founder]
+    id: 83
+    quote: >
+      What's wrong with having one founder? To start with, it's a vote of no confidence. It probably means the founder couldn't talk any of his friends into starting the company with him... Starting a startup is too hard for one person... The low points in a startup are so low that few could bear them alone.
+
+  - tags: [market, competition, beachhead]
+    id: 84
+    quote: >
+      Most of the groups that apply to Y Combinator suffer from a common problem: choosing a small, obscure niche in the hope of avoiding competition.
+
+  - tags: [ideas, problems]
+    id: 85
+    quote: >
+      Instead of starting from companies and working back to the problems they solved, look for problems and imagine the company that might solve them. [2] What do people complain about? What do you wish there was?
+
+  - tags: [vision, founding]
+    id: 86
+    quote: >
+      no one really good wants a job implementing the vision of a business guy.
+
+  - tags: [launch, users, features]
+    id: 87
+    quote: >
+      Several distinct problems manifest themselves as delays in launching: working too slowly; not truly understanding the problem; fear of having to deal with users; fear of being judged; working on too many different things; excessive perfectionism. Fortunately you can combat all of them by the simple expedient of forcing yourself to launch something fairly quickly.
+
+  - tags: [launch, mvp]
+    id: 88
+    quote: >
+      We suggest startups think about what they plan to do, identify a core that's both (a) useful on its own and (b) something that can be incrementally expanded into the whole project, and then get that done as soon as possible.
+
+  - tags: [success, problems]
+    id: 89
+    quote: >
+      the most successful startups seem to have begun by trying to solve a problem their founders had.
+
+  - tags: [users, metrics, problems]
+    id: 90
+    quote: >
+      If you found something you don't use, you should (a) consciously shift gears, instead of assuming you can rely on your intuitions as you ordinarily would, and (b) look at the instruments.
+
+  - tags: [fundraising, milestones]
+    id: 82
+    quote: >
+      So if you take money from investors, you have to take enough to get to the next step, whatever that is. We advise startups to set both low, initially: spend practically nothing, and make your initial goal simply to build a solid prototype.
+
+  - tags: [hiring, equity]
+    id: 83
+    quote: >
+      We have three general suggestions about hiring: (a) don't do it if you can avoid it, (b) pay people with equity rather than salary, not just to save money, but because you want the kind of people who are committed enough to prefer that, and (c) only hire people who are either going to write code or go out and get users, because those are the only things you need at first.
+
+  - tags: [market, competition, beachhead]
+    id: 84
+    quote: >
+      Most of the groups that apply to Y Combinator suffer from a common problem: choosing a small, obscure niche in the hope of avoiding competition.
+
+  - tags: [vc, investment, fundraising]
+    id: 85
+    quote: >
+      If you get an offer from a reputable firm at a reasonable valuation with no unusually onerous terms, just take it and get on with building the company.
+
+  - tags: [users, product market fit, tradeoffs]
+    id: 86
+    quote: >
+      The companies that win are the ones that put users first. Google, for example. They made search work, then worried about how to make money from it.
+
+  - tags: [roles, founders, users]
+    id: 87
+    quote: >
+      If you want to start a startup, you have to face the fact that you can't just hack. At least one hacker will have to spend some of the time doing business stuff.
+
+  - tags: [founders, relationship, founding team]
+    id: 88
+    quote: >
+      Most disputes are not due to the situation but the people. Which means they're inevitable. And most founders who've been burned by such disputes probably had misgivings, which they suppressed, when they started the company. Don't suppress misgivings. It's much easier to fix problems before the company is started than after.
+
+  - tags: [success, day job]
+    id: 89
+    quote: >
+      Statistically, if you want to avoid failure, it would seem like the most important thing is to quit your day job. Most founders of failed startups don't quit their day jobs, and most founders of successful ones do. If startup failure were a disease, the CDC would be issuing bulletins warning people to avoid day jobs.
+
+  - tags: [persistent, success, effort]
+    id: 90
+    quote: >
+      In other words, starting startups is just like everything else. The biggest mistake you can make is not to try hard enough. To the extent there's a secret to success, it's not to be in denial about that.
+
+
+  - tags: [tech hub, silicon valley, hackers, investors]
+    id: 82
+    quote: >
+       two kinds of people to create a technology hub: rich people and nerds
+
+  - tags: [investors]
+    id: 83
+    quote: >
+      A good investor tend to have a lot of experience themselves in the technology business. This (a) helps them pick the right startups, and (b) means they can supply advice and connections as well as money.
+
+  - tags: [market, competition, beachhead]
+    id: 84
+    quote: >
+      Most of the groups that apply to Y Combinator suffer from a common problem: choosing a small, obscure niche in the hope of avoiding competition.
+
+  - tags: [vc, investment, fundraising]
+    id: 85
+    quote: >
+      If you get an offer from a reputable firm at a reasonable valuation with no unusually onerous terms, just take it and get on with building the company.
+
+  - tags: [users, product market fit, tradeoffs]
+    id: 86
+    quote: >
+      The companies that win are the ones that put users first. Google, for example. They made search work, then worried about how to make money from it.
+
+  - tags: [roles, founders, users]
+    id: 87
+    quote: >
+      If you want to start a startup, you have to face the fact that you can't just hack. At least one hacker will have to spend some of the time doing business stuff.
+
+  - tags: [founders, relationship, founding team]
+    id: 88
+    quote: >
+      Most disputes are not due to the situation but the people. Which means they're inevitable. And most founders who've been burned by such disputes probably had misgivings, which they suppressed, when they started the company. Don't suppress misgivings. It's much easier to fix problems before the company is started than after.
+
+  - tags: [success, day job]
+    id: 89
+    quote: >
+      Statistically, if you want to avoid failure, it would seem like the most important thing is to quit your day job. Most founders of failed startups don't quit their day jobs, and most founders of successful ones do. If startup failure were a disease, the CDC would be issuing bulletins warning people to avoid day jobs.
+
+  - tags: [persistent, success, effort]
+    id: 90
+    quote: >
+      In other words, starting startups is just like everything else. The biggest mistake you can make is not to try hard enough. To the extent there's a secret to success, it's not to be in denial about that.

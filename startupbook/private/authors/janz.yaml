@@ -1,0 +1,22 @@
+name: Christoph Janz
+
+description: Internet entrepreneur turned angel investor turned micro VC.
+tags: [sales]
+
+advise:
+  - tags: [sales, users]
+    id: 1
+    quote: >
+      In order to get to 10 million active users you need roughly 100 million people who download your app or use your website.
+
+       2 ways to do this: The first one is to have a product that is inherently social and has a high viral coefficient (Instagram, Snapchat, WhatsApp). The second one is a ton of UGC (user-generated content), which leads to large amounts of SEO traffic and some level of virality. Good examples of this second option include Yelp or our portfolio company Brainly.
+
+  - tags: [sales, users]
+    id: 2
+    quote: >
+      To acquire one million consumers or prosumers who pay you roughly $100 per year, you need to get at least 10–20 million people to try your application. This is – again – a gross simplification, but I believe it’s order-of-magnitude correct. To get to 10–20 million users you almost certainly need some level of virality, too – maybe not Snapchat-like virality, but some social sharing or “powered by”-virality. Great examples of this category include Evernote and MailChimp. If you’re an eCommerce business you might be able to acquire one million customers using paid marketing, but it requires huge amounts of funding.
+
+  - tags: [sales, users]
+    id: 3
+    quote: >
+      So how can you get one million signups for less than $70 each? Most SaaS products aren’t inherently viral, there usually isn’t enough inventory to make paid advertising work at scale, and cold calling usually doesn’t work at this ARPA level. There’s no silver bullet, but the closest thing to a silver bullet is inbound marketing – besides having a fantastic product with a very high NPS (net promoter score) and being obsessively focused on funnel optimization.

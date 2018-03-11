@@ -1,0 +1,71 @@
+name: Tyler Bosmeny
+
+description: Founder and CEO, Clever
+tags: [sales]
+
+advise:
+  - tags: [sales, product]
+    id: 1
+    quote: >
+      Paul Graham likes to talk about how there's two things you should be doing at any point in time when you're starting your company. You should be either talking to your users or building your product. The talking to your users part, that's selling.
+
+  - tags: [sales]
+    id: 2
+    quote: >
+      founder you have some unique advantages that make it possible for you to be really, really good at sales. One of those is your passion for the product and what you're building. The second is your knowledge of the industry and the problem that you're solving. Those two things actually totally trump sales experience from what I've seen.
+
+  - tags: [sales, customers]
+    id: 3
+    quote: >
+      This part over here are innovators, those are your potential customers. It might seem discouraging that only 2.5 percent of
+
+  - tags: [sales, conferences]
+    id: 4
+    quote: >
+      There are three methods that I have found to be most successful in prospecting and getting these people. One is your personal network. That's obvious. I'm not going to spend any time there. Another one is conferences, which is surprising to a lot of people. The one that people are most familiar with is cold email.
+
+  - tags: [sales, email]
+    id: 5
+    quote: >
+      A lot of people don't know how to write cold emails. It's actually easy and the key is not to write a lot. Your email should be concise.
+
+      http://blog.close.io/5-cold-email-templates-that-will-generate-warm-leads-for-your-sales-team
+
+  - tags: [sales]
+    id: 6
+    quote: >
+      It turns out that if you watch the best sales people, the top one percent, or you have a chance to listen in on a call with some of those people, the most surprising thing is how little talking they do.
+
+  - tags: [sales]
+    id: 7
+    quote: >
+       You really have to have kind this unhuman and unreasonable willingness to follow up and drive things to closure.
+
+  - tags: [sales]
+    id: 8
+    quote: >
+      Your goal should be to get people to a yes or no as quickly as you can. Where you die is if you have a thousand maybes
+
+  - tags: [legal, sales]
+    id: 9
+    quote: >
+      YC has open source deal documents: http://www.ycombinator.com/documents/#sales
+
+  - tags: [sales]
+    id: 10
+    quote: >
+      Somebody telling you that they want to use your product but it's missing this one feature, I would almost map that to a pass in your mind.
+
+      If somebody says to you, "There's this one thing that's preventing us from using your product." I would do one of two things. One say, "Well that's great! Let's sign an agreement and we'll put in the agreement that we're going to build this feature." In which case, if you build it you're off to the races. More commonly, what we did at Clever was we would say, "That's great. We're going to wait to see if we hear that demand from more customers." Once you have a lot of customers requesting it, then you should build it.
+
+  - tags: [sales, free trail]
+    id: 11
+    quote: >
+      The other trap I would highly recommend you try to avoid is the free trial trap. The customer says, "Can I get a free trial?" You can't blame them that’s a totally reasonable thing to ask for. The problem is when you are starting a startup you need revenue. You need validation. You need users. You need commitment. Free trials get you none of those things.
+
+      "We don't do free trials. We do annual agreements and what we'll do is for the first 30 or 60 days, if for any reason you're not happy, you can opt out."
+
+  - tags: [sales]
+    id: 12
+    quote: >
+      https://www.saastr.com/the-best-of-saastr/
