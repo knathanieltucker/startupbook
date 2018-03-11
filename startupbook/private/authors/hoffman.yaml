@@ -10,7 +10,7 @@ advise:
       http://www.reidhoffman.org/linkedin-pitch-to-greylock/
 
 
-  - tags: [founders, skills, founding team]
+  - tags: [founders]
     id: 1
     quote: >
        If you have two or three founders, you have different skills you can compensate. Because, by the way, everyone has weaknesses. You can compensate for each others weaknesses. In the diversity of problems you encounter as a founder, you can actually attack them.
@@ -30,32 +30,32 @@ advise:
     quote: >
        you've got to be both flexible and persistent. And the reason for this is entrepreneurs are frequently given the advice to have a vision, stay firm against your adversity... The other piece of advice given with each equal vigor is listen to data, listen to customers. Pivot, be flexible. Part of the thing this comes out to be in terms of being a great founder is to say well, when should I be persistent and when should I be flexible.
 
-  - tags: [founders, greatness]
+  - tags: [founders]
     id: 5
     quote: >
         Well again, part of what being a great founder is, is being both able to hold the belief, to think about where it is you want to be doing and want to be going, but also be smart enough that you are essentially listening to criticism, negative feedback, competitive entries. Where you are going, okay is this changing my investment thesis? Is this changing what I am planning on doing?
 
-  - tags: [investment thesis, risk, data]
+  - tags: [investment thesis, risk]
     id: 6
     quote: >
        Make an investment thesis and you say is my investment thesis increasing or decreasing confidence? Do I think that the data that I get from the market, when I talk to smart people, how does that change my confidence in it? This is how you minimize risks.
 
-  - tags: [vision, tradeoffs, longterm]
+  - tags: [vision, tradeoffs]
     id: 7
     quote: >
         You should always have a long term vision in mind because if you actually completely lose your directions eventually you will find yourself somewhere in field thats not a good path out of.
 
-  - tags: [references, founder]
+  - tags: [references, founders]
     id: 8
     quote: >
       How do you know if someone is a good founder or not?  I'm a huge believer in references. I only meet with someone when they come to me through a reference.
 
-  - tags: [founding teams, founders]
+  - tags: [founders]
     id: 9
     quote: >
       do they collaborate well. Do they help each other get to truth?
 
-  - tags: [finance, investment, partnership]
+  - tags: [vc, investment]
     id: 10
     quote: >
        A successful financing process results in a partnership that delivers benefits beyond just money.
@@ -69,5 +69,3 @@ advise:
     id: 12
     quote: >
        Identify and steer into your risk factors.
-
- 

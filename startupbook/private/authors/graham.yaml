@@ -1,14 +1,14 @@
 name: Paul Graham
 
 advise:
-  - tags: [action, ideas]
+  - tags: [preparation, ideas]
     id: 1
     quote: >
       If I could go back and redo my twenties, that would be one thing I’d do more of: just try hacking things together. Like many people that age, I spent a lot of time worrying about what I should do. I also spent some time trying to build stuff. I should have spent less time worrying and more time building. If you’re not sure what to do, make something.
 
       Raymond Chandler’s advice to thriller writers was “When in doubt, have a man come through a door with a gun in his hand.” He followed that advice. Judging from his books, he was often in doubt. But though the result is occasionally cheesy, it’s never boring. In life, as in books, action is underrated.
 
-  - tags: [methodology]
+  - tags: [philosopy]
     id: 2
     quote: >
       Do things that don’t scale
@@ -52,17 +52,17 @@ advise:
        They always want to know, what are the tricks for convincing investors?
        And we have to tell them the best way to convince investors is to start a startup that is actually doing well, meaning growing fast, and then simply tell investors so.
 
-  - tags: methodology
+  - tags: philosopy
     id: 9
     quote: >
        starting a startup is where gaming the system stops working.
 
-  - tags: [investors, hacks]
+  - tags: [investors]
     id: 10
     quote: >
        The dangerous thing is, especially for you guys, the dangerous thing is that faking does work to some extent with investors.
 
-  - tags: [life, sacrifices]
+  - tags: [burnout]
     id: 11
     quote: >
       That brings us to our fourth counterintuitive point, startups are all consuming. If you start a startup, it will take over your life to a degree that you cannot imagine and if it succeeds it will take over your life for a long time;
@@ -71,11 +71,6 @@ advise:
     id: 12
     quote: >
        Tut the short version is that if you make a conscious effort to try to think of startup ideas, you will think of ideas that are not only bad but bad and plausible sounding.
-
-  - tags: [cofounders, ideas]
-    id: 13
-    quote: >
-       How do you turn your mind into the kind that has startup ideas unconsciously? One, learn about a lot of things that matter. Two, work on problems that interest you. Three, with people you like and or respect. That's the third part incidentally, is how you get cofounders at the same time as the idea.
 
   - tags: [ideas, philosophy, preparation]
     id: 14
@@ -93,18 +88,12 @@ advise:
        Do you see any value in business school for people who want to pursue entrepreneurship? Basically no.
 
 
-
-  - tags: [life, sacrifices]
-    id: 17
-    quote: >
-      That brings us to our fourth counterintuitive point, startups are all consuming. If you start a startup, it will take over your life to a degree that you cannot imagine and if it succeeds it will take over your life for a long time;
-
   - tags: ideas
     id: 18
     quote: >
        Tut the short version is that if you make a conscious effort to try to think of startup ideas, you will think of ideas that are not only bad but bad and plausible sounding.
 
-  - tags: [cofounders, ideas]
+  - tags: [founders, ideas]
     id: 19
     quote: >
        How do you turn your mind into the kind that has startup ideas unconsciously? One, learn about a lot of things that matter. Two, work on problems that interest you. Three, with people you like and or respect. That's the third part incidentally, is how you get cofounders at the same time as the idea.
@@ -183,7 +172,7 @@ advise:
 
 
 
-  - tags: [ideas, preparation, self]
+  - tags: [ideas, preparation]
     id: 32
     quote: >
        But if you're looking for startup ideas you can sacrifice some of the efficiency of taking the status quo for granted and start to question things.
@@ -195,7 +184,7 @@ advise:
     quote: >
       Just as trying to think up startup ideas tends to produce bad ones, working on things that could be dismissed as "toys" often produces good ones.
 
-  - tags: [ideas, college, preparation, self]
+  - tags: [ideas, preparation]
     id: 34
     quote: >
        That's what I'd advise college students to do, rather than trying to learn about "entrepreneurship." "Entrepreneurship" is something you learn best by doing it. The examples of the most successful founders make that clear. What you should be spending your time on in college is ratcheting yourself into the future.
@@ -206,12 +195,10 @@ advise:
     quote: >
        The clash of domains is a particularly fruitful source of ideas. If you know a lot about programming and you start learning about some other field, you'll probably see problems that software could solve. In fact, you're doubly likely to find good problems in another domain: (a) the inhabitants of that domain are not as likely as software people to have already solved their problems with software, and (b) since you come into the new domain totally ignorant, you don't even know what the status quo is to take it for granted.
 
-  - tags: [ideas, research, phd]
+  - tags: [ideas, phd, idea validation]
     id: 36
     quote: >
       Beware of research. If an undergrad writes something all his friends start using, it's quite likely to represent a good startup idea. Whereas a PhD dissertation is extremely unlikely to. For some reason, the more a project has to count as research, the less likely it is to be something that could be turned into a startup. [10] I think the reason is that the subset of ideas that count as research is so narrow that it's unlikely that a project that satisfied that constraint would also satisfy the orthogonal constraint of solving users' problems.
-
-
 
   - tags: [competitors, ideas, idea validation]
     id: 37
@@ -245,7 +232,7 @@ advise:
     quote: >
       There are a lot of stories about successful startups that began when the founders had what seemed a crazy idea but "just knew" it was promising. When you feel that about an idea you've had while trying to come up with startup ideas, you're probably mistaken.
 
-  - tags: [ideas, expertise]
+  - tags: [ideas]
     id: 42
     quote: >
       When searching for ideas, look in areas where you have some expertise. That's because your expertise raises your standards. Your ideas about chat apps are just as bad, but you're giving yourself a Dunning-Kruger pass in that domain.
@@ -255,7 +242,7 @@ advise:
 
 
 
-  - tags: [ideas, idea validation, tricks]
+  - tags: [ideas, idea validation, heuristics]
     id: 43
     quote: >
       The place to start looking for ideas is things you need. There must be things you need.
@@ -267,7 +254,7 @@ advise:
     quote: >
        If you're changing ideas, one unusual thing about you is the idea you'd previously been working on. Did you discover any needs while working on it? Several well-known startups began this way. Hotmail began as something its founders wrote to talk about their previous startup idea while they were working at their day jobs.
 
-  - tags: [user interview, ideas, idea validation]
+  - tags: [user interviews, ideas, idea validation]
     id: 45
     quote: >
        Try talking to everyone you can about the gaps they find in the world. What's missing? What would they like to do that they can't? What's tedious or annoying, particularly in their work? Let the conversation get general; don't be trying too hard to find startup ideas. You're just looking for something to spark a thought
@@ -281,11 +268,6 @@ advise:
     id: 47
     quote: >
       There are a lot of stories about successful startups that began when the founders had what seemed a crazy idea but "just knew" it was promising. When you feel that about an idea you've had while trying to come up with startup ideas, you're probably mistaken.
-
-  - tags: [ideas, expertise]
-    id: 48
-    quote: >
-      When searching for ideas, look in areas where you have some expertise. That's because your expertise raises your standards. Your ideas about chat apps are just as bad, but you're giving yourself a Dunning-Kruger pass in that domain.
 
 
 
@@ -306,7 +288,7 @@ advise:
     quote: >
        Your first users should feel that signing up with you was one of the best choices they ever made. And you in turn should be racking your brains to think of new ways to delight them.
 
-  - tags: [execution, quality]
+  - tags: [quality]
     id: 52
     quote: >
       one should focus on quality of execution to a degree that in everyday life would be considered pathological.
@@ -327,12 +309,12 @@ advise:
     quote: >
       Sometimes we advise founders of B2B startups to take over-engagement to an extreme, and to pick a single user and act as if they were consultants building something just for that one user.
 
-  - tags: [partnerships, first users]
+  - tags: [first users]
     id: 56
     quote: >
       Partnerships too usually don't work. They don't work for startups in general, but they especially don't work as a way to get growth started.
 
-  - tags: [users, first users, launches]
+  - tags: [users, first users]
     id: 57
     quote: >
        It's easy to see how little launches matter. Think of some successful startups. How many of their launches do you remember? All you need from a launch is some initial core of users.
@@ -346,12 +328,6 @@ advise:
     id: 59
     quote: >
       There are a lot of stories about successful startups that began when the founders had what seemed a crazy idea but "just knew" it was promising. When you feel that about an idea you've had while trying to come up with startup ideas, you're probably mistaken.
-
-  - tags: [ideas, expertise]
-    id: 60
-    quote: >
-      When searching for ideas, look in areas where you have some expertise. That's because your expertise raises your standards. Your ideas about chat apps are just as bad, but you're giving yourself a Dunning-Kruger pass in that domain.
-
 
 
 
@@ -386,7 +362,7 @@ advise:
     quote: >
       A good growth rate during YC is 5-7% a week. If you can hit 10% a week you're doing exceptionally well. If you can only manage 1%, it's a sign you haven't yet figured out what you're doing.
 
-  - tags: [growth, exceptional]
+  - tags: [growth]
     id: 66
     quote: >
       A company that grows at 1% a week will grow 1.7x a year, whereas a company that grows at 5% a week will grow 12.6x. A company making $1000 a month (a typical number early in YC) and growing at 1% a week will 4 years later be making $7900 a month, which is less than a good programmer makes in salary in Silicon Valley. A startup that grows at 5% a week will in 4 years be making $25 million a month.
@@ -418,7 +394,7 @@ advise:
     quote: >
       Most are interested in you if you seem like you have a chance, however small, of being one of the 15 big successes, and otherwise not.
 
-  - tags: [success, founders, market, evidence]
+  - tags: [success, founders, market, traction]
     id: 71
     quote: >
       How do you seem like you'll be one of the big successes? You need three things: formidable founders, a promising market, and (usually) some evidence of success so far.
@@ -428,12 +404,12 @@ advise:
     quote: >
       Convince yourself that your startup is worth investing in, and then when you explain this to investors they'll believe you.
 
-  - tags: [tam, market, beachhead]
+  - tags: [market, beachhead]
     id: 73
     quote: >
       Your target market has to be big, and it also has to be capturable by you.
 
-  - tags: [negotiation, vc, rejections]
+  - tags: [vc, fundraising]
     id: 74
     quote: >
       You are asked whether other vc's are on board:
@@ -452,7 +428,7 @@ advise:
     quote: >
       If you get cold-emailed by an associate at a VC firm, you shouldn't meet even if you are in fundraising mode. Deals don't happen that way.
 
-  - tags: [vc, intros]
+  - tags: [vc]
     id: 77
     quote: >
       Intros vary greatly in effectiveness. The best type of intro is from a well-known investor who has just invested in you. So when you get an investor to commit, ask them to introduce you to other investors they respect. [7] The next best type of intro is from a founder of a company they've funded. You can also get intros from other people in the startup community, like lawyers and reporters.
@@ -477,24 +453,24 @@ advise:
     quote: >
       Never leave a meeting with an investor without asking what happens next.
 
-  - tags: [vc, lead, fundraising]
+  - tags: [vc, fundraising]
     id: 82
     quote: >
       When you first start fundraising, the expected value of an investor who won't "lead" is zero, so talk to such investors last if at all.
 
-  - tags: [employees, cost, price, burn rate]
+  - tags: [employees, scrappy]
     id: 83
     quote: >
       In most startups, nearly all the costs are a function of the number of people, and $15k per month is the conventional total cost (including benefits and even office space) per person.
 
-  - tags: [fundraising, estimates]
+  - tags: [fundraising]
     id: 84
     quote: >
       Though you can focus on different plans when talking to different types of investors, you should on the whole err on the side of underestimating the amount you hope to raise.
 
       For example, if you'd like to raise $500k, it's better to say initially that you're trying to raise $250k. Then when you reach $150k you're more than half done. That sends two useful signals to investors: that you're doing well, and that they have to decide quickly because you're running out of room. Whereas if you'd said you were raising $500k, you'd be less than a third done at $150k.
 
-  - tags: [fundraising, ramen profitability]
+  - tags: [fundraising, scrappy]
     id: 85
     quote: >
       There are almost two distinct modes of fundraising: one in which founders who need money knock on doors seeking it, knowing that otherwise the company will die or at the very least people will have to be fired, and one in which founders who don't need money take some to grow faster than they could merely on their own revenues. To emphasize the distinction I'm going to name them: type A fundraising is when you don't need money, and type B fundraising is when you do.
@@ -509,7 +485,7 @@ advise:
     quote: >
       Occasionally you'll encounter investors who describe themselves as "valuation sensitive." What this means in practice is that they are compulsive negotiators who will suck up a lot of your time trying to push your price down. You should therefore never approach such investors first. While you shouldn't chase high valuations, you also don't want your valuation to be set artificially low because the first investor who committed happened to be a compulsive negotiator.
 
-  - tags: [fundraising, offers]
+  - tags: [fundraising]
     id: 88
     quote: >
       A greedy algorithm takes the best of the options in front of it right now. And that is how startups should approach fundraising in phases 2 and later. Don't try to look into the future because (a) the future is unpredictable, and indeed in this business you're often being deliberately misled about it and (b) your first priority in fundraising should be to get it finished and get back to work anyway.
@@ -526,7 +502,7 @@ advise:
 
 
 
-  - tags: [mistakes, product, users]
+  - tags: [product, users]
     id: 82
     quote: >
       In a sense there's just one mistake that kills startups: not making something users want.
@@ -536,17 +512,12 @@ advise:
     quote: >
       What's wrong with having one founder? To start with, it's a vote of no confidence. It probably means the founder couldn't talk any of his friends into starting the company with him... Starting a startup is too hard for one person... The low points in a startup are so low that few could bear them alone.
 
-  - tags: [market, competition, beachhead]
-    id: 84
-    quote: >
-      Most of the groups that apply to Y Combinator suffer from a common problem: choosing a small, obscure niche in the hope of avoiding competition.
-
-  - tags: [ideas, problems]
+  - tags: [ideas]
     id: 85
     quote: >
       Instead of starting from companies and working back to the problems they solved, look for problems and imagine the company that might solve them. [2] What do people complain about? What do you wish there was?
 
-  - tags: [vision, founding]
+  - tags: [vision, founders]
     id: 86
     quote: >
       no one really good wants a job implementing the vision of a business guy.
@@ -561,12 +532,12 @@ advise:
     quote: >
       We suggest startups think about what they plan to do, identify a core that's both (a) useful on its own and (b) something that can be incrementally expanded into the whole project, and then get that done as soon as possible.
 
-  - tags: [success, problems]
+  - tags: [success, idea validation, founders]
     id: 89
     quote: >
       the most successful startups seem to have begun by trying to solve a problem their founders had.
 
-  - tags: [users, metrics, problems]
+  - tags: [users, metrics, idea validation]
     id: 90
     quote: >
       If you found something you don't use, you should (a) consciously shift gears, instead of assuming you can rely on your intuitions as you ordinarily would, and (b) look at the instruments.
@@ -581,43 +552,24 @@ advise:
     quote: >
       We have three general suggestions about hiring: (a) don't do it if you can avoid it, (b) pay people with equity rather than salary, not just to save money, but because you want the kind of people who are committed enough to prefer that, and (c) only hire people who are either going to write code or go out and get users, because those are the only things you need at first.
 
-  - tags: [market, competition, beachhead]
-    id: 84
-    quote: >
-      Most of the groups that apply to Y Combinator suffer from a common problem: choosing a small, obscure niche in the hope of avoiding competition.
 
   - tags: [vc, investment, fundraising]
     id: 85
     quote: >
       If you get an offer from a reputable firm at a reasonable valuation with no unusually onerous terms, just take it and get on with building the company.
 
-  - tags: [users, product market fit, tradeoffs]
-    id: 86
-    quote: >
-      The companies that win are the ones that put users first. Google, for example. They made search work, then worried about how to make money from it.
-
   - tags: [roles, founders, users]
     id: 87
     quote: >
       If you want to start a startup, you have to face the fact that you can't just hack. At least one hacker will have to spend some of the time doing business stuff.
 
-  - tags: [founders, relationship, founding team]
-    id: 88
-    quote: >
-      Most disputes are not due to the situation but the people. Which means they're inevitable. And most founders who've been burned by such disputes probably had misgivings, which they suppressed, when they started the company. Don't suppress misgivings. It's much easier to fix problems before the company is started than after.
-
-  - tags: [success, day job]
+  - tags: [success, founders, preparation]
     id: 89
     quote: >
       Statistically, if you want to avoid failure, it would seem like the most important thing is to quit your day job. Most founders of failed startups don't quit their day jobs, and most founders of successful ones do. If startup failure were a disease, the CDC would be issuing bulletins warning people to avoid day jobs.
 
-  - tags: [persistent, success, effort]
-    id: 90
-    quote: >
-      In other words, starting startups is just like everything else. The biggest mistake you can make is not to try hard enough. To the extent there's a secret to success, it's not to be in denial about that.
 
-
-  - tags: [tech hub, silicon valley, hackers, investors]
+  - tags: [technology, investors]
     id: 82
     quote: >
        two kinds of people to create a technology hub: rich people and nerds
@@ -642,22 +594,12 @@ advise:
     quote: >
       The companies that win are the ones that put users first. Google, for example. They made search work, then worried about how to make money from it.
 
-  - tags: [roles, founders, users]
-    id: 87
-    quote: >
-      If you want to start a startup, you have to face the fact that you can't just hack. At least one hacker will have to spend some of the time doing business stuff.
-
-  - tags: [founders, relationship, founding team]
+  - tags: [founders]
     id: 88
     quote: >
       Most disputes are not due to the situation but the people. Which means they're inevitable. And most founders who've been burned by such disputes probably had misgivings, which they suppressed, when they started the company. Don't suppress misgivings. It's much easier to fix problems before the company is started than after.
 
-  - tags: [success, day job]
-    id: 89
-    quote: >
-      Statistically, if you want to avoid failure, it would seem like the most important thing is to quit your day job. Most founders of failed startups don't quit their day jobs, and most founders of successful ones do. If startup failure were a disease, the CDC would be issuing bulletins warning people to avoid day jobs.
-
-  - tags: [persistent, success, effort]
+  - tags: [success]
     id: 90
     quote: >
       In other words, starting startups is just like everything else. The biggest mistake you can make is not to try hard enough. To the extent there's a secret to success, it's not to be in denial about that.

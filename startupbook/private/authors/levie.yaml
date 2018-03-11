@@ -4,7 +4,7 @@ description: Founder of Box
 tags: [enterprise]
 
 advise:
-  - tags: [enterprise, consumer, juncture, features]
+  - tags: [enterprise, features]
     id: 1
     quote: >
        So for consumers, what we were running into was we had all these features you could pay for but a lot of consumers didn't need all those features. And for enterprises, we really didn't have enough securities and we didn't have enough capabilities around how enterprises want to use their data. So we had more than what a consumer needed and not enough that an enterprise needed. So we found ourselves at the juncture.
@@ -14,7 +14,7 @@ advise:
     quote: >
        But in enterprise, its not about them trying to save money on IT.They are either trying to increase productivity, they are trying to increase business.
 
-  - tags: [enterprise, shifts, changes, cloud]
+  - tags: [enterprise, cloud]
     id: 3
     quote: >
        The first is that most application companies are moving to the cloud.
@@ -24,7 +24,7 @@ advise:
     quote: >
       So the first one is spot technology disruptions.
 
-  - tags: [enterprise, idea, beachhead, market, product, initial product]
+  - tags: [enterprise, idea, beachhead, market, product, product validation]
     id: 5
     quote: >
       The next thing is, in enterprise, you want to start intentionally small. What I mean by that is you want to find, this is more true with all companies in an enterprise in a user light paradigm, you want to find the wedge that is sort of natural that you can create a product that will slip in the gaps of other existing products. But something that you think over time expands to be a more important product of the enterprise structure.
@@ -34,12 +34,12 @@ advise:
     quote: >
       Then next you really want to find asymmetries. You want to do things that incumbents can't or won't do because either the economics don't make sense for them, the economics are so unusual, or because technically they can't.
 
-  - tags: [enterprise, idea, first users, early adopters]
+  - tags: [enterprise, idea, first users]
     id: 7
     quote: >
       The next is you want to find the mostly crazy, but still reasonable outliers within the customer ecosystem. So you need to find the customers that are at the edge of the business, their business model, their industry and find the unique characteristics of those customers. Leverage them as your early adopters.
 
-  - tags: [features, customers, feedback]
+  - tags: [features, users, feedback]
     id: 8
     quote: >
       Listen to your customers but don't always build exactly what they are telling you

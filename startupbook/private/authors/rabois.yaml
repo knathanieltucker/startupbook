@@ -4,12 +4,12 @@ description: Partner, Khosla Ventures (aka I can walk into a company office and 
 tags: []
 
 advise:
-  - tags: [product, company, people, company building, team]
+  - tags: [product, company, people]
     id: 1
     quote: >
       You have been forging a product and now you are forging a company. And I would actually argue, forging a company is a lot harder than forging a product. Basic reason is people are irrational.
 
-  - tags: [management, company, company building]
+  - tags: [management, company]
     id: 2
     quote: >
        As Warren Buffett says, build a company that idiots could run because eventually they will.
@@ -19,19 +19,19 @@ advise:
     quote: >
       So at first, when you start a company everything is going to feel like a mess. And it really should. If you have too much process, too much predictability, you are probably not innovating fast enough and creatively enough.
 
-  - tags: [metaphor, idea]
+  - tags: [ceo]
     id: 4
     quote: >
       The best metaphor for the CEO position is an editor:
 
-  - tags: [simplicity, ceo, editing]
+  - tags: [ceo]
     id: 5
     quote: >
        Basically eliminating things, the biggest task of an editor (CEO) is to simplify, simplify, simplify and that usually means omitting things.
 
-      So you have to distill it down to one, two, or three things and use a framework they can repeat, they can repeat without thinking about, they can repeat to their friends, they can repeat at night.
+       So you have to distill it down to one, two, or three things and use a framework they can repeat, they can repeat without thinking about, they can repeat to their friends, they can repeat at night.
 
-  - tags: [ceo, simplicity, questions, resource allocation]
+  - tags: [ceo, resource allocation]
     id: 6
     quote: |
       Things CEOs do:
@@ -43,32 +43,32 @@ advise:
       5. delegating
       6. edit the team
 
-  - tags: [ceo, delegating]
+  - tags: [ceo, delegate]
     id: 7
     quote: >
       task relevant maturity. It's a fancy phrase for, has this person ever done this before? It's really simple, how mature is this person in doing something? And the more they have done the exact same task before, the more rope you are going to give them. And the more they are trying something new, the more you are going to instruct them and constantly monitor.
 
-  - tags: [ceo, management, micromanager]
+  - tags: [ceo, management]
     id: 8
     quote: >
       any CEO, should not have one management style. Your management style should be dictated by your employee. So with one particular person, you may be very much a micromanager because they are quite low maturity. And with another person,, you may be delegating a lot because they are quite mature.
 
-  - tags: [delegate, confidence, ceo]
+  - tags: [delegate, ceo]
     id: 9
     quote: >
       where there is low consequence and you have very low confidence in your own opinion, you should absolutely delegate. And delegate completely, let people make mistakes and learn. On the other side, obviously where the consequences are dramatic and you have extremely high conviction that you are right, you actually can't let your junior colleague make a mistake
 
-  - tags: [promotion, employee]
+  - tags: [promotion, employees]
     id: 10
     quote: >
       And that's actually what you want to do with every since employee, every single day, is expand the scope of responsibilities until it breaks. And it will break, everybody, I couldn't run the world, everybody has some level of complexity that they can handle. And what you want to do is keep expanding it until you see where it breaks and that's the role they should stay in. That level of sophistication. But some people will surprise you. There will be some people that you do not expect. With different backgrounds, without a lot of experience that can just handle enormously complicated tasks. So keep testing that and pushing the envelope.
 
-  - tags: [roles, responsibilities]
+  - tags: [roles]
     id: 11
     quote: >
       I learned from Peter Thiel actually. He used to insist at PayPal that every single person could only do exactly one thing
 
-  - tags: [tools, dashboard, scale]
+  - tags: [tools, scale]
     id: 12
     quote: >
       You have to create tools that enable people to make decisions at the same level you would make them yourself. So how do you create scale and leverage? The first thing I would recommend is to build a dashboard.
@@ -78,12 +78,12 @@ advise:
     quote: >
       Measure the right thing and look for anomalies
 
-  - tags: [details, excellence, focus]
+  - tags: [details, success]
     id: 14
     quote: >
       And the basic point of the book is that if you get all the details right, you don't worry about how to build a billion dollar business, you don't worry about how to have a billion dollars in revenue, you don't worry about having a billion users. Thats a byproduct of what you do everyday to get the details excellent.
 
-  - tags: [promotion, employee, manager]
+  - tags: [promotion, employees, management]
     id: 15
     quote: >
       Almost all good managers in Silicon Valley are promoted because of their individual performance.
@@ -93,7 +93,7 @@ advise:
     quote: >
       So the canonical advice sounds obvious but was radical back in 1982 when Andy wrote his book, is to have a one on one roughly every two weeks. Some people say every week, but I wouldn't go longer than two weeks. Every week can be ideal in many companies. The reason why there is another adage, you should only have five to seven direct reports.
 
-  - tags: [culture, decisions, promote]
+  - tags: [culture, decisions, promotion]
     id: 17
     quote: >
        And the key to culture is it's a framework for making decisions. And if it's baked into your culture, people learn how to make decisions across that culture without you ever saying anything. You never have to really do anything except watch and promote and move people around.

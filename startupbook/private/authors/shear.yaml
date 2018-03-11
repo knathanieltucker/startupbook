@@ -4,17 +4,17 @@ description: Founder of Twitch
 tags: []
 
 advise:
-  - tags: [user, idea, idea validation]
+  - tags: [users, idea, idea validation]
     id: 1
     quote: >
       we used a very common trick that lets you get away with not talking to users, which was that we were our own consumer.
 
-  - tags: [user interview, target users, target market]
+  - tags: [user interviews, users, market]
     id: 2
     quote: >
       I wish I could tell you the recipe for figuring who the target user is for your product, and who your target user should be, but there isn't a recipe. It comes down to thinking really hard and using your judgment to figure out who you are really building this for.
 
-  - tags: [user interview, features, user flow]
+  - tags: [user interviews, features]
     id: 3
     quote: >
       The main thing you're trying to do when running this first set of interviews is not necessarily ask questions about optimizing user flow.
@@ -23,12 +23,12 @@ advise:
 
       But as you start to talk to lots of people and really get a sense for what their problems are, you figure out if this is actually a promising area or not.
 
-  - tags: [user interviews, target users, user groups]
+  - tags: [user interviews, users]
     id: 4
     quote: >
       Once you've talked to about six to eight people, you are usually about done. It's unlikely you're going to discover a bunch of new information. Which is why it is important to talk to different extremes of people. Go find people who are different, because if you talk to six Stanford College students you are going to get a very different response than if you talk to six high school students or six parents.
 
-  - tags: [idea validation, product validation, validation, paid, free]
+  - tags: [idea validation, product validation, free]
     id: 5
     quote: >
       Sales is the cure-all for this problem. Get people to give you their credit card and I guarantee you they are actually interested in the feature. It's one of the most validating things that you can do for a product.

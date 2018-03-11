@@ -4,7 +4,7 @@ description: Founders of Stripe
 tags: [culture]
 
 advise:
-  - tags: [culture, hire, employees, communication, celebrate, punish]
+  - tags: [culture, hiring, employees]
     id: 1
     quote: >
        what are the core pieces of culture that you found to be the most important in building out your companies?
@@ -26,19 +26,19 @@ advise:
     quote: >
       The first ten hires is really hard, because you're making these first ten hires at a point where no one's heard of this company before. Nobody wants to work with you. You are these two weird people working on this weird idea. Their friends are telling them not to join.
 
-  - tags: [hiring, talent]
+  - tags: [hiring]
     id: 5
     quote: >
       The other interesting thing they had in common, they were all really early in their career or undervalued in some way.
 
       you can either relax the fact that they are talented, or relax the fact that it's apparent that they are talented
 
-  - tags: [finish, employees, hiring]
+  - tags: [employees, hiring]
     id: 6
     quote: >
       Great employees are: They are generally people who like to get things finished. There are a lot of people who are really excited about tons of things. Only some of those are excited about completing things.
 
-  - tags: [pitch, hire, preparation]
+  - tags: [pitch, hiring, preparation]
     id: 7
     quote: >
       really important to have a great elevator pitch, not just for investors but because everyone that you run into right now is six months to a year down the road a recruit.
@@ -48,7 +48,7 @@ advise:
     quote: >
       a bunch of our friends started companies right out of school. And we started thinking, what goes wrong in those companies? And I think the most common failure mode was doing something overly niche, overly specific or bad. I think there is a major shift in time horizon as you go from classes to a startup. A class plays out on a quarter, or a semester, where a startup is a five or ten year thing. And I think this is really problematic, because it's really quite hard to hire people for niche things.
 
-  - tags: [feedback, move fast, employees, new hires]
+  - tags: [feedback, move fast, employees, onboarding]
     id: 9
     quote: >
       I think there are two things that are important at any stage for employees:
@@ -57,14 +57,14 @@ advise:
 
       Then second, we try to quickly give people feedback.
 
-  - tags: [planning, heuristics]
+  - tags: [plan, heuristics]
     id: 10
     quote: >
         The more time that goes by, I feel that has a reciprocal in the time horizons.
 
         In one year, you are thinking a year ahead. After four years you are thinking four years ahead.
 
-  - tags: [culture, work life balance]
+  - tags: [culture, burnout]
     id: 11
     quote: >
       Every startup thinks they worked more insane hours than the next one back in the early days. It's like we literally never slept for two years. I think realistically for most people, it's not that big of a sacrifice. I think on average, people work on average two hours more a day. It is a sacrifice but it is not forgoing all pleasure and enjoyment for the next half decade.

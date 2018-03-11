@@ -1,12 +1,12 @@
 name: Sam Altman
 
 advise:
-  - tags: starting
+  - tags: [idea, idea validation]
     id: 1
     quote: >
       Wait to start a startup until you come up with an idea you feel compelled to explore.
 
-  - tags: starting
+  - tags: [idea, idea validation]
     id: 2
     quote: >
       You’ll get more support on a hard important project than a derivative one
@@ -31,7 +31,7 @@ advise:
     quote: >
       we tell founders to work on their product, talk to users, exercise, eat and sleep, and very little else.
 
-  - tags: measures
+  - tags: metrics
     id: 7
     quote: >
       Word of mouth as a measure of success
@@ -41,12 +41,12 @@ advise:
     quote: >
       Start with something simple - start with as little surface areas as possible
 
-  - tags: measures
+  - tags: metrics
     id: 9
     quote: >
       the company will build whatever the CEO decides to measure.
 
-  - tags: [product, measures, growth]
+  - tags: [product, metrics, growth]
     id: 10
     quote: >
       Startups live on growth, its the indicator of a great product.
@@ -56,7 +56,7 @@ advise:
     quote: >
       http://blog.samaltman.com/employee-equity
 
-  - tags: founding
+  - tags: [founders]
     id: 12
     quote: >
       Software people should really be starting software companies
@@ -66,7 +66,7 @@ advise:
     quote: >
       How to hire: try not to
 
-  - tags: [hiring, joining a startup]
+  - tags: [hiring]
     id: 14
     quote: >
       Join a rocketship
@@ -76,12 +76,12 @@ advise:
     quote: >
       A friend of mine has a sign up in the conference room that he uses for interviews and he positions the sign that the candidate is looking at it during the interview and it says that mediocre engineers do not build great companies.
 
-  - tags: [employees, hiring, network]
+  - tags: [employees, hiring, personal network]
     id: 16
     quote: >
       The best source for hiring by far is people that you already know and people that other employees in the company already know.
 
-  - tags: [employees, hiring, experience]
+  - tags: [employees, hiring]
     id: 17
     quote: >
       When you're hiring someone that is going to run a large part of your organization experience probably matters a lot. For most of the early hires that you make at a startup, experience probably doesn't matter that much and you should go for aptitude and belief in what you’re doing.
@@ -91,10 +91,6 @@ advise:
     quote: >
       There are three things I look for in a hire. Are they smart? Do they get things done? Do I want to spend a lot of time around them?
 
-  - tags: [employees, hiring, interviews]
-    id: 19
-    quote: >
-       try to work on a project together instead of an interview, else ask about projects and referrals
 
   - tags: [employees, hiring, interviews]
     id: 20
@@ -121,7 +117,7 @@ advise:
     quote: >
       If you have to choose between hiring a sub-optimal employee and losing your customers to a competitor, what do you do? If it's going to be one of the first five employees at a company I would lose those customers.
 
-  - tags: [ceo, execution]
+  - tags: [ceo]
     id: 25
     quote: >
       jobs of the CEO. There are probably more than five, here are five that come up a lot in the early days. The first four everyone thinks of as CEO jobs: set the vision, raise money, evangelize the mission to people you’re trying to recruit, executives, partners, press, everybody, hire and manage the team. But the fifth one is setting the execution bar and this is not the one that most founders get excited about or envision themselves doing but I think it is actually one of the critical CEO roles and no one but the CEO can do this.
@@ -141,43 +137,18 @@ advise:
     quote: >
       Founders come to meetings, they come in, they meet us in person. One piece of advice that I have that’s always worked for me: they get on planes in marginal situations
 
-  - tags: [success, execution]
-    id: 29
-    quote: >
-       If every time we talk to a team they've gotten new things done, that's the best predictor we have that a company will be successful.
-
   - tags: momentum
     id: 30
     quote: >
       A winning team feels good and keeps winning. A team that hasn’t won in a while gets demotivated and keeps losing. So always keep momentum
-
-  - tags: [momentum, bad times]
-    id: 31
-    quote: >
-       A board member of mine used to say that sales fix everything in a startup. And that is really true.
-
-  - tags: [momentum, bad times]
-    id: 32
-    quote: >
-      And you have to remind people: “hey, stuff’s not working right now we don’t actually hate each other, we just need to get back on track and everything will work.”
 
   - tags: competition
     id: 33
     quote: >
        Henry Ford that I love: “The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.”
 
-  - tags: interview questions
-    id: 34
-    quote: >
-      Is this person in the top five percent of people you've ever worked with? What specifically did they do? Would you hire them again? Why aren't you trying to hire them again?
 
-
-  - tags: [philosophy, people]
-    id: 35
-    quote: >
-      No matter what you choose, build stuff and be around smart people.
-
-  - tags: [idea, idea validtion]
+  - tags: [idea, idea validation]
     id: 36
     quote: >
       If you start a company, only do so if you have an idea you’re in love with.
@@ -193,7 +164,7 @@ advise:
     quote: >
       It turns out it’s both really hard and really important to hire good people; in fact, it’s probably the most important thing a founder does.
 
-  - tags: [hiring, product market fit, vision, priority]
+  - tags: [hiring, product market fit, vision, priorities]
     id: 38
     quote: >
       After you figure out your vision and get product-market fit, you should probably be spending between a third and a half of your time hiring.
@@ -208,12 +179,12 @@ advise:
     quote: >
       you should spend the time to learn a role before you hire for it.  If you don’t understand it, it’s very hard to get the right person.  The classic example of this is a hacker-CEO deciding to hire a VP of Sales because he doesn’t want to get his hands dirty.  This does not work.  He needs to do it himself first and learn it in detail.  Then after that, he should lean on his board or investors to give him opinions on his final few candidates.
 
-  - tags: [employees, adaptable, hiring]
+  - tags: [employees, hiring]
     id: 41
     quote: >
       Remember that in a startup, anyone you hire is likely to be doing a new job in three to six months.
 
-  - tags: [hiring, smart, effective, interviews, references]
+  - tags: [hiring, interviews, references]
     id: 42
     quote: >
       Look for smart, effective people.
@@ -222,12 +193,12 @@ advise:
 
       That, combined with the right questions when you check references, will usually give you a good feel about effectiveness.  And usually you can gauge intelligence by the end of an hour-long conversation.
 
-  - tags: [audition, interviews, hiring]
+  - tags: [interviews, hiring]
     id: 43
     quote: >
       Whenever possible (and it’s almost always possible), have someone do a day or two of work with you before you hire her; you can do this at night or on the weekends.  If you’re interviewing a developer, have her write code for a real but non-critical project.  For a PR person, have her write a press release and identify reporters to pitch it to.  Just have the person sign a contractor agreement and pay them for this work like a normal contractor.
 
-  - tags: [network, hiring, candidates]
+  - tags: [personal network, hiring]
     id: 44
     quote: >
        “use your personal networks more”.  By at least a 10x margin, the best candidate sources I’ve ever seen are friends and friends of friends.  Even if you don’t think you can get these people, go after the best ones relentlessly.  If it works out 5% of the time, it’s still well worth it.
@@ -237,7 +208,7 @@ advise:
     quote: >
       When you hire someone, as soon as you’re sure she’s a star you should sit her down and wring out of her the names of everyone that you should try to hire.  You may have to work pretty hard at this.
 
-  - tags: [hiring, candidates, referrals]
+  - tags: [hiring, referrals]
     id: 46
     quote: >
       Technical recruiters are pretty bad.  The job boards are generally worse.  Conferences can be good.  Hosting interesting tech talks can be good for technical hiring.  University recruiting works well once you’re reasonably established.
@@ -261,7 +232,7 @@ advise:
 
       For a company on a good but not absolute breakout trajectory, some rough numbers I’ve seen are about 1.5% for the first engineer and about 0.25% for the twentieth.  But the variance is huge.
 
-  - tags: [salary, employees, heuristics]
+  - tags: [compensation, employees, heuristics]
     id: 50
     quote: >
       Incidentally, a very successful YC company has a flat salary for effectively all of their engineers, and it seems to work well.  It's lower than what these people could get elsewhere, but clearly they enjoy the work and believe the stock is going to be worth a lot.
@@ -289,11 +260,6 @@ advise:
       Be organized—one person should coordinate the entire interview process, make sure every topic you want to cover gets covered, convene people for the discussion after all interviews are done, etc.  Also, have a consistent framework for how you decide whether or not to hire—do you need unanimous consent?
 
   - tags: [employees, hiring, interviews]
-    id: 55
-    quote: >
-       try to work on a project together instead of an interview, else ask about projects and referrals
-
-  - tags: [employees, hiring, interviews]
     id: 56
     quote: >
       good communication skills tend to correlate with hires that work out.
@@ -318,11 +284,6 @@ advise:
     quote: >
       If you have to choose between hiring a sub-optimal employee and losing your customers to a competitor, what do you do? If it's going to be one of the first five employees at a company I would lose those customers.
 
-  - tags: [ceo, execution]
-    id: 61
-    quote: >
-      jobs of the CEO. There are probably more than five, here are five that come up a lot in the early days. The first four everyone thinks of as CEO jobs: set the vision, raise money, evangelize the mission to people you’re trying to recruit, executives, partners, press, everybody, hire and manage the team. But the fifth one is setting the execution bar and this is not the one that most founders get excited about or envision themselves doing but I think it is actually one of the critical CEO roles and no one but the CEO can do this.
-
   - tags: priorities
     id: 62
     quote: >
@@ -338,32 +299,22 @@ advise:
     quote: >
       Founders come to meetings, they come in, they meet us in person. One piece of advice that I have that’s always worked for me: they get on planes in marginal situations
 
-  - tags: [success, execution]
-    id: 65
-    quote: >
-       If every time we talk to a team they've gotten new things done, that's the best predictor we have that a company will be successful.
-
   - tags: momentum
     id: 66
     quote: >
       A winning team feels good and keeps winning. A team that hasn’t won in a while gets demotivated and keeps losing. So always keep momentum
 
-  - tags: [momentum, bad times]
+  - tags: [sales, bad times]
     id: 67
     quote: >
        A board member of mine used to say that sales fix everything in a startup. And that is really true.
 
-  - tags: [momentum, bad times]
+  - tags: [bad times]
     id: 68
     quote: >
       And you have to remind people: “hey, stuff’s not working right now we don’t actually hate each other, we just need to get back on track and everything will work.”
 
-  - tags: competition
-    id: 69
-    quote: >
-       Henry Ford that I love: “The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.”
-
-  - tags: interview questions
+  - tags: interviews
     id: 70
     quote: >
       Is this person in the top five percent of people you've ever worked with? What specifically did they do? Would you hire them again? Why aren't you trying to hire them again?
@@ -374,7 +325,7 @@ advise:
     quote: >
       No matter what you choose, build stuff and be around smart people.
 
-  - tags: [idea, idea validtion]
+  - tags: [idea, idea validation]
     id: 72
     quote: >
       If you start a company, only do so if you have an idea you’re in love with.
@@ -382,7 +333,7 @@ advise:
 
 
   - tags: [management, founders, company structure, late stage]
-    id: 47
+    id: 73
     quote: >
       Before 20 and 25 employees, most companies are structured with everyone reporting to founder. It's totally flat. That's really good.
 
@@ -390,8 +341,8 @@ advise:
 
       You ideally want to cluster people in teams that make sense but the most important thing is that there is a clear reporting structure and that everyone knows what it is. Clarity and simplicity are the most important things here.
 
-  - tags: [founder, growth, delegation, hiring, late stage]
-    id: 48
+  - tags: [founders, growth, delegate, hiring, late stage]
+    id: 74
     quote: |
       There are four failure cases we see all the time as founders become managers.
 
@@ -400,125 +351,99 @@ advise:
       3. Third mistake: "Bad Delegation". Good Delegation = A subtle difference but really important is to say, “Hey - you're really smart. That's why I hired you. You go off. Here the things to think about. Here's what I think. But you make this decision. I totally trust you. And let me know what you decide."
       4. Then the fourth area -- it's just a personal organization one.
 
-  - tags: [founders, culture, recordkeeping, late stage]
-    id: 49
+  - tags: [founders, culture, late stage]
+    id: 75
     quote: >
       Two other things that we hear again and again from our founders they wish that they had done early: simply writing down how you do things and why you things.
 
-  - tags: [salary, employees, growth, late stage]
-    id: 50
+  - tags: [compensation, employees, growth, late stage]
+    id: 76
     quote: >
       As you grow - it feels hopelessly corporate but it really is worth putting in place these "Compensation Bands". So a mid-level engineer is in this range. A senior engineer is this range. Here's how you move from this to this. It keeps things really fair.
 
   - tags: [equity, late stage]
-    id: 51
+    id: 77
     quote: >
       "You should think about for the next ten years you're going to be given out 3- 5 percent of the company every year 'cause you just get bigger and bigger. So the individual grants gets smaller but in actuality it's a lot of stock.
 
   - tags: [employees, equity, late stage, compensation]
-    id: 52
+    id: 78
     quote: >
       You never want an employee in a place where they vested 3 out of their four years in stock and they start thinking about leaving. So you should ALWAYS stay in front of peoples vesting schedules.
 
       There are a lot of new structures that people have been using here. I personally like six year big grants - but six years of vesting. 'Cause I think these companies take a while to build. There's pyramid vesting where you back weight someone’s grant. In year four they get a lot more of the vesting than year one. There's a concept - different names for it, but something like continuous forward vesting where people's grants are automatically re-upped. Every year. At the same number of share. Whatever you decide, get an option management system in place at about this point.
 
   - tags: [late stage, hiring]
-    id: 53
+    id: 79
     quote: >
       The other sort of HR stuff to touch on - there are a bunch of rules that change around 50 employees. Common examples are that you have to start "Sexual Harassment Training and Diversity Training". There's a bunch of others as well. But just put a little pen in your mind that when you cross 50 employees there's a new set of HR rules that you have to comply with.
 
-  - tags: [burnout, late stage, metrics]
-    id: 54
+  - tags: [late stage, metrics, burnout]
+    id: 80
     quote: >
       "Monitoring your team for burnout." Again, it's up to product market fit. It's just a sprint. Now it becomes marathon. At this point you actually don't want people to work a 100 hours a week forever. You want them to go on vacation. You want them to have new challenges and do new things. And if you let the whole company get burned out all at once - that is often a company ending thing.
 
   - tags: [employees, hiring, interviews]
-    id: 55
+    id: 81
     quote: >
        try to work on a project together instead of an interview, else ask about projects and referrals
 
-  - tags: [employees, hiring, hacks]
-    id: 56
+  - tags: [employees, hiring, heuristics]
+    id: 82
     quote: >
        I think most companies - even til they get up to say 3 or 4 hundred employees - should announce every offer on some internal mailing list or something before they make it. Because like half the time you do that. Someone in the company will know something good or bad about that employee.
 
   - tags: [employees, diversity, late stage]
-    id: 57
+    id: 83
     quote: >
       Here’s one that you do need to think about before the 12 to 24 month mark. Which is "Diversity on the team." The most common place this comes up honestly is people that hire you know all guys on their engineering team for the first 15 or 20 people. And at that point you get a culture in place that sort of takes on a life of its own.
 
   - tags: [employees, late stage, promotion]
-    id: 58
+    id: 84
     quote: >
       The early engineer wants to be the VP of engineering. You can't do that, but you don't want the early employee to leave. They are an important part of the culture. They know a lot. People love them. So I think you want you be very proactive about this. You want to think about, "What's the path for my first 10 or 15 employees going to be as the company grows?" And then just talk to them about it. Very directly. Be up front, you know. Sit them down and say, "I want to see where you want to see your career go inside of this company."
 
-  - tags: [alignment]
-    id: 59
+  - tags: [vision]
+    id: 85
     quote: >
       ou know a classic test that I love to give - is if I walk into a company getting - beginning to struggle with these scaling issues - I'll ask the founders, "Like, if I walked around and pulled 10 random employees and asked them what the top three goals for the company are right now - would they all say the same thing?"
 
-  - tags: [off-sites, productivity]
-    id: 60
+  - tags: [heuristics, productivity]
+    id: 86
     quote: >
       A surprising number of the successful companies we've been involved with do a lot of off-sites. Where they take their best people for a weekend to a cabin in the woods or somewhere and just talk about what we want to be when we grow up.
 
   - tags: [IP, late stage]
-    id: 61
+    id: 87
     quote: >
       So, you have twelve months after you announce something if you want to patent it. And if you miss that window, it's very hard to do. So eleven months after launch or first publically talk about what you're doing - is a good time to file provisional patents.
 
   - tags: [tax, late stage]
-    id: 62
+    id: 88
     quote: >
       "Tax structuring". This is another thing. Once things are working it would be worth you spending a little bit of time thinking about how you set up the tax structure for the company. I confess I don't know a lot about the details here 'cause I just find it personally really boring. But like if you assign the IP to some corporation in Ireland that licensing it back to the US Corporation. You end up paying no tax. No corporate tax. But I know that you can only do that relatively early on. And this ends up being a huge issue for companies that don't do it that compete with companies that do it you know once they're big public companies. So that's worth doing.
 
   - tags: [diversity]
-    id: 63
+    id: 89
     quote: >
       The difference is that what you want is diversity of backgrounds. But you don't want diversity of vision.
 
   - tags: [founders, priorities]
-    id: 64
+    id: 90
     quote: >
       Founders come to meetings, they come in, they meet us in person. One piece of advice that I have that’s always worked for me: they get on planes in marginal situations
 
-  - tags: [success, execution]
-    id: 65
+  - tags: [success]
+    id: 91
     quote: >
        If every time we talk to a team they've gotten new things done, that's the best predictor we have that a company will be successful.
 
   - tags: momentum
-    id: 66
+    id: 92
     quote: >
       A winning team feels good and keeps winning. A team that hasn’t won in a while gets demotivated and keeps losing. So always keep momentum
 
-  - tags: [momentum, bad times]
-    id: 67
-    quote: >
-       A board member of mine used to say that sales fix everything in a startup. And that is really true.
-
-  - tags: [momentum, bad times]
-    id: 68
-    quote: >
-      And you have to remind people: “hey, stuff’s not working right now we don’t actually hate each other, we just need to get back on track and everything will work.”
-
-  - tags: competition
-    id: 69
-    quote: >
-       Henry Ford that I love: “The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.”
-
-  - tags: interview questions
-    id: 70
-    quote: >
-      Is this person in the top five percent of people you've ever worked with? What specifically did they do? Would you hire them again? Why aren't you trying to hire them again?
-
-
-  - tags: [philosophy, people]
-    id: 71
-    quote: >
-      No matter what you choose, build stuff and be around smart people.
-
-  - tags: [idea, idea validtion]
-    id: 72
+  - tags: [idea, idea validation]
+    id: 98
     quote: >
       If you start a company, only do so if you have an idea you’re in love with.

@@ -29,17 +29,17 @@ advise:
     quote: >
       You need someone to set a North star for you about where the company wants to go, and that person needs to be the person leading the company, from my opinion, that's what I've seen. Mark is a fantastic example of that. Back when Facebook started, a lot of people were putting out their registered user numbers. Right? You'd see you registered user numbers for MySpace, you'd see a registered user numbers for ___11:38, you'd see registered user numbers. Mark put out monthly active users, as the number both internally he held everyone to, and said we need everyone on Facebook, but that means everyone active on Facebook, not everyone signed up on Facebook, so monthly active people was the number internally, and it was also the number he published externally.
 
-  - tags: [metrics, ceo, vision, leadership]
+  - tags: [metrics, ceo, vision]
     id: 6
     quote: >
        the second you have more than one person working on something, you cannot control what everyone else is doing... It’s all influence... And the thing is, it’s not clear to everybody what the most important thing is for a company.... This means that when someone is having a conversation and you’re not in the room, or when they’re sitting in front of their computer screens, and thinking about how they built this particular project or this particular feature, in their head it’s going to be clear to them that it’s not about revenue, it’s about Gross Merchandise Volume, or it’s not about getting more registrations, registrations don’t matter, unless they become long-term active users.
 
-  - tags: [product market fit, hook]
+  - tags: [product market fit, aha moment]
     id: 7
     quote: >
        How do you drive to the magic moment that gets people hooked on your service.
 
-  - tags: [hook, retention, growth]
+  - tags: [aha moment, retention, growth]
     id: 8
     quote: >
       Think about what the magic moment is for your product, and get people connected to it as fast as possible, because then you can move up where that blue line has asymptotic, and you can go from 60% retention to 70% retention easily if you can connect people with what makes them stick on your site.
@@ -54,38 +54,38 @@ advise:
     quote: >
       So for operating for growth, what you really need to think about, is what is the North star of your company: What is that one metric, where if everyone in your company is thinking about it and driving their product towards that metric and their actions towards moving that metric up
 
-  - tags: [tactics, growth, internationalization]
+  - tags: [heuristics, growth, internationalization]
     id: 11
     quote: >
       The first tactic I want to talk about is internationalization. Facebook internationalized too late. Sheryl said it broadly in public and I definitely agree with that.
 
 
-  - tags: [growth, viral]
+  - tags: [growth]
     id: 12
     quote: >
        First, is payload - so how many people can you hit with any given viral blast. Second, is conversion rate, and third is frequency. This gives you a fundamental idea of how viral a product is.
 
-  - tags: [growth, seo, marketing, tactics]
+  - tags: [growth, marketing, heuristics]
     id: 13
     quote: >
       Research consists of, what do people search for that’s related to your site, how many people search for it, how many other people are ranking for it, and how valuable is it for you?
 
-  - tags: [marketing, growth, email, tactics]
+  - tags: [marketing, growth, heuristics]
     id: 14
     quote: >
       Email is dead for people under 25 in my opinion. Young people don’t use email. They use WhatsApp, SMS, SnapChat, Facebook; they don’t use email. If you’re targeting an older audience, email is still pretty successful.
 
-  - tags: [newsletters, tactics, growth, marketing]
+  - tags: [heuristics, growth, marketing]
     id: 15
     quote: >
       Everyone focuses towards doing marketing emails that are just spam in my opinion. Newsletters are stupid. Don’t do newsletters because you’ll send the same newsletter to everyone on your site. Someone who signed up to your site yesterday versus someone who’s been using your product for three years - do they need the same message? No.
 
-  - tags: [plans]
+  - tags: [plan, heuristics]
     id: 16
     quote: >
       A good plan, violently executed today, is better than a perfect plan tomorrow
 
-  - tags: [email, notification, growth]
+  - tags: [growth]
     id: 17
     quote: >
       The most effective email you can do is notifications.

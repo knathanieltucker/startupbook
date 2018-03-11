@@ -14,17 +14,17 @@ advise:
     quote: >
       founder you have some unique advantages that make it possible for you to be really, really good at sales. One of those is your passion for the product and what you're building. The second is your knowledge of the industry and the problem that you're solving. Those two things actually totally trump sales experience from what I've seen.
 
-  - tags: [sales, customers]
+  - tags: [sales, users]
     id: 3
     quote: >
       This part over here are innovators, those are your potential customers. It might seem discouraging that only 2.5 percent of
 
-  - tags: [sales, conferences]
+  - tags: [sales]
     id: 4
     quote: >
       There are three methods that I have found to be most successful in prospecting and getting these people. One is your personal network. That's obvious. I'm not going to spend any time there. Another one is conferences, which is surprising to a lot of people. The one that people are most familiar with is cold email.
 
-  - tags: [sales, email]
+  - tags: [sales]
     id: 5
     quote: >
       A lot of people don't know how to write cold emails. It's actually easy and the key is not to write a lot. Your email should be concise.
@@ -58,7 +58,7 @@ advise:
 
       If somebody says to you, "There's this one thing that's preventing us from using your product." I would do one of two things. One say, "Well that's great! Let's sign an agreement and we'll put in the agreement that we're going to build this feature." In which case, if you build it you're off to the races. More commonly, what we did at Clever was we would say, "That's great. We're going to wait to see if we hear that demand from more customers." Once you have a lot of customers requesting it, then you should build it.
 
-  - tags: [sales, free trail]
+  - tags: [sales, free]
     id: 11
     quote: >
       The other trap I would highly recommend you try to avoid is the free trial trap. The customer says, "Can I get a free trial?" You can't blame them that’s a totally reasonable thing to ask for. The problem is when you are starting a startup you need revenue. You need validation. You need users. You need commitment. Free trials get you none of those things.

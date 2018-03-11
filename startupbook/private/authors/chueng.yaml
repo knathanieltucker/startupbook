@@ -28,12 +28,12 @@ advise:
     quote: >
        You should be so obsessed that you want to know what everybody in that space is doing. And it is things like writing a list of all of the potential competitors, similar types of companies, and Google searching them and clicking on every single link and reading every single article from search result number 1 to 1000.  I found all potential competitors big and small and if they were public, I would go and read their S-1s, I would go read all of their quarterly financials, I would sit on earnings calls. You know most of these, you don't get much out of it but there are these golden nuggets that you will find every once in a while. And you won't be able to find that unless you actually go through the work of getting all that information in your head. You should become an expert in your industry. There should be no doubt when you are building this that you are the expert so that people trust you when you are building this product.
 
-  - tags: [market, customer segments]
+  - tags: [market]
     id: 6
     quote: >
       In the beginning, you realistically want to corner off a certain part of the customer base so that you can really optimize for them.
 
-  - tags: [idea validation, storyboard, product]
+  - tags: [idea validation, product]
     id: 7
     quote: >
       And lastly, before you even create a product or before you put code down, you should really storyboard out the user experience of how you are going to solve the problem. And that is not just meaning the website itself, it also means how does the customer find out about you... You need to be able to go through that whole flow and visualize in your head what the perfect user experience is. And then put it down on paper and put it into code, and then start from there.
@@ -75,17 +75,17 @@ advise:
     quote: >
        inbound feedback is good, but really what you should be doing is going out to your users and talking to them.
 
-  - tags: [measures]
+  - tags: [metrics]
     id: 15
     quote: >
        The best way to do that is by tracking customer retention.
 
-  - tags: [measures]
+  - tags: [metrics]
     id: 16
     quote: >
        So a good leading indicator is actually collecting reviews and ratings. Such as five-star and four-star reviews or collecting some notion of nps, which is net promoter score.
 
-  - tags: [feedback, concepts]
+  - tags: [feedback]
     id: 17
     quote: >
       One thing you should be wary of is the honesty curve. Some people will just lie to you. These are degrees of separation from you, and this is the level of honesty.
@@ -100,7 +100,7 @@ advise:
     quote: >
        A third point here is temporary brokenness is much better than permanent paralysis.
 
-  - tags: [concept, feedback, features]
+  - tags: [feedback, features]
     id: 20
     quote: >
         Lastly beware of the Frankenstein approach which is - great you talked to all of these users and they gave you all of these ideas and the first thing you are going to want to do is go build every single one of them and then go show them the next day and make them happier. You should definitely listen to user feedback but when someone tells you to build a feature you shouldn't go build it right away. What you should really do is get to the bottom of why they are asking you to build the feature.
@@ -120,7 +120,7 @@ advise:
     quote: >
        Marketing channels: 1) try one at a time 2) always be iterating on them
 
-  - tags: [LTV, growth, ads]
+  - tags: [growth, ads]
     id: 24
     quote: >
         LTV of a customer should be more than what you pay for them (CAC).
@@ -136,7 +136,7 @@ advise:
       * b2b sales
       * direct mailers
 
-  - tags: [pivots]
+  - tags: [pivot]
     id: 26
     quote: >
        The best guidance that I can give on that is the kind of look at these three criteria, which is once you realize that you can't grow, and despite building out all of these great features and talking to all of these users none of them stick, or the economics of the business just don't make sense - then once you make that realization you just need to move on.
@@ -146,15 +146,8 @@ advise:
     quote: >
        Marketing channels: 1) try one at a time 2) always be iterating on them
 
-  - tags: [LTV, growth, ads]
-    id: 28
-    quote: >
-        LTV of a customer should be more than what you pay for them.
-
-
-
   - tags: game plan
-    id: 29
+    id: 28
     quote: |
       1. Idea that you (and users) are passionate about
       2. Know the industry in and out
