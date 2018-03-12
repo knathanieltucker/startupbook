@@ -554,7 +554,7 @@
 								{
 									"name": "preparation",
 									"type": "markdown",
-									"source": "blah",
+									"source_file": "startupbook/private/guides/preparation.md",
 									"object_type": "markdown"
 								}
 							]

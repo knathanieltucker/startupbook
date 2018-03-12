@@ -2,7 +2,7 @@
 	"output_files": [
 		{
 			"path": "client/views/router.js",
-			"checksum": "e9c760bde85f067a15b1a6ad725b85bd9dcbc7c7"
+			"checksum": "649a3b166b05303abfa1d77039a675d8d98bce44"
 		},
 		{
 			"path": "server/controllers/router.js",
@@ -10,7 +10,7 @@
 		},
 		{
 			"path": "client/client.js",
-			"checksum": "66187253b8c0c895a6cbb8ac6891dea9ab9033b7"
+			"checksum": "a7e99c16c48ad7f71004d95a88e403f1f6bc40a9"
 		},
 		{
 			"path": "server/server.js",
@@ -214,7 +214,7 @@
 		},
 		{
 			"path": "client/views/guide/guide.html",
-			"checksum": "2bd1f8ac6b36d5d3fe1918a268f5040999e34d5e"
+			"checksum": "3cc9d59d4d4e4f7ba4ed288fb1c4b64aef0b5897"
 		},
 		{
 			"path": "client/views/guide/guide.js",
@@ -226,7 +226,7 @@
 		},
 		{
 			"path": "client/views/guide/introduction/introduction.html",
-			"checksum": "b5e67c08909d36dd18707ae38da485967738b856"
+			"checksum": "96af0ab2ea055a31f7a2761b8951edb16013f2a9"
 		},
 		{
 			"path": "client/views/guide/introduction/introduction.js",
@@ -235,6 +235,18 @@
 		{
 			"path": "client/views/guide/introduction/introduction_controller.js",
 			"checksum": "d84ff503cee84f038844a156b4fe87dbb2b6e880"
+		},
+		{
+			"path": "client/views/guide/preparation/preparation.html",
+			"checksum": "5fe90109b48655c858b2b4d54d9eebfd243255a6"
+		},
+		{
+			"path": "client/views/guide/preparation/preparation.js",
+			"checksum": "f4b725380bb31ea3b9937bcced4f7e840a71d0e5"
+		},
+		{
+			"path": "client/views/guide/preparation/preparation_controller.js",
+			"checksum": "ba13c78500627cb22daa3fceee2a142892b994fc"
 		},
 		{
 			"path": "both/collections/authors.js",
@@ -467,6 +479,7 @@
 		"client/views/authors/add_authors/update/",
 		"client/views/guide/",
 		"client/views/guide/introduction/",
+		"client/views/guide/preparation/",
 		"client/views/layout/",
 		"client/views/loading/",
 		"client/views/not_found/",
