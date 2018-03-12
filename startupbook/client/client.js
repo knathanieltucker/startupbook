@@ -6,9 +6,9 @@ this.globalOnRendered = function() {
 };
 
 Meteor.startup(function() {
-
-function fillQuote (mdId) {
-  authorId = Authors.findOne({'name': 'Sam Altman'})._id;
+	
+function fillQuote (authorName, mdId) {
+  authorId = Authors.findOne({'name': authorName})._id;
   quote = Quotes.findOne({authorId, 'mdId': mdId});
 
   fullQuote = `> ${quote.quote}`
