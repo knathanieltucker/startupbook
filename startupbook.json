@@ -522,6 +522,13 @@
 								{
 									"title": "Introduction",
 									"route": "guide.introduction"
+								},
+								{
+									"title": "New Page"
+								},
+								{
+									"title": "Preparation",
+									"route": "guide.preparation"
 								}
 							],
 							"object_type": "menu"
@@ -535,19 +542,19 @@
 								{
 									"name": "introduction",
 									"type": "markdown",
-									"source_file": "startupbook/private/guides/test.md",
+									"source": "temp\n\n{{qt 'Sam Altman' 34}}",
+									"object_type": "markdown"
 								}
 							]
 						},
-            {
+						{
 							"name": "preparation",
 							"type": "page",
 							"components": [
 								{
-
 									"name": "preparation",
 									"type": "markdown",
-									"source": "startupbook/private/guides/preparation.md",
+									"source": "blah",
 									"object_type": "markdown"
 								}
 							]
