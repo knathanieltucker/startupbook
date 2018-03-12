@@ -7,9 +7,8 @@ this.globalOnRendered = function() {
 
 Meteor.startup(function() {
 	
-function fillQuote (authorName, mdId) {
-  authorId = Authors.findOne({'name': authorName})._id;
-  quote = Quotes.findOne({authorId, 'mdId': mdId});
+function fillQuote (mdId) {
+  quote = Quotes.findOne({'mdId': mdId});
 
   fullQuote = `> ${quote.quote}`
   fullQuote += `\n -- <cite>${quote.author.name}</cite>, ${quote.tags}`
