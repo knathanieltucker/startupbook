@@ -539,6 +539,18 @@
 									"object_type": "markdown"
 								}
 							]
+						},
+            {
+							"name": "preparation",
+							"type": "page",
+							"components": [
+								{
+									"name": "preparation",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/preparation.md",
+									"object_type": "markdown"
+								}
+							]
 						}
 					]
 				}
