@@ -1,3 +1,3 @@
 ## Hello
 
-{{qt 34}}
+{{qt 'Sam Altman' 1}}
