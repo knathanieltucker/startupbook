@@ -535,7 +535,7 @@
 								{
 									"name": "introduction",
 									"type": "markdown",
-									"source": "temp\n",
+									"source_file": "./startupbook/private/guides/test.md",
 									"object_type": "markdown"
 								}
 							]
@@ -545,7 +545,7 @@
 			]
 		},
 		"server_startup_code": "import _ from 'underscore';\nimport readYaml from 'read-yaml';\nimport fs from 'fs';\n\nconst dirs = fs.readdirSync('./assets/app/authors');\n\nAuthors.remove({});\nQuotes.remove({});\nTags.remove({});\n\nlet authorQuotes;\nlet author;\nlet tags;\n_.each(dirs, (dir) => {\n  authorQuotes = readYaml.sync(`./assets/app/authors/${dir}`);\n  authorId = Authors.insert({\n    name: authorQuotes.name,\n    description: authorQuotes.description || '',\n    authorTags: authorQuotes.tags || '',\n  });\n\n  _.each(authorQuotes.advise, (quote) => {\n    Quotes.insert({\n    quote: quote.quote,\n    authorId: authorId,\n    tags: Array.isArray(quote.tags) ? quote.tags : [quote.tags],\n    mdId: quote.id,});\n    \n    \n    tags = Array.isArray(quote.tags) ? quote.tags : [quote.tags];\n    _.each(tags, (tag) => {\n      Tags.upsert({\n          name: tag\n      \t}, {\n          $setOnInsert: {\n              name: tag\n          },\n          $inc: {\n              count: 1\n          }\n      });\n\n    });\n    \n  });\n});",
-		"client_startup_code": "function fillQuote (mdId) {\n  quote = Quotes.findOne({'mdId': mdId});\n\n  fullQuote = `> ${quote.quote}`\n  fullQuote += `\\n -- <cite>${quote.author.name}</cite>, ${quote.tags}`\n\n  return fullQuote;\n}\n\nHandlebars.registerHelper('qt', fillQuote);",
+		"client_startup_code": "function fillQuote (authorName, mdId) {\n  authorId = Authors.findOne({'name': authorName})._id;\n  quote = Quotes.findOne({authorId, 'mdId': mdId});\n\n  fullQuote = `> ${quote.quote}`\n  fullQuote += `\\n -- <cite>${quote.author.name}</cite>, ${quote.tags}`\n\n  return fullQuote;\n}\n\nHandlebars.registerHelper('qt', fillQuote);",
 		"packages": {
 			"npm": [
 				"read-yaml"
