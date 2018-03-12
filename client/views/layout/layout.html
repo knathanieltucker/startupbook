@@ -1,0 +1,79 @@
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes" />	<title>
+	</title>
+</head>
+<template name="layout">
+	{{> FreeLayout freeData}}
+</template>
+
+<template name="FreeLayout">
+	<div id="content" class="sticky-wrapper">
+		<div id="navbar" class="navbar navbar-fixed-top navbar-default" role="navigation">
+			<div class="navbar-container container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="sr-only">
+							Toggle navigation
+						</span>
+						<span class="icon-bar">
+						</span>
+						<span class="icon-bar">
+						</span>
+						<span class="icon-bar">
+						</span>
+					</button>
+					<a class="navbar-brand" href="/">
+					</a>
+				</div>
+				<div id="menu" class="collapse navbar-collapse">
+					{{> FreeLayoutMenu}}
+				</div>
+			</div>
+		</div>
+		<div class="navbar-spacer">
+		</div>
+		{{> yield}}
+	</div>
+	<div id="footer" class="sticky-footer">
+		<div class="footer-container container">
+			<p class="text-muted">
+			</p>
+		</div>
+	</div>
+</template>
+
+<template name="FreeLayoutMenu">
+	<ul id="menu-items" class="nav navbar-nav">
+		<li id="menu-item-simple" class="{{menuItemClass 'authors'}}">
+			<a href="{{pathFor 'authors'}}">
+				<span class="item-title">
+					Authors
+				</span>
+			</a>
+		</li>
+		<li id="menu-item-simple" class="{{menuItemClass 'quotes'}}">
+			<a href="{{pathFor 'quotes'}}">
+				<span class="item-title">
+					Quotes
+				</span>
+			</a>
+		</li>
+		<li id="menu-item-simple" class="{{menuItemClass 'guide'}}">
+			<a href="{{pathFor 'guide'}}">
+				<span class="item-title">
+					Guide
+				</span>
+			</a>
+		</li>
+		<li id="menu-item-simple" class="{{menuItemClass 'tags'}}">
+			<a href="{{pathFor 'tags'}}">
+				<span class="item-title">
+					Tags
+				</span>
+			</a>
+		</li>
+	</ul>
+</template>
+

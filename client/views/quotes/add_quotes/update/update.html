@@ -1,0 +1,97 @@
+<template name="QuotesAddQuotesUpdate">
+	<div class="page-container container" id="content">
+		<div class="row" id="title_row">
+			<div class="col-md-12">
+			</div>
+		</div>
+		{{> QuotesAddQuotesUpdateForm}}
+	</div>
+</template>
+
+<template name="QuotesAddQuotesUpdateForm">
+	<div id="quotes-add-quotes-update-form" class="">
+		<h2 id="component-title">
+			Edit Quote
+		</h2>
+		<form role="form">
+			{{#if errorMessage}}
+			<div class="alert alert-warning">
+				{{errorMessage}}
+			</div>
+			{{/if}}
+
+			{{#if infoMessage}}
+			<div class="alert alert-success">
+				{{infoMessage}}
+			</div>
+			{{/if}}
+			<div class="form-group  field-quote">
+				<label for="quote">
+					Quote
+				</label>
+				<div class="input-div">
+					<textarea class="form-control " name="quote">{{quote.quote}}</textarea>
+					<span id="help-text" class="help-block">
+					</span>
+					<span id="error-text" class="help-block">
+					</span>
+				</div>
+			</div>
+			<div class="form-group  field-author-id">
+				<label for="authorId">
+					Author
+				</label>
+				<div class="input-div">
+					<select class="form-control " name="authorId" data-type="string" required="required" autofocus="autofocus">
+						{{#each all_authors}}
+						<option value="{{_id}}" {{optionIsSelected ../quote.authorId _id}}>							{{name}}</option>
+						{{/each}}
+					</select>
+					<span id="help-text" class="help-block">
+					</span>
+					<span id="error-text" class="help-block">
+					</span>
+				</div>
+			</div>
+			<div class="form-group  field-tags">
+				<label for="tags">
+					Tags
+				</label>
+				<div class="input-div">
+					<select multiple="multiple" data-role="tagsinput" class="form-control " name="tags" data-type="array" required="required">
+						{{#each getArray quote.tags}}
+						<option id="form-input-tags-item" value="{{this}}">							{{this}}</option>
+						{{/each}}
+					</select>
+					<span id="help-text" class="help-block">
+					</span>
+					<span id="error-text" class="help-block">
+					</span>
+				</div>
+			</div>
+			<div class="form-group  field-md-id">
+				<label for="mdId">
+					Markdown ID
+				</label>
+				<div class="input-div">
+					<input type="text" name="mdId" value="{{quote.mdId}}" class="form-control " required="required" data-type="integer">
+					<span id="help-text" class="help-block">
+					</span>
+					<span id="error-text" class="help-block">
+					</span>
+				</div>
+			</div>
+			<div class="form-group">
+				<div class="submit-div">
+					<a href="#" id="form-cancel-button" class="btn btn-default">
+						Cancel
+					</a>
+					<button id="form-submit-button" class="btn btn-success" type="submit">
+						Save
+					</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</template>
+
