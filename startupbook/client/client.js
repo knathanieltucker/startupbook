@@ -2,11 +2,11 @@ this.App = {};
 this.Helpers = {};
 
 this.globalOnRendered = function() {
-	
+
 };
 
 Meteor.startup(function() {
-	
+
 function fillQuote (mdId) {
   authorId = Authors.findOne({'name': 'Sam Altman'})._id;
   quote = Quotes.findOne({authorId, 'mdId': mdId});
