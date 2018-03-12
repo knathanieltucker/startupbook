@@ -10,7 +10,7 @@
 		},
 		{
 			"path": "client/client.js",
-			"checksum": "66187253b8c0c895a6cbb8ac6891dea9ab9033b7"
+			"checksum": "a7e99c16c48ad7f71004d95a88e403f1f6bc40a9"
 		},
 		{
 			"path": "server/server.js",
@@ -226,7 +226,7 @@
 		},
 		{
 			"path": "client/views/guide/introduction/introduction.html",
-			"checksum": "b5e67c08909d36dd18707ae38da485967738b856"
+			"checksum": "96af0ab2ea055a31f7a2761b8951edb16013f2a9"
 		},
 		{
 			"path": "client/views/guide/introduction/introduction.js",
