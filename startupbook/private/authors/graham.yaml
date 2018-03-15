@@ -87,21 +87,10 @@ advise:
     quote: >
        Do you see any value in business school for people who want to pursue entrepreneurship? Basically no.
 
-
-  - tags: ideas
-    id: 18
-    quote: >
-       Tut the short version is that if you make a conscious effort to try to think of startup ideas, you will think of ideas that are not only bad but bad and plausible sounding.
-
   - tags: [founders, ideas]
     id: 19
     quote: >
        How do you turn your mind into the kind that has startup ideas unconsciously? One, learn about a lot of things that matter. Two, work on problems that interest you. Three, with people you like and or respect. That's the third part incidentally, is how you get cofounders at the same time as the idea.
-
-  - tags: [ideas, philosophy, preparation]
-    id: 20
-    quote: >
-      if you’re interested in generally interesting problems, gratifying your interest energetically is the best way to prepare yourself for a startup and probably best way to live.
 
   - tags: [ideas]
     id: 21
@@ -139,12 +128,6 @@ advise:
       In Zen and the Art of Motorcycle Maintenance, Robert Pirsig says:
 
         You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally.
-
-  - tags: [preparation, business school]
-    id: 27
-    quote: >
-       Do you see any value in business school for people who want to pursue entrepreneurship? Basically no.
-
 
 
   - tags: [ideas, technology, preparation]
@@ -228,11 +211,6 @@ advise:
        There are two more filters you'll need to turn off if you want to notice startup ideas: the unsexy filter and the schlep filter.
 
   - tags: [ideas]
-    id: 41
-    quote: >
-      There are a lot of stories about successful startups that began when the founders had what seemed a crazy idea but "just knew" it was promising. When you feel that about an idea you've had while trying to come up with startup ideas, you're probably mistaken.
-
-  - tags: [ideas]
     id: 42
     quote: >
       When searching for ideas, look in areas where you have some expertise. That's because your expertise raises your standards. Your ideas about chat apps are just as bad, but you're giving yourself a Dunning-Kruger pass in that domain.
@@ -258,20 +236,6 @@ advise:
     id: 45
     quote: >
        Try talking to everyone you can about the gaps they find in the world. What's missing? What would they like to do that they can't? What's tedious or annoying, particularly in their work? Let the conversation get general; don't be trying too hard to find startup ideas. You're just looking for something to spark a thought
-
-  - tags: [ideas, idea validation]
-    id: 46
-    quote: >
-      Since startups often garbage-collect broken companies and industries, it can be a good trick to look for those that are dying, or deserve to, and try to imagine what kind of company would profit from their demise.
-
-  - tags: [ideas]
-    id: 47
-    quote: >
-      There are a lot of stories about successful startups that began when the founders had what seemed a crazy idea but "just knew" it was promising. When you feel that about an idea you've had while trying to come up with startup ideas, you're probably mistaken.
-
-
-
-
 
   - tags: [users, growth, scale]
     id: 49
