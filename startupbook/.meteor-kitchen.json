@@ -2,7 +2,7 @@
 	"output_files": [
 		{
 			"path": "client/views/router.js",
-			"checksum": "ee904b0e7b0207786f7cc8b76027ca3d6e108861"
+			"checksum": "e485b1c0f9f5577577efb6f9719080339fe4a15a"
 		},
 		{
 			"path": "server/controllers/router.js",
@@ -214,7 +214,7 @@
 		},
 		{
 			"path": "client/views/guide/guide.html",
-			"checksum": "4f18b33b8758a7a81bc199408d2f99b4a1efa74d"
+			"checksum": "6ad2aff796261851ee050e69ed5c0d361fec2674"
 		},
 		{
 			"path": "client/views/guide/guide.js",
@@ -250,7 +250,7 @@
 		},
 		{
 			"path": "client/views/guide/ideas/ideas.html",
-			"checksum": "7a22bd5439293173df760ac8760f429a6d3168ea"
+			"checksum": "eadde265c24dff85ef4ee1242193468d7fc59ac1"
 		},
 		{
 			"path": "client/views/guide/ideas/ideas.js",
@@ -259,6 +259,42 @@
 		{
 			"path": "client/views/guide/ideas/ideas_controller.js",
 			"checksum": "bcefd4633bdd2c4f3405429c109119c07719c773"
+		},
+		{
+			"path": "client/views/guide/idea_validation/idea_validation.html",
+			"checksum": "21a0e3d7c138d2b533534a515341f50fe042a199"
+		},
+		{
+			"path": "client/views/guide/idea_validation/idea_validation.js",
+			"checksum": "2548e4f6be225255600a2fd12a8ae19a11f29619"
+		},
+		{
+			"path": "client/views/guide/idea_validation/idea_validation_controller.js",
+			"checksum": "b04fbf9e0c0e73fc2be35fe3173af579acc95aad"
+		},
+		{
+			"path": "client/views/guide/market/market.html",
+			"checksum": "c94057eec0d411044ab236ae30b3a4dfa09b0701"
+		},
+		{
+			"path": "client/views/guide/market/market.js",
+			"checksum": "611411c2f63db9fe23adde35701a3347ac744c49"
+		},
+		{
+			"path": "client/views/guide/market/market_controller.js",
+			"checksum": "a1f6719688f95dd0e8f519fb522b83582a172160"
+		},
+		{
+			"path": "client/views/guide/founders/founders.html",
+			"checksum": "e37dd6f09e91e7f3ced63238d324cd0f117454c1"
+		},
+		{
+			"path": "client/views/guide/founders/founders.js",
+			"checksum": "801cab31fad1061a9c4275e312cd061b08f71c5e"
+		},
+		{
+			"path": "client/views/guide/founders/founders_controller.js",
+			"checksum": "4eb8fca34d2267e5dd9c7b7151dea8785bba401d"
 		},
 		{
 			"path": "both/collections/authors.js",
@@ -490,8 +526,11 @@
 		"client/views/authors/add_authors/insert/",
 		"client/views/authors/add_authors/update/",
 		"client/views/guide/",
+		"client/views/guide/founders/",
+		"client/views/guide/idea_validation/",
 		"client/views/guide/ideas/",
 		"client/views/guide/introduction/",
+		"client/views/guide/market/",
 		"client/views/guide/preparation/",
 		"client/views/layout/",
 		"client/views/loading/",

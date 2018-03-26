@@ -1,7 +1,7 @@
 name: Paul Graham
 
 advise:
-  - tags: [preparation, ideas]
+  - tags: [preparation, idea]
     id: 1
     quote: >
       If I could go back and redo my twenties, that would be one thing I’d do more of: just try hacking things together. Like many people that age, I spent a lot of time worrying about what I should do. I also spent some time trying to build stuff. I should have spent less time worrying and more time building. If you’re not sure what to do, make something.
@@ -18,7 +18,7 @@ advise:
     quote: >
       If you think about people you know, you’ll find the animal test is easy to apply. Call the person’s image to mind and imagine the sentence “so-and-so is an animal.” If you laugh, they’re not.
 
-  - tags: ideas
+  - tags: idea
     id: 4
     quote: >
       Just as trying to think up startup ideas tends to produce bad ones, working on things that could be dismissed as “toys” often produces good ones.
@@ -67,17 +67,17 @@ advise:
     quote: >
       That brings us to our fourth counterintuitive point, startups are all consuming. If you start a startup, it will take over your life to a degree that you cannot imagine and if it succeeds it will take over your life for a long time;
 
-  - tags: ideas
+  - tags: idea
     id: 12
     quote: >
        Tut the short version is that if you make a conscious effort to try to think of startup ideas, you will think of ideas that are not only bad but bad and plausible sounding.
 
-  - tags: [ideas, philosophy, preparation]
+  - tags: [idea, philosophy, preparation]
     id: 14
     quote: >
       if you’re interested in generally interesting problems, gratifying your interest energetically is the best way to prepare yourself for a startup and probably best way to live.
 
-  - tags: [ideas, preparation]
+  - tags: [idea, preparation]
     id: 15
     quote: >
       One guaranteed way to turn your mind into the type to start up ideas for them unconsciously. Is to get yourself to the leading edge of some technology.
@@ -87,35 +87,35 @@ advise:
     quote: >
        Do you see any value in business school for people who want to pursue entrepreneurship? Basically no.
 
-  - tags: [founders, ideas]
+  - tags: [founders, idea]
     id: 19
     quote: >
        How do you turn your mind into the kind that has startup ideas unconsciously? One, learn about a lot of things that matter. Two, work on problems that interest you. Three, with people you like and or respect. That's the third part incidentally, is how you get cofounders at the same time as the idea.
 
-  - tags: [ideas]
+  - tags: [idea]
     id: 21
     quote: >
        The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.
 
        Why do so many founders build things no one wants? Because they begin by trying to think of startup ideas. That m.o. is doubly dangerous: it doesn't merely yield few good ideas; it yields bad ideas that sound plausible enough to fool you into working on them.
 
-  - tags: [ideas]
+  - tags: [idea]
     id: 22
     quote: >
       The very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and that few others realize are worth doing. Microsoft, Apple, Yahoo, Google, and Facebook all began this way.
 
-  - tags: [ideas, story]
+  - tags: [idea, story]
     id: 23
     quote: >
        I made it myself. In 1995 I started a company to put art galleries online. But galleries didn't want to be online. It's not how the art business works. So why did I spend 6 months working on this stupid idea? Because I didn't pay attention to users. I invented a model of the world that didn't correspond to reality, and worked from that. I didn't notice my model was wrong until I tried to convince users to pay for what we'd built. Even then I took embarrassingly long to catch on. I was attached to my model of the world, and I'd spent a lot of time on the software. They had to want it!
 
 
-  - tags: [idea validation, ideas]
+  - tags: [idea validation, idea]
     id: 24
     quote: >
        When a startup launches, there have to be at least some users who really need what they're making—not just people who could see themselves using it one day, but who want it urgently.
 
-  - tags: [ideas]
+  - tags: [idea]
     id: 25
     quote: >
       http://www.paulgraham.com/startupideas.html
@@ -130,22 +130,22 @@ advise:
         You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally.
 
 
-  - tags: [ideas, technology, preparation]
+  - tags: [idea, technology, preparation]
     id: 28
     quote: >
       Empirically, the way to have good startup ideas is to become the sort of person who has them.
 
-  - tags: [ideas, preparation]
+  - tags: [idea, preparation]
     id: 29
     quote: >
        Being at the leading edge of a field doesn't mean you have to be one of the people pushing it forward. You can also be at the leading edge as a user.
 
-  - tags: [philosophy, ideas]
+  - tags: [philosophy, idea]
     id: 30
     quote: >
        Live in the future, then build what's missing.
 
-  - tags: [ideas]
+  - tags: [idea]
     id: 31
     quote: >
       The verb you want to be using with respect to startup ideas is not "think up" but "notice." At YC we call ideas that grow naturally out of the founders' own experiences "organic" startup ideas. The most successful startups almost all begin this way.
@@ -155,49 +155,49 @@ advise:
 
 
 
-  - tags: [ideas, preparation]
+  - tags: [idea, preparation]
     id: 32
     quote: >
        But if you're looking for startup ideas you can sacrifice some of the efficiency of taking the status quo for granted and start to question things.
 
        Pay particular attention to things that chafe you.
 
-  - tags: [ideas, counterintuitive]
+  - tags: [idea, counterintuitive]
     id: 33
     quote: >
       Just as trying to think up startup ideas tends to produce bad ones, working on things that could be dismissed as "toys" often produces good ones.
 
-  - tags: [ideas, preparation]
+  - tags: [idea, preparation]
     id: 34
     quote: >
        That's what I'd advise college students to do, rather than trying to learn about "entrepreneurship." "Entrepreneurship" is something you learn best by doing it. The examples of the most successful founders make that clear. What you should be spending your time on in college is ratcheting yourself into the future.
 
 
-  - tags: [ideas]
+  - tags: [idea]
     id: 35
     quote: >
        The clash of domains is a particularly fruitful source of ideas. If you know a lot about programming and you start learning about some other field, you'll probably see problems that software could solve. In fact, you're doubly likely to find good problems in another domain: (a) the inhabitants of that domain are not as likely as software people to have already solved their problems with software, and (b) since you come into the new domain totally ignorant, you don't even know what the status quo is to take it for granted.
 
-  - tags: [ideas, phd, idea validation]
+  - tags: [idea, phd, idea validation]
     id: 36
     quote: >
       Beware of research. If an undergrad writes something all his friends start using, it's quite likely to represent a good startup idea. Whereas a PhD dissertation is extremely unlikely to. For some reason, the more a project has to count as research, the less likely it is to be something that could be turned into a startup. [10] I think the reason is that the subset of ideas that count as research is so narrow that it's unlikely that a project that satisfied that constraint would also satisfy the orthogonal constraint of solving users' problems.
 
-  - tags: [competitors, ideas, idea validation]
+  - tags: [competitors, idea, idea validation]
     id: 37
     quote: >
       Even if you find someone else working on the same thing, you're probably not too late. It's exceptionally rare for startups to be killed by competitors—so rare that you can almost discount the possibility. So unless you discover a competitor with the sort of lock-in that would prevent users from choosing you, don't discard the idea.
 
       The question then is whether that beachhead is big enough. Or more importantly, who's in it: if the beachhead consists of people doing something lots more people will be doing in the future, then it's probably big enough no matter how small it is. For example, if you're building something differentiated from competitors by the fact that it works on phones, but it only works on the newest phones, that's probably a big enough beachhead.
 
-  - tags: [competitors, ideas, idea validation]
+  - tags: [competitors, idea, idea validation]
     id: 38
     quote: >
        Err on the side of doing things where you'll face competitors. Inexperienced founders usually give competitors more credit than they deserve. Whether you succeed depends far more on you than on your competitors. So better a good idea with competitors than a bad one without.
 
 
 
-  - tags: [competitors, ideas, idea validation, market]
+  - tags: [competitors, idea, idea validation, market]
     id: 39
     quote: >
       A crowded market is actually a good sign, because it means both that there's demand and that none of the existing solutions are good enough.
@@ -205,12 +205,12 @@ advise:
 
 
 
-  - tags: [ideas, idea validation]
+  - tags: [idea, idea validation]
     id: 40
     quote: >
        There are two more filters you'll need to turn off if you want to notice startup ideas: the unsexy filter and the schlep filter.
 
-  - tags: [ideas]
+  - tags: [idea]
     id: 42
     quote: >
       When searching for ideas, look in areas where you have some expertise. That's because your expertise raises your standards. Your ideas about chat apps are just as bad, but you're giving yourself a Dunning-Kruger pass in that domain.
@@ -220,19 +220,19 @@ advise:
 
 
 
-  - tags: [ideas, idea validation, heuristics]
+  - tags: [idea, idea validation, heuristics]
     id: 43
     quote: >
       The place to start looking for ideas is things you need. There must be things you need.
 
       One good trick is to ask yourself whether in your previous job you ever found yourself saying "Why doesn't someone make x? If someone made x we'd buy it in a second."
 
-  - tags: [pivot, ideas]
+  - tags: [pivot, idea]
     id: 44
     quote: >
        If you're changing ideas, one unusual thing about you is the idea you'd previously been working on. Did you discover any needs while working on it? Several well-known startups began this way. Hotmail began as something its founders wrote to talk about their previous startup idea while they were working at their day jobs.
 
-  - tags: [user interviews, ideas, idea validation]
+  - tags: [user interviews, idea, idea validation]
     id: 45
     quote: >
        Try talking to everyone you can about the gaps they find in the world. What's missing? What would they like to do that they can't? What's tedious or annoying, particularly in their work? Let the conversation get general; don't be trying too hard to find startup ideas. You're just looking for something to spark a thought
@@ -283,12 +283,12 @@ advise:
     quote: >
        It's easy to see how little launches matter. Think of some successful startups. How many of their launches do you remember? All you need from a launch is some initial core of users.
 
-  - tags: [ideas, idea validation]
+  - tags: [idea, idea validation]
     id: 58
     quote: >
       Since startups often garbage-collect broken companies and industries, it can be a good trick to look for those that are dying, or deserve to, and try to imagine what kind of company would profit from their demise.
 
-  - tags: [ideas]
+  - tags: [idea]
     id: 59
     quote: >
       There are a lot of stories about successful startups that began when the founders had what seemed a crazy idea but "just knew" it was promising. When you feel that about an idea you've had while trying to come up with startup ideas, you're probably mistaken.
@@ -305,7 +305,7 @@ advise:
     quote: >
       For a company to grow really big, it must (a) make something lots of people want, and (b) reach and serve all those people.
 
-  - tags: [ideas, technology]
+  - tags: [idea, technology]
     id: 63
     quote: >
        That's one connection between startup ideas and technology. Rapid change in one area uncovers big, soluble problems in other areas.
@@ -472,17 +472,17 @@ advise:
       In a sense there's just one mistake that kills startups: not making something users want.
 
   - tags: [founders, single founder]
-    id: 83
+    id: 183
     quote: >
       What's wrong with having one founder? To start with, it's a vote of no confidence. It probably means the founder couldn't talk any of his friends into starting the company with him... Starting a startup is too hard for one person... The low points in a startup are so low that few could bear them alone.
 
-  - tags: [ideas]
+  - tags: [idea]
     id: 85
     quote: >
       Instead of starting from companies and working back to the problems they solved, look for problems and imagine the company that might solve them. [2] What do people complain about? What do you wish there was?
 
   - tags: [vision, founders]
-    id: 86
+    id: 186
     quote: >
       no one really good wants a job implementing the vision of a business guy.
 
@@ -534,36 +534,36 @@ advise:
 
 
   - tags: [technology, investors]
-    id: 82
+    id: 90
     quote: >
        two kinds of people to create a technology hub: rich people and nerds
 
   - tags: [investors]
-    id: 83
+    id: 91
     quote: >
       A good investor tend to have a lot of experience themselves in the technology business. This (a) helps them pick the right startups, and (b) means they can supply advice and connections as well as money.
 
   - tags: [market, competition, beachhead]
-    id: 84
+    id: 92
     quote: >
       Most of the groups that apply to Y Combinator suffer from a common problem: choosing a small, obscure niche in the hope of avoiding competition.
 
   - tags: [vc, investment, fundraising]
-    id: 85
+    id: 93
     quote: >
       If you get an offer from a reputable firm at a reasonable valuation with no unusually onerous terms, just take it and get on with building the company.
 
   - tags: [users, product market fit, tradeoffs]
-    id: 86
+    id: 94
     quote: >
       The companies that win are the ones that put users first. Google, for example. They made search work, then worried about how to make money from it.
 
   - tags: [founders]
-    id: 88
+    id: 188
     quote: >
       Most disputes are not due to the situation but the people. Which means they're inevitable. And most founders who've been burned by such disputes probably had misgivings, which they suppressed, when they started the company. Don't suppress misgivings. It's much easier to fix problems before the company is started than after.
 
   - tags: [success]
-    id: 90
+    id: 95
     quote: >
       In other words, starting startups is just like everything else. The biggest mistake you can make is not to try hard enough. To the extent there's a secret to success, it's not to be in denial about that.

@@ -24,7 +24,10 @@ Router.freeRoutes = [
 	"guide",
 	"guide.introduction",
 	"guide.preparation",
-	"guide.ideas"
+	"guide.ideas",
+	"guide.idea_validation",
+	"guide.market",
+	"guide.founders"
 ];
 
 Router.defaultFreeRoute = "authors";
@@ -60,4 +63,7 @@ Router.map(function () {
 	this.route("/guide/introduction", {name: "guide.introduction", title: "", controller: "GuideIntroductionController"});
 	this.route("/guide/preparation", {name: "guide.preparation", title: "", controller: "GuidePreparationController"});
 	this.route("/guide/ideas", {name: "guide.ideas", title: "", controller: "GuideIdeasController"});
+	this.route("/guide/idea_validation", {name: "guide.idea_validation", title: "", controller: "GuideIdeaValidationController"});
+	this.route("/guide/market", {name: "guide.market", title: "", controller: "GuideMarketController"});
+	this.route("/guide/founders", {name: "guide.founders", title: "", controller: "GuideFoundersController"});
 });

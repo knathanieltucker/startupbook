@@ -530,6 +530,18 @@
                 {
 									"title": "Ideas",
 									"route": "guide.ideas"
+								},
+                {
+									"title": "Idea Validation",
+									"route": "guide.ideaValidation"
+								},
+                {
+									"title": "Market",
+									"route": "guide.market"
+								},
+                {
+									"title": "Founders",
+									"route": "guide.founders"
 								}
 							],
 							"object_type": "menu"
@@ -568,6 +580,42 @@
 									"name": "ideas",
 									"type": "markdown",
 									"source_file": "startupbook/private/guides/ideas.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+            {
+							"name": "ideaValidation",
+							"type": "page",
+							"components": [
+								{
+									"name": "ideaValidation",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/ideaValidation.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+            {
+							"name": "market",
+							"type": "page",
+							"components": [
+								{
+									"name": "market",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/market.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+            {
+							"name": "founders",
+							"type": "page",
+							"components": [
+								{
+									"name": "founders",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/founders.md",
 									"object_type": "markdown"
 								}
 							]
