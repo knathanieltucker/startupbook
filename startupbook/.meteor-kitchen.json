@@ -2,7 +2,7 @@
 	"output_files": [
 		{
 			"path": "client/views/router.js",
-			"checksum": "e485b1c0f9f5577577efb6f9719080339fe4a15a"
+			"checksum": "41043aa269b3beba00b0812e01cd189dbec864b5"
 		},
 		{
 			"path": "server/controllers/router.js",
@@ -214,7 +214,7 @@
 		},
 		{
 			"path": "client/views/guide/guide.html",
-			"checksum": "6ad2aff796261851ee050e69ed5c0d361fec2674"
+			"checksum": "c9d177d3260089785d668e78dffc85526603f49f"
 		},
 		{
 			"path": "client/views/guide/guide.js",
@@ -295,6 +295,30 @@
 		{
 			"path": "client/views/guide/founders/founders_controller.js",
 			"checksum": "4eb8fca34d2267e5dd9c7b7151dea8785bba401d"
+		},
+		{
+			"path": "client/views/guide/interviews/interviews.html",
+			"checksum": "d4907908429f2ebb6e0728810489a75e418632ff"
+		},
+		{
+			"path": "client/views/guide/interviews/interviews.js",
+			"checksum": "10c94783d4a6ff4dcfbfe969ef3348cd56ff1545"
+		},
+		{
+			"path": "client/views/guide/interviews/interviews_controller.js",
+			"checksum": "148ff353e3dbe58ac940afa08e5f27c209f0d481"
+		},
+		{
+			"path": "client/views/guide/first_users/first_users.html",
+			"checksum": "d5b8815db0f7d944bcab35c27a93e0a5697ad9b2"
+		},
+		{
+			"path": "client/views/guide/first_users/first_users.js",
+			"checksum": "4bfcd9bac1950b3af6351f202fed40a96f4d8ff7"
+		},
+		{
+			"path": "client/views/guide/first_users/first_users_controller.js",
+			"checksum": "1130fb7a7494a673b805504dfec70025e406a9b9"
 		},
 		{
 			"path": "both/collections/authors.js",
@@ -526,9 +550,11 @@
 		"client/views/authors/add_authors/insert/",
 		"client/views/authors/add_authors/update/",
 		"client/views/guide/",
+		"client/views/guide/first_users/",
 		"client/views/guide/founders/",
 		"client/views/guide/idea_validation/",
 		"client/views/guide/ideas/",
+		"client/views/guide/interviews/",
 		"client/views/guide/introduction/",
 		"client/views/guide/market/",
 		"client/views/guide/preparation/",

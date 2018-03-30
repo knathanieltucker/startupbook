@@ -542,6 +542,14 @@
                 {
 									"title": "Founders",
 									"route": "guide.founders"
+								},
+                {
+									"title": "Interviews",
+									"route": "guide.interviews"
+								},
+                {
+									"title": "First Users",
+									"route": "guide.firstUsers"
 								}
 							],
 							"object_type": "menu"
@@ -616,6 +624,30 @@
 									"name": "founders",
 									"type": "markdown",
 									"source_file": "startupbook/private/guides/founders.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+            {
+							"name": "interviews",
+							"type": "page",
+							"components": [
+								{
+									"name": "interviews",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/interviews.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+            {
+							"name": "firstUsers",
+							"type": "page",
+							"components": [
+								{
+									"name": "firstUsers",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/firstUsers.md",
 									"object_type": "markdown"
 								}
 							]

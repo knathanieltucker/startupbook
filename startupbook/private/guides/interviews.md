@@ -1,0 +1,42 @@
+# Interviews
+
+## Who to hire
+
+1. Good communication [1]
+2. Is this person in the top 5% of people you've worked with? [5]
+3. Culture fit [7] [8]
+
+
+## Questions to ask
+
+1. Talk to the candidates about what they've done
+2. Ask them about their most impressive projects
+3. Ask how they spend their time during an average day
+4. Ask what they got done in the last month
+5. Go deep in a specific area and ask about what the can actually did
+6. Ask how they would solve a problem related to the role they are interviewing for. [3]
+
+Ask for references!
+
+## Hiring Hacks
+
+1. Have a sign in the interview room: Mediocre engineers do not build great companies [2]
+2. Whenever possible have someone do a day or two of work with you before you hire [4] [6]
+
+## Footnotes
+
+[1] {{qt 'Sam Altman' 20}}
+
+[2] {{qt 'Sam Altman' 15}}
+
+[3] {{qt 'Sam Altman' 42}}
+
+[4] {{qt 'Sam Altman' 43}}
+
+[5] {{qt 'Sam Altman' 70}}
+
+[6] {{qt 'Sam Altman' 81}}
+
+[7] {{qt 'Alfred Lin' 6}}
+
+[8] {{qt 'Alfred Lin' 8}}
