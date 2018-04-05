@@ -1,0 +1,30 @@
+# Features
+
+1. Build features incrementally 
+	1. Two weeks is max to finish a feature
+	3. This includes incrementally understanding users [1]
+	2. This includes scaling incrementally [2]
+2. Build features that get to the bottom of users wants [3] [7]
+3. Err on minimal and intuitive [4] [6]
+	1. This means modularize not customize [8]
+4. Add a 'since you've been gone' to tell users of new features [5]
+
+
+
+## Footnotes
+
+[1] {{qt 'Ben Chestnut' 6}}
+
+[2] {{qt 'Adora Chueng' 18}}
+
+[3] {{qt 'Adora Chueng' 20}}
+
+[4] {{qt 'Kevin Hale' 18}}
+
+[5] {{qt 'Kevin Hale' 20}}
+
+[6] {{qt 'Kevin Hale' 33}}
+
+[7] {{qt 'Aaron Levie' 8}}
+
+[8] {{qt 'Aaron Levie' 9}}

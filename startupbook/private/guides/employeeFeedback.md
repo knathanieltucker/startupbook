@@ -1,0 +1,22 @@
+# Employee Feedback
+
+1. Give feedback as soon as possible [1]
+	1. This includes firing fast [5]
+2. Feedback should be part of the culture, not personal [2]
+
+## Dealing with complaints
+
+1. Complaints about behavior - get both people in the room [3]
+2. Complaints about performance - check out the quote [4]
+
+## Footnotes
+
+[1] {{qt 'Patrick and John Collison' 9}}
+
+[2] {{qt 'Andreessen Horowitz' 7}}
+
+[3] {{qt 'Andreessen Horowitz' 11}}
+
+[4] {{qt 'Andreessen Horowitz' 12}}
+
+[5] {{qt 'Ben Silbbermann' 1}}

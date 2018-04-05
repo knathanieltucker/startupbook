@@ -133,18 +133,6 @@ advise:
     quote: >
       So John Gottman understands something fundamental about how relationships work in the long term, and that basically how we fight even in the short term period can indicate the whole system and what it's going to look like. One of the surprising things he discovered is not that successfully married people don't fight at all; turns out, everybody fights and we all fight about the exact same things: money, kids, sex, time, and others ("Others" are things like jealousy and the in-laws.) To bring this around, you can actually attribute every single one of these to problems to things you see in customer support when you're building out your products, so Money - this costs too much, or I'm having trouble with credit cards. Kids - users' client. Sex - performance, how long you're up and how fast. Others - I said was jealousy or in-laws, so that's competition and partnerships, anything weird happening there, people are going to write to you about. And the reason I like to think about this in terms of customer support is that, in everyone's processing of a conversion funnel, customer support is a thing that happens in between every one of the steps; it's the reason why people don't make it further down there; it's the thing that prevents conversion from happening.
 
-  - tags: [customer service, employees, feedback]
-    id: 27
-    quote: >
-      make everyone do customer support. What you end up having is you fix the feedback. The people who built the software are the ones supporting it, and you get all these nice benefits as a result.
-
-  - tags: [customer service, employees, feedback, counterintuitive]
-    id: 28
-    quote: >
-       Paul English was a big supporter of this in Kayak. What he did was install a red customer support phone line in the middle of the engineering floor, and it would just ring with customer support calls.
-
-
-
 
   - tags: [ceo, employees, users]
     id: 29
@@ -156,16 +144,6 @@ advise:
     id: 30
     quote: >
       Fogg Behavior Model: Behavior = motivation + ability + triggers
-
-  - tags: [customer service, employees, feedback]
-    id: 31
-    quote: >
-      make everyone do customer support. What you end up having is you fix the feedback. The people who built the software are the ones supporting it, and you get all these nice benefits as a result.
-
-  - tags: [customer service, employees, feedback, counterintuitive]
-    id: 32
-    quote: >
-       Paul English was a big supporter of this in Kayak. What he did was install a red customer support phone line in the middle of the engineering floor, and it would just ring with customer support calls.
 
   - tags: [users, features]
     id: 33

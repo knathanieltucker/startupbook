@@ -1,0 +1,41 @@
+# Priorities
+
+Most important:
+
+1. You need to focus on 1 or 2 things [2]
+2. You need to say no 97% of the time [3]
+
+## Before product market fit
+
+1. Eat
+2. Sleep
+3. Exercise
+4. Work on product [1]
+
+## After product market fit
+
+1. Spend 50% of your time hiring [4] [5]
+
+
+## Fund raising 
+
+You should either be in fund raising mode or not. [6]
+
+And have one founder fund raise while the others work on the product. [7]
+
+
+## Footnotes
+
+[1] {{qt 'Sam Altman' 6}}
+
+[2] {{qt 'Sam Altman' 26}}
+
+[3] {{qt 'Sam Altman' 27}}
+
+[4] {{qt 'Sam Altman' 38}}
+
+[5] {{qt 'Sam Altman' 52}}
+
+[6] {{qt 'Paul Graham' 75}}
+
+[7] {{qt 'Paul Graham' 90}}

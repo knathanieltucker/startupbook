@@ -1,0 +1,21 @@
+# MVP
+
+An MVP is:
+
+1. The smallest feature set that will solve the problem [3]
+	1. It should be useful on its own
+	2. Something that can be incrementally expanded upon [2]
+
+You should stick to this approach for consumer products [4]
+
+For SAAS and enterprise companies it is much more common to build the product in the A round. There is no point in having an MVP because the customer won't buy one. [1]
+
+## Footnotes
+
+[1] {{qt 'Marc Andressen' 8}}
+
+[2] {{qt 'Paul Graham' 88}}
+
+[3] {{qt 'Adora Chueng' 8}}
+
+[4] {{qt 'Stanley Tang' 3}}
