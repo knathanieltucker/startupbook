@@ -29,10 +29,14 @@ It's important to have everybody in the same building [1]
 
 Employees cost 15k per month [2]
 
+Once the team is bigger offsites tend to be pretty useful [3]
+
 ## Footnotes
 
 [1] {{qt 'Sam Altman' 48}}
 
 [2] {{qt 'Sam Altman' 83}}
+
+[3] {{qt 'Sam Altman' 86}}
 
 

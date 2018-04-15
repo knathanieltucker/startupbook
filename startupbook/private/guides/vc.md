@@ -14,7 +14,7 @@ Investors invest in strength, not lack of weakness [2]
 
 They look for subsequent reductions in risk [4]
 
-Focus on product rather than the pitch [5] [7] [9] [22] [23]
+Focus on product rather than the pitch [5] [7] [9] [22] [23] [32]
 
 ## VC tactics
 
@@ -103,3 +103,5 @@ Focus on product rather than the pitch [5] [7] [9] [22] [23]
 [30] {{qt 'Paul Graham' 88}}
 
 [31] {{qt 'Kirsty Nathoo' 7}}
+
+[32] {{qt 'Marc Andreessen' 3}}

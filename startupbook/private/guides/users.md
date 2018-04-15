@@ -2,6 +2,8 @@
 
 {{qt 'Paul Graham' 82}}
 
+Ultimately you need expertise in your users [24]
+
 ## Who are your first users
 
 Ultimately it's going to be the innovators (2.5% of the curve) [1]
@@ -90,3 +92,5 @@ And of course launch quickly. [13]
 [22] {{qt 'Christoph Janz' 2}}
 
 [23] {{qt 'Christoph Janz' 3}}
+
+[24] {{qt 'Paul Graham' 7}}

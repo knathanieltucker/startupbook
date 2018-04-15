@@ -7,7 +7,7 @@ Why is this so important, I'll let SA take it away [4]:
 ## How do build a great product
 
 0. Be obsessed with your product [8]
-	1. Think about the little big things 
+	1. Think about the little big things [23]
 1. Build something users love [1] [9] [10]
 2. Be either
   1. Best product
@@ -26,6 +26,7 @@ Why is this so important, I'll let SA take it away [4]:
 6. Think about distribution [9]
 7. Users before monetization [12]
 8. Prioritize the marginal user [20]
+9. Add documentation [24]
 
 
 ## Indicators of a great product
@@ -87,3 +88,5 @@ Check out the other section [product validation]({{pathFor 'guide.productValidat
 [22] {{qt 'Stanley Tang' 1}}
 
 [23] {{qt 'Kevin Hale' 8}}
+
+[24] {{qt 'Kevin Hale' 9}}

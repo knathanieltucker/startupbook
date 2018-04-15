@@ -5,6 +5,8 @@ Most important:
 1. You need to focus on 1 or 2 things [2]
 2. You need to say no 97% of the time [3]
 
+And remember to be biased towards action [8]
+
 ## Before product market fit
 
 1. Eat
@@ -39,3 +41,5 @@ And have one founder fund raise while the others work on the product. [7]
 [6] {{qt 'Paul Graham' 75}}
 
 [7] {{qt 'Paul Graham' 90}}
+
+[8] {{qt 'Alex Schultz' 16}}

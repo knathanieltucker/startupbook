@@ -40,6 +40,9 @@ Check out [ceo]({{pathFor 'guide.ceo'}})
 9. Both flexible and persistent (When to pivot) [13] [14]
 10. You collaborate well
 11. Together you get to the truth [15]
+12. Effort [16]
+13. Excellent on the everyday details [17]
+14. And trust your instinct with people [18]
 
 ### How do you find cofounders
 
@@ -84,3 +87,9 @@ It's a bad signal, don't do it. [6]
 [14] {{qt 'Reid Hoffman' 5}}
 
 [15] {{qt 'Reid Hoffman' 9}}
+
+[16] {{qt 'Paul Graham' 95}}
+
+[17] {{qt 'Keith Rabois' 14}}
+
+[18] {{qt 'Paul Graham' 6}}

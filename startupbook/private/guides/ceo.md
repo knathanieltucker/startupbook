@@ -8,6 +8,7 @@ CEOs are made not born [9]
 2. Obsessed by the product
 3. Communicator [6]
 4. Decisive [7]
+	1. And when you need a second, just say so [19]
 
 ## Jobs
 
@@ -75,3 +76,5 @@ A great metaphor for a CEO is an editor [11]
 [17] {{qt 'Alex Schultz' 5}}
 
 [18] {{qt 'Alex Schultz' 6}}
+
+[19] {{qt 'Andreessen Horowitz' 5}}
