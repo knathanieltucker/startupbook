@@ -10,6 +10,13 @@ As a note on this current doc, most of the information comes from here:
 
 {{qt 'Paul Graham' 25}}
 
+## Idea validation
+
+If looking to validate a startup idea see:
+
+* [Idea Validation]({{pathFor 'guide.ideaValidation'}})
+* [Market]({{pathFor 'guide.market'}})
+
 ## Philosophy of startup ideas
 
 The philosophy of startup ideas is that they are not thought up, they are noticed:

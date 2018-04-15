@@ -1,0 +1,138 @@
+# Hiring
+
+If wanting interview hacks see [interviews]({{pathFor 'guide.interviews'}})
+
+Getting good people is the most important thing a founder does. [8] You can't outsource this [10]
+
+If it comes to hiring suboptimal vs losing customers, think very hard about the decision [7]
+
+
+## When do you hire
+
+Really try not to [2]. 
+
+Once you have product market fit, you should spend 500% of your time hiring. [9] [19]
+
+
+## How do you hire
+
+If hiring for a new role, learn to role before you hire. [11] Another way that you can do this is ask people doing this that you know are smart [30]
+
+0. Perfect your vision and pitch [27]
+1. Be a rocketship [1]
+2. Go to your personal network (and the company's network) [3] [13]
+	1. As soon as you hire a star, ask them for referrals [14]
+3. Other ways to get candidates
+	1. Tech recruiters are bad
+	2. Job boards are worse
+	3. Conferences are good
+	4. Tech talks are good for technical people
+	5. University recruiting is good once established
+	6. Investors and their networks are good [15]
+4. Be generous about equity comp [17]
+	1. See [equity]({{pathFor 'guide.equity'}}) for more details
+5. Keep records of hire decisions [20]
+6. Be consistent and organized (see the footnote) [21]
+7. Announce new hires [22]
+8. Ask for references [32]
+
+Once you are around 50 people, things will need to change. See [late stage]({{pathFor 'guide.lateStage'}}) for more details.
+
+
+## Who do you hire
+
+Be very careful on your first few hires. [24] See [first hires]({{pathFor 'guide.firstHires'}}) for more details.
+
+Look for
+
+0. Look for undervalued people [25] [29]
+1. In this order:
+	1. Values/belief (hire for a calling, not a job) [23] [31]
+	2. Aptitude 
+	3. Skills [12]
+2. Are they smart
+3. Do they get things done [26]
+4. Do I want to spend time around them [5] [34]
+	1. The Sunday test [16]
+5. Communication skills [6]
+6. If you have a bad feeling, pass [18]
+7. The right type of ambition [28]
+8. Try the animal test [35]
+5. Experience is important for hiring managers [4]
+
+## Onboarding
+
+See the footnote below [33]
+
+
+## Footnotes
+
+[1] {{qt 'Sam Altman' 14}}
+
+[2] {{qt 'Sam Altman' 13}}
+
+[3] {{qt 'Sam Altman' 16}}
+
+[4] {{qt 'Sam Altman' 17}}
+
+[5] {{qt 'Sam Altman' 18}}
+
+[6] {{qt 'Sam Altman' 20}}
+
+[7] {{qt 'Sam Altman' 24}}
+
+[8] {{qt 'Sam Altman' 37}}
+
+[9] {{qt 'Sam Altman' 38}}
+
+[10] {{qt 'Sam Altman' 39}}
+
+[11] {{qt 'Sam Altman' 40}}
+
+[12] {{qt 'Sam Altman' 41}}
+
+[13] {{qt 'Sam Altman' 44}}
+
+[14] {{qt 'Sam Altman' 45}}
+
+[15] {{qt 'Sam Altman' 36}}
+
+[16] {{qt 'Sam Altman' 47}}
+
+[17] {{qt 'Sam Altman' 49}}
+
+[18] {{qt 'Sam Altman' 51}}
+
+[19] {{qt 'Sam Altman' 52}}
+
+[20] {{qt 'Sam Altman' 53}}
+
+[21] {{qt 'Sam Altman' 54}}
+
+[22] {{qt 'Sam Altman' 82}}
+
+[23] {{qt 'Brian Chesky' 6}}
+
+[24] {{qt 'Patrick and John Collison' 3}}
+
+[25] {{qt 'Patrick and John Collison' 5}}
+
+[26] {{qt 'Patrick and John Collison' 6}}
+
+[27] {{qt 'Patrick and John Collison' 7}}
+
+[28] {{qt 'Andreessen Horowitz' 9}}
+
+[29] {{qt 'Chamath Palihapitya' 6}}
+
+[30] {{qt 'Ben Silbbermann' 2}}
+
+[31] {{qt 'Ben Silbbermann' 3}}
+
+[32] {{qt 'Ben Silbbermann' 4}}
+
+[33] {{qt 'Ben Silbbermann' 6}}
+
+[34] {{qt 'Mark Zuckerberg' 1}}
+
+[35] {{qt 'Sam Altman' 3}}

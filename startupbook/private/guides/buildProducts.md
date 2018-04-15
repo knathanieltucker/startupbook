@@ -1,0 +1,14 @@
+## Build Products
+
+So you have an idea (that has been validated), what comes next?
+
+0. Do [user interviews]({{pathFor 'guide.userInterviews'}})
+1. Build a [product]({{pathFor 'guide.product'}})
+	1. [MVP]({{pathFor 'guide.mvp'}})
+	1. [Enterprise?]({{pathFor 'guide.enterprise'}})
+	1. [Features]({{pathFor 'guide.features'}})
+2. Get [users]({{pathFor 'guide.users'}})
+	1. Get [user feedback]({{pathFor 'guide.userFeedback'}})
+	1. Make good [customer service]({{pathFor 'guide.customerService'}})
+	1. Get an [aha moment]({{pathFor 'guide.ahaMoment'}})
+3. Get [product market fit]({{pathFor 'guide.productMarketFit'}}) 

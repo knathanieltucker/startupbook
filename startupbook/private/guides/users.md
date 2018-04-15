@@ -2,14 +2,6 @@
 
 {{qt 'Paul Graham' 82}}
 
-TODO, this will need to be combined with Product into one page with subsections including:
-
-* Feedback
-* First users
-* Customer service
-* Retention
-* User interviews
-
 ## Who are your first users
 
 Ultimately it's going to be the innovators (2.5% of the curve) [1]

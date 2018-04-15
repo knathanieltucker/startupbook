@@ -1,0 +1,41 @@
+# Equity
+
+You should plan to give out 3 - 5% of the company every year [4]
+
+## Founder equity
+
+Should be equal. [1] [8] [9]
+
+## Employee Equity
+
+Comp should be equity heavy. [7] Rough numbers are 1.5% for the first engineer and .25% for the 20th, but variance is huge [3]
+
+Always stay in front of people's vesting schedules [5]
+
+
+See footnote for more explanation [2]
+
+## VC equity
+
+VCs care more about ownership than price [6]
+
+
+## Footnotes
+
+[1] {{qt 'Sam Altman' 23}}
+
+[2] {{qt 'Sam Altman' 11}}
+
+[3] {{qt 'Sam Altman' 49}}
+
+[4] {{qt 'Sam Altman' 77}}
+
+[5] {{qt 'Sam Altman' 78}}
+
+[6] {{qt 'Parker Conrad' 3}}
+
+[7] {{qt 'Paul Graham' 83}}
+
+[8] {{qt 'Kirsty Nathoo' 4}}
+
+[9] {{qt 'Kirsty Nathoo' 5}}

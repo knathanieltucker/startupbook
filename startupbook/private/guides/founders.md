@@ -20,6 +20,10 @@ You should be mostly hacking, with some time doing business stuff. [8]
 
 Founders should be full time [9]
 
+## CEO
+
+Check out [ceo]({{pathFor 'guide.ceo'}})
+
 ## Cofounders
 
 ### What should cofounders be like

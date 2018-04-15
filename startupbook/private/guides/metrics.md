@@ -13,6 +13,7 @@ It is especially important to measure when you are building something you don't 
 	1. Good growth rate is 6%, great is 10% a week [7]
 3. Hiring decisions [3]
 4. Burnout [4]
+5. How much you get things done [17]
 
 
 ## What should you measure (low level)
@@ -68,3 +69,5 @@ It is especially important to measure when you are building something you don't 
 [15] {{qt 'Alex Schultz' 10}}
 
 [16] {{qt 'Ben Silbbermann' 6}}
+
+[17] {{qt 'Sam Altman' 91}}

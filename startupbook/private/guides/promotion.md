@@ -1,0 +1,23 @@
+# Promotion
+
+Be upfront about career growth of early engineers [1]
+
+Have a process for raises and promotions [2] [5]
+
+Generally managers are promoted because of their individual performance. [3]
+
+Keep expanding people's responsibilities till they break [4] [8]
+
+## Footnotes
+
+[1] {{qt 'Sam Altman' 84}}
+
+[2] {{qt 'Andreessen Horowitz' 3}}
+
+[3] {{qt 'Kirsty Nathoo' 15}}
+
+[4] {{qt 'Keith Rabois' 10}}
+
+[5] {{qt 'Keith Rabois' 78}}
+
+[6] {{qt 'Ben Silbbermann' 8}}

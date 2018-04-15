@@ -1,0 +1,50 @@
+# Legal 
+
+For more info read this footnote [100]
+
+## Deal documents
+
+YC has open source deal documents [1]
+
+## Incorporation
+
+1. Delaware [2]
+2. Clerky [3]
+3. Stock purchase agreements, 83(b), and keep proof of it [4]
+
+## Fundraising
+
+Use standard docs [5]
+
+Pro-rata rights are common for investors [6]
+
+## Compensation
+
+Pay founders [7]
+
+Pay employees [8]
+
+Have a payroll provider [9]
+
+
+## Footnotes
+
+[1] {{qt 'Tyler Bosmeny' 9}}
+
+[2] {{qt 'Kirsty Nathoo' 1}}
+
+[3] {{qt 'Kirsty Nathoo' 2}}
+
+[4] {{qt 'Kirsty Nathoo' 6}}
+
+[5] {{qt 'Kirsty Nathoo' 7}}
+
+[6] {{qt 'Kirsty Nathoo' 9}}
+
+[7] {{qt 'Kirsty Nathoo' 12}}
+
+[8] {{qt 'Kirsty Nathoo' 13}}
+
+[9] {{qt 'Kirsty Nathoo' 14}}
+
+[10] {{qt 'Kirsty Nathoo' 17}}
