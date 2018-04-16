@@ -6,6 +6,8 @@ Choose your north star carefully, because the company will optimize what you cho
 
 It is especially important to measure when you are building something you don't use. [8]
 
+First thing you should do is build a dashboard [18]
+
 ## What should you measure (high level)
 
 1. Word of mouth [2]
@@ -71,3 +73,5 @@ It is especially important to measure when you are building something you don't 
 [16] {{qt 'Ben Silbbermann' 6}}
 
 [17] {{qt 'Sam Altman' 91}}
+
+[18] {{qt 'Keith Rabois' 12}}
