@@ -524,32 +524,77 @@
 									"route": "guide.introduction"
 								},
 								{
-									"title": "Preparation",
-									"route": "guide.preparation"
-								},
-                {
-									"title": "Ideas",
-									"route": "guide.ideas"
-								},
-                {
-									"title": "Idea Validation",
-									"route": "guide.ideaValidation"
-								},
-                {
-									"title": "Market",
-									"route": "guide.market"
-								},
-                {
 									"title": "Founders",
 									"route": "guide.founders"
 								},
-                {
-									"title": "Interviews",
-									"route": "guide.interviews"
+								{
+									"title": "CEO",
+									"route": "guide.ceo"
 								},
-                {
-									"title": "First Users",
-									"route": "guide.firstUsers"
+								{
+									"title": "Preparation",
+									"route": "guide.preparation"
+								},
+                				{
+									"title": "Ideas",
+									"route": "guide.ideas"
+								},
+                				{
+									"title": "Idea Validation",
+									"route": "guide.ideaValidation"
+								},
+                				{
+									"title": "Build a Product",
+									"route": "guide.buildProducts"
+								},
+                				
+                				{
+									"title": "Vision",
+									"route": "guide.vision"
+								},
+                				{
+									"title": "Culture",
+									"route": "guide.culture"
+								},
+                				{
+									"title": "Creativity",
+									"route": "guide.creativity"
+								},
+                				{
+									"title": "Growth",
+									"route": "guide.growth"
+								},
+                				{
+									"title": "Metrics",
+									"route": "guide.metrics"
+								},
+                				{
+									"title": "Employees",
+									"route": "guide.employees"
+								},
+                				{
+									"title": "Fundraising",
+									"route": "guide.fundraising"
+								},
+                				{
+									"title": "Pitch",
+									"route": "guide.pitch"
+								},
+                				{
+									"title": "Late Stage",
+									"route": "guide.lateStage"
+								},
+                				{
+									"title": "Priorities",
+									"route": "guide.priorities"
+								},
+                				{
+									"title": "Philosophy",
+									"route": "guide.philosophy"
+								},
+                				{
+									"title": "Legal",
+									"route": "guide.legal"
 								}
 							],
 							"object_type": "menu"
@@ -580,43 +625,175 @@
 								}
 							]
 						},
-            {
-							"name": "ideas",
+						{
+							"name": "buildProducts",
 							"type": "page",
 							"components": [
 								{
-									"name": "ideas",
+									"name": "buildProducts",
 									"type": "markdown",
-									"source_file": "startupbook/private/guides/ideas.md",
+									"source_file": "startupbook/private/guides/buildProducts.md",
 									"object_type": "markdown"
 								}
 							]
 						},
-            {
-							"name": "ideaValidation",
+						{
+							"name": "ceo",
 							"type": "page",
 							"components": [
 								{
-									"name": "ideaValidation",
+									"name": "ceo",
 									"type": "markdown",
-									"source_file": "startupbook/private/guides/ideaValidation.md",
+									"source_file": "startupbook/private/guides/ceo.md",
 									"object_type": "markdown"
 								}
 							]
 						},
-            {
-							"name": "market",
+						{
+							"name": "compensation",
 							"type": "page",
 							"components": [
 								{
-									"name": "market",
+									"name": "compensation",
 									"type": "markdown",
-									"source_file": "startupbook/private/guides/market.md",
+									"source_file": "startupbook/private/guides/compensation.md",
 									"object_type": "markdown"
 								}
 							]
 						},
-            {
+						{
+							"name": "creativity",
+							"type": "page",
+							"components": [
+								{
+									"name": "creativity",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/creativity.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "culture",
+							"type": "page",
+							"components": [
+								{
+									"name": "culture",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/culture.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "customerService",
+							"type": "page",
+							"components": [
+								{
+									"name": "customerService",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/customerService.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "employeeFeedback",
+							"type": "page",
+							"components": [
+								{
+									"name": "employeeFeedback",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/employeeFeedback.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "employees",
+							"type": "page",
+							"components": [
+								{
+									"name": "employees",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/employees.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "enterprise",
+							"type": "page",
+							"components": [
+								{
+									"name": "enterprise",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/enterprise.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "equity",
+							"type": "page",
+							"components": [
+								{
+									"name": "equity",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/equity.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "features",
+							"type": "page",
+							"components": [
+								{
+									"name": "features",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/features.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "firing",
+							"type": "page",
+							"components": [
+								{
+									"name": "firing",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/firing.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "firstUsers",
+							"type": "page",
+							"components": [
+								{
+									"name": "firstUsers",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/firstUsers.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "firstHires",
+							"type": "page",
+							"components": [
+								{
+									"name": "firstHires",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/firstHires.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
 							"name": "founders",
 							"type": "page",
 							"components": [
@@ -628,7 +805,67 @@
 								}
 							]
 						},
-            {
+						{
+							"name": "fundraising",
+							"type": "page",
+							"components": [
+								{
+									"name": "fundraising",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/fundraising.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "growth",
+							"type": "page",
+							"components": [
+								{
+									"name": "growth",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/growth.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "hiring",
+							"type": "page",
+							"components": [
+								{
+									"name": "hiring",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/hiring.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "ideas",
+							"type": "page",
+							"components": [
+								{
+									"name": "ideas",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/ideas.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "ideaValidation",
+							"type": "page",
+							"components": [
+								{
+									"name": "ideaValidation",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/ideaValidation.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
 							"name": "interviews",
 							"type": "page",
 							"components": [
@@ -640,14 +877,291 @@
 								}
 							]
 						},
-            {
-							"name": "firstUsers",
+						{
+							"name": "introduction",
 							"type": "page",
 							"components": [
 								{
-									"name": "firstUsers",
+									"name": "introduction",
 									"type": "markdown",
-									"source_file": "startupbook/private/guides/firstUsers.md",
+									"source_file": "startupbook/private/guides/introduction.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "investorMeetings",
+							"type": "page",
+							"components": [
+								{
+									"name": "investorMeetings",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/investorMeetings.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "lateStage",
+							"type": "page",
+							"components": [
+								{
+									"name": "lateStage",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/lateStage.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "legal",
+							"type": "page",
+							"components": [
+								{
+									"name": "legal",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/legal.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "management",
+							"type": "page",
+							"components": [
+								{
+									"name": "management",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/management.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "market",
+							"type": "page",
+							"components": [
+								{
+									"name": "market",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/market.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "metrics",
+							"type": "page",
+							"components": [
+								{
+									"name": "metrics",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/metrics.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "mvp",
+							"type": "page",
+							"components": [
+								{
+									"name": "mvp",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/mvp.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "philosophy",
+							"type": "page",
+							"components": [
+								{
+									"name": "philosophy",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/philosophy.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "pitch",
+							"type": "page",
+							"components": [
+								{
+									"name": "pitch",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/pitch.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "pr",
+							"type": "page",
+							"components": [
+								{
+									"name": "pr",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/pr.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "preparation",
+							"type": "page",
+							"components": [
+								{
+									"name": "preparation",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/preparation.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "priorities",
+							"type": "page",
+							"components": [
+								{
+									"name": "priorities",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/priorities.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "product",
+							"type": "page",
+							"components": [
+								{
+									"name": "product",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/product.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "productMarketFit",
+							"type": "page",
+							"components": [
+								{
+									"name": "productMarketFit",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/productMarketFit.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "promotion",
+							"type": "page",
+							"components": [
+								{
+									"name": "promotion",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/promotion.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "sales",
+							"type": "page",
+							"components": [
+								{
+									"name": "sales",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/sales.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "seriesA",
+							"type": "page",
+							"components": [
+								{
+									"name": "seriesA",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/seriesA.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "userFeedback",
+							"type": "page",
+							"components": [
+								{
+									"name": "userFeedback",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/userFeedback.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "userInterviews",
+							"type": "page",
+							"components": [
+								{
+									"name": "userInterviews",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/userInterviews.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "users",
+							"type": "page",
+							"components": [
+								{
+									"name": "users",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/users.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "vc",
+							"type": "page",
+							"components": [
+								{
+									"name": "vc",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/vc.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+						{
+							"name": "vision",
+							"type": "page",
+							"components": [
+								{
+									"name": "vision",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/vision.md",
+									"object_type": "markdown"
+								}
+							]
+						},
+            
+						{
+							"name": "ahaMoment",
+							"type": "page",
+							"components": [
+								{
+									"name": "ahaMoment",
+									"type": "markdown",
+									"source_file": "startupbook/private/guides/ahaMoment.md",
 									"object_type": "markdown"
 								}
 							]
