@@ -40,4 +40,4 @@ One bit of meta advice: after one year, plan one year ahead, after one month, ju
 1. [Legal]({{pathFor 'guide.legal'}})
 
 
-[1] {{qt 'Patrick and John Collison' 48}}
+[1] {{qt 'Patrick and John Collison' 10}}

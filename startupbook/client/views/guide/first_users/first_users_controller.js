@@ -1,10 +1,9 @@
 this.GuideFirstUsersController = RouteController.extend({
-	template: "Guide",
+	template: "GuideFirstUsers",
 	
 
 	yieldTemplates: {
-		'GuideFirstUsers': { to: 'GuideSubcontent'}
-		
+		/*YIELD_TEMPLATES*/
 	},
 
 	onBeforeAction: function() {
@@ -12,7 +11,7 @@ this.GuideFirstUsersController = RouteController.extend({
 	},
 
 	action: function() {
-		if(this.isReady()) { this.render(); } else { this.render("Guide"); this.render("loading", { to: "GuideSubcontent" });}
+		if(this.isReady()) { this.render(); } else { this.render("loading"); }
 		/*ACTION_FUNCTION*/
 	},
 
@@ -20,7 +19,6 @@ this.GuideFirstUsersController = RouteController.extend({
 		
 
 		var subs = [
-			Meteor.subscribe("quote_list")
 		];
 		var ready = true;
 		_.each(subs, function(sub) {
@@ -34,8 +32,7 @@ this.GuideFirstUsersController = RouteController.extend({
 		
 
 		var data = {
-			params: this.params || {},
-			quote_list: Quotes.find({}, {})
+			params: this.params || {}
 		};
 		
 

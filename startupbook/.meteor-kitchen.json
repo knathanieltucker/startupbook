@@ -2,7 +2,7 @@
 	"output_files": [
 		{
 			"path": "client/views/router.js",
-			"checksum": "41043aa269b3beba00b0812e01cd189dbec864b5"
+			"checksum": "bb9d51b029fdaa4c3db9ee08d27de2351af09a81"
 		},
 		{
 			"path": "server/controllers/router.js",
@@ -34,11 +34,11 @@
 		},
 		{
 			"path": "client/styles/styles/styles.less",
-			"checksum": "3173439f2847cc9a471d794cb61dd5ce00ff4ae6"
+			"checksum": "da67cd235d645f78e4d1425973d980dc63b7c54c"
 		},
 		{
 			"path": "client/views/layout/layout.html",
-			"checksum": "09a721f80b96d393028484b9eacac931f6debae1"
+			"checksum": "a7e6eeec89fd0b682caa2885c5a7540bc1a81a09"
 		},
 		{
 			"path": "client/views/layout/layout.js",
@@ -214,7 +214,7 @@
 		},
 		{
 			"path": "client/views/guide/guide.html",
-			"checksum": "c9d177d3260089785d668e78dffc85526603f49f"
+			"checksum": "94dbd471d030f711d458b90518c780f5f491ddc3"
 		},
 		{
 			"path": "client/views/guide/guide.js",
@@ -226,7 +226,7 @@
 		},
 		{
 			"path": "client/views/guide/introduction/introduction.html",
-			"checksum": "28d8dc5418714a879dc277a9a71480cc84c6eb87"
+			"checksum": "cffe366d2e506704ea6ed5e6f066171dc7f2ce71"
 		},
 		{
 			"path": "client/views/guide/introduction/introduction.js",
@@ -235,6 +235,378 @@
 		{
 			"path": "client/views/guide/introduction/introduction_controller.js",
 			"checksum": "d84ff503cee84f038844a156b4fe87dbb2b6e880"
+		},
+		{
+			"path": "client/views/guide/build_products/build_products.html",
+			"checksum": "46d5b800d14b9e0b1a1ee73a4e10158d9d5f0b11"
+		},
+		{
+			"path": "client/views/guide/build_products/build_products.js",
+			"checksum": "5052b9d16eeb5fd2c319c9fd5df9d00e56384bfe"
+		},
+		{
+			"path": "client/views/guide/build_products/build_products_controller.js",
+			"checksum": "a1873ea8fa3b44cfdc08e81e2e12ca1025262f88"
+		},
+		{
+			"path": "client/views/guide/ceo/ceo.html",
+			"checksum": "20b0851d74b47157a3e179a83da7120eb623fc72"
+		},
+		{
+			"path": "client/views/guide/ceo/ceo.js",
+			"checksum": "7093b2b6a3c0dafc8402c61a58d2ab11b191e576"
+		},
+		{
+			"path": "client/views/guide/ceo/ceo_controller.js",
+			"checksum": "9a1c6daf95991a7cc790532079af37c234b4ea0e"
+		},
+		{
+			"path": "client/views/guide/compensation/compensation.html",
+			"checksum": "f7d0968098349254b25cece850840fb04d3f5b80"
+		},
+		{
+			"path": "client/views/guide/compensation/compensation.js",
+			"checksum": "c61881730ec1be1ca04df6477b034bdf8b20c645"
+		},
+		{
+			"path": "client/views/guide/compensation/compensation_controller.js",
+			"checksum": "22a1f68da1894ec3274dfd095009f772de64c6e9"
+		},
+		{
+			"path": "client/views/guide/creativity/creativity.html",
+			"checksum": "a7fe8032b621a28fedcc1ba0ad3deb239a8efdda"
+		},
+		{
+			"path": "client/views/guide/creativity/creativity.js",
+			"checksum": "29fd99ebb7a408d977bece5c070bfd1a2b081998"
+		},
+		{
+			"path": "client/views/guide/creativity/creativity_controller.js",
+			"checksum": "a035667e764ee73ed964192224172fdf8a9c55c5"
+		},
+		{
+			"path": "client/views/guide/culture/culture.html",
+			"checksum": "21ba6931ca9a80d5fd38c065f92b0ce956313687"
+		},
+		{
+			"path": "client/views/guide/culture/culture.js",
+			"checksum": "9828bb72c4b241ad2e7486bf7e6efe5e5dffe54c"
+		},
+		{
+			"path": "client/views/guide/culture/culture_controller.js",
+			"checksum": "d801303d3f09536c66b0507b449ee907904168ff"
+		},
+		{
+			"path": "client/views/guide/customer_service/customer_service.html",
+			"checksum": "a3230731afce6d4026e8a9f6216ef52f178783d5"
+		},
+		{
+			"path": "client/views/guide/customer_service/customer_service.js",
+			"checksum": "f0714162598b00b6a6b137f28f8c1d05f3b2d061"
+		},
+		{
+			"path": "client/views/guide/customer_service/customer_service_controller.js",
+			"checksum": "03cd12669d5a653ba2ffd0fb3d5effb5babdfd4c"
+		},
+		{
+			"path": "client/views/guide/employee_feedback/employee_feedback.html",
+			"checksum": "f3120ff474cfd0933327b63366de0f844a0c3269"
+		},
+		{
+			"path": "client/views/guide/employee_feedback/employee_feedback.js",
+			"checksum": "f332aba39cd49bb0fc05fab84469ac645f131511"
+		},
+		{
+			"path": "client/views/guide/employee_feedback/employee_feedback_controller.js",
+			"checksum": "df44a267e48459751331749eeea3e54bb13cf912"
+		},
+		{
+			"path": "client/views/guide/employees/employees.html",
+			"checksum": "d092a2cd5bfdc279605187a6b94b1b7e210b43a9"
+		},
+		{
+			"path": "client/views/guide/employees/employees.js",
+			"checksum": "178b6be46350845711ed5af9227623a2b1256fd1"
+		},
+		{
+			"path": "client/views/guide/employees/employees_controller.js",
+			"checksum": "d3716c5adcf65809a36d5eae475e957353c7c19a"
+		},
+		{
+			"path": "client/views/guide/enterprise/enterprise.html",
+			"checksum": "a864ad747611b1e1e3ad0423a5802af717a50c57"
+		},
+		{
+			"path": "client/views/guide/enterprise/enterprise.js",
+			"checksum": "94cc4fcf834b22f24bade580f933d30a135a2644"
+		},
+		{
+			"path": "client/views/guide/enterprise/enterprise_controller.js",
+			"checksum": "e0c81069973ded3d4ab709f42fe8472b4caa1a35"
+		},
+		{
+			"path": "client/views/guide/equity/equity.html",
+			"checksum": "0a3f8606565d9a42b8710e062ee2d9f30574b780"
+		},
+		{
+			"path": "client/views/guide/equity/equity.js",
+			"checksum": "6158651c6d654ad70a5d898afc11d558970ea47c"
+		},
+		{
+			"path": "client/views/guide/equity/equity_controller.js",
+			"checksum": "0f83e83b286b9ee8bfe4d0c17ce3ee66ed338e65"
+		},
+		{
+			"path": "client/views/guide/features/features.html",
+			"checksum": "01806277561d9ace1113ff19d76dd289ad475ea9"
+		},
+		{
+			"path": "client/views/guide/features/features.js",
+			"checksum": "7818c22e3418feb9a5edde0a15cdfb93b7872805"
+		},
+		{
+			"path": "client/views/guide/features/features_controller.js",
+			"checksum": "7ea74f2f116b2a5a6d74b44e4dd298ff1bd60525"
+		},
+		{
+			"path": "client/views/guide/firing/firing.html",
+			"checksum": "ef66b1b9533dcfb76b606e2de2e6a25b46353628"
+		},
+		{
+			"path": "client/views/guide/firing/firing.js",
+			"checksum": "5d01abd61ef5bb69cdcc8a67cd1ad84ac1936d9c"
+		},
+		{
+			"path": "client/views/guide/firing/firing_controller.js",
+			"checksum": "7d432525ff2f7f66732d5336664671ba00e0139a"
+		},
+		{
+			"path": "client/views/guide/first_users/first_users.html",
+			"checksum": "d5b8815db0f7d944bcab35c27a93e0a5697ad9b2"
+		},
+		{
+			"path": "client/views/guide/first_users/first_users.js",
+			"checksum": "4bfcd9bac1950b3af6351f202fed40a96f4d8ff7"
+		},
+		{
+			"path": "client/views/guide/first_users/first_users_controller.js",
+			"checksum": "84dba1c70c45248cba05d7fe81026331a347ee94"
+		},
+		{
+			"path": "client/views/guide/first_hires/first_hires.html",
+			"checksum": "5bdffb59097580d21646be9cd5b08c0903516d66"
+		},
+		{
+			"path": "client/views/guide/first_hires/first_hires.js",
+			"checksum": "63cd5918d22cfe2d37e4dd2501bcf301cab245ba"
+		},
+		{
+			"path": "client/views/guide/first_hires/first_hires_controller.js",
+			"checksum": "70ff2b40d0303e37a67df6eb3acb4243db3d7ca0"
+		},
+		{
+			"path": "client/views/guide/founders/founders.html",
+			"checksum": "d9212a44c1603ad76ae8c5ddcf7f0f8e8f40fa92"
+		},
+		{
+			"path": "client/views/guide/founders/founders.js",
+			"checksum": "801cab31fad1061a9c4275e312cd061b08f71c5e"
+		},
+		{
+			"path": "client/views/guide/founders/founders_controller.js",
+			"checksum": "4eb8fca34d2267e5dd9c7b7151dea8785bba401d"
+		},
+		{
+			"path": "client/views/guide/fundraising/fundraising.html",
+			"checksum": "48ac9aaac92a704f669051cc91947a5db0a3c778"
+		},
+		{
+			"path": "client/views/guide/fundraising/fundraising.js",
+			"checksum": "f2e8669ee8a2cd188154abe28619c273c71fb9b4"
+		},
+		{
+			"path": "client/views/guide/fundraising/fundraising_controller.js",
+			"checksum": "e241df5832b50394f8a8acb0f55b3807d51f9b62"
+		},
+		{
+			"path": "client/views/guide/growth/growth.html",
+			"checksum": "7ed9b05f99304723cdb9e382d6d2aaf2e17b14fe"
+		},
+		{
+			"path": "client/views/guide/growth/growth.js",
+			"checksum": "40d6b99c0da72bb394e7682af2dabdaf4125fbe3"
+		},
+		{
+			"path": "client/views/guide/growth/growth_controller.js",
+			"checksum": "d5c0e28948d0ea19d71fc77b2ae66c0f0e339f6c"
+		},
+		{
+			"path": "client/views/guide/hiring/hiring.html",
+			"checksum": "a68784854767e876a4d9232bbe107fab16bbbbab"
+		},
+		{
+			"path": "client/views/guide/hiring/hiring.js",
+			"checksum": "81d265e1daf984520b2928f8ae4fea8388a5602b"
+		},
+		{
+			"path": "client/views/guide/hiring/hiring_controller.js",
+			"checksum": "38c6efeef60d2c7391af7c523474558587ba8118"
+		},
+		{
+			"path": "client/views/guide/ideas/ideas.html",
+			"checksum": "733d6d5499c7b298d7b1be251715afc8e45adf1e"
+		},
+		{
+			"path": "client/views/guide/ideas/ideas.js",
+			"checksum": "af468c6548d5c900f185e106466e2db356f0a45b"
+		},
+		{
+			"path": "client/views/guide/ideas/ideas_controller.js",
+			"checksum": "bcefd4633bdd2c4f3405429c109119c07719c773"
+		},
+		{
+			"path": "client/views/guide/idea_validation/idea_validation.html",
+			"checksum": "4062fc951bf6a7aa1386e746851793c8dff70a01"
+		},
+		{
+			"path": "client/views/guide/idea_validation/idea_validation.js",
+			"checksum": "2548e4f6be225255600a2fd12a8ae19a11f29619"
+		},
+		{
+			"path": "client/views/guide/idea_validation/idea_validation_controller.js",
+			"checksum": "b04fbf9e0c0e73fc2be35fe3173af579acc95aad"
+		},
+		{
+			"path": "client/views/guide/interviews/interviews.html",
+			"checksum": "d4907908429f2ebb6e0728810489a75e418632ff"
+		},
+		{
+			"path": "client/views/guide/interviews/interviews.js",
+			"checksum": "10c94783d4a6ff4dcfbfe969ef3348cd56ff1545"
+		},
+		{
+			"path": "client/views/guide/interviews/interviews_controller.js",
+			"checksum": "54d76597db879d2df5ce21d3f2209a9cb240e84c"
+		},
+		{
+			"path": "client/views/guide/investor_meetings/investor_meetings.html",
+			"checksum": "a2c14790af5bc15f0449efd8421cd23231f5799c"
+		},
+		{
+			"path": "client/views/guide/investor_meetings/investor_meetings.js",
+			"checksum": "1c59773bc76286ac39519a93c5aa9f4dcb5067ac"
+		},
+		{
+			"path": "client/views/guide/investor_meetings/investor_meetings_controller.js",
+			"checksum": "c8b50fd635e220242482cfbecf81fa5edd7b65ad"
+		},
+		{
+			"path": "client/views/guide/late_stage/late_stage.html",
+			"checksum": "3fc3f2f4d90f48ee2e123303dc437e0bf1a860a3"
+		},
+		{
+			"path": "client/views/guide/late_stage/late_stage.js",
+			"checksum": "660297503f956ba554a4a0a31241e2e815e70618"
+		},
+		{
+			"path": "client/views/guide/late_stage/late_stage_controller.js",
+			"checksum": "e2bd010e81b414dd83013350ce27597c7fa3249a"
+		},
+		{
+			"path": "client/views/guide/legal/legal.html",
+			"checksum": "78abcd3cedd29bcb8cd7d08c113bd7962cc6ae83"
+		},
+		{
+			"path": "client/views/guide/legal/legal.js",
+			"checksum": "777109cb871dba9cca1b46198d2be97f164449f5"
+		},
+		{
+			"path": "client/views/guide/legal/legal_controller.js",
+			"checksum": "508ebd3ea661a559faa389db2db55e0b612e15c8"
+		},
+		{
+			"path": "client/views/guide/management/management.html",
+			"checksum": "24f0b08a91007e5119ad47dbb14cb2f4d59083f2"
+		},
+		{
+			"path": "client/views/guide/management/management.js",
+			"checksum": "6c735f24649367dd708d6a4bc8f9484fc85e5a9c"
+		},
+		{
+			"path": "client/views/guide/management/management_controller.js",
+			"checksum": "c70992a473edf3fe4895653cdd2dda72c6c77c5b"
+		},
+		{
+			"path": "client/views/guide/market/market.html",
+			"checksum": "c94057eec0d411044ab236ae30b3a4dfa09b0701"
+		},
+		{
+			"path": "client/views/guide/market/market.js",
+			"checksum": "611411c2f63db9fe23adde35701a3347ac744c49"
+		},
+		{
+			"path": "client/views/guide/market/market_controller.js",
+			"checksum": "921c0d874e111d479bb4117319e8217f71182915"
+		},
+		{
+			"path": "client/views/guide/metrics/metrics.html",
+			"checksum": "ffba2099a2fec66fa6da74eb0d46266fb7ed532b"
+		},
+		{
+			"path": "client/views/guide/metrics/metrics.js",
+			"checksum": "3d3970c37780a066e703f637b77e6931cd95f3a2"
+		},
+		{
+			"path": "client/views/guide/metrics/metrics_controller.js",
+			"checksum": "c79b34d1c9df134da9238210ff62f71cff7466e2"
+		},
+		{
+			"path": "client/views/guide/mvp/mvp.html",
+			"checksum": "af5291f6bef01e44b74c7336358ca4f34f94d887"
+		},
+		{
+			"path": "client/views/guide/mvp/mvp.js",
+			"checksum": "4904fa2262dd6283917e8c939224a848ce8f32a7"
+		},
+		{
+			"path": "client/views/guide/mvp/mvp_controller.js",
+			"checksum": "09ae4d8779bff384fd955f92960ddfea1f3e7595"
+		},
+		{
+			"path": "client/views/guide/philosophy/philosophy.html",
+			"checksum": "be9fa45090fd031431064f64130f7a3325b50fc3"
+		},
+		{
+			"path": "client/views/guide/philosophy/philosophy.js",
+			"checksum": "c7796d5146a1d4311695c6fe4813c13b310300fb"
+		},
+		{
+			"path": "client/views/guide/philosophy/philosophy_controller.js",
+			"checksum": "f3a8487a32fb7ff2bfba048a05d866d7b1dfc280"
+		},
+		{
+			"path": "client/views/guide/pitch/pitch.html",
+			"checksum": "da9d66239294652729e14804a263c841adc56a1f"
+		},
+		{
+			"path": "client/views/guide/pitch/pitch.js",
+			"checksum": "eb022ae4f9542213b4a5054dfb986880c46f3f57"
+		},
+		{
+			"path": "client/views/guide/pitch/pitch_controller.js",
+			"checksum": "d9d6bfb9bdb846192359b7cab983f9e6f9634bcd"
+		},
+		{
+			"path": "client/views/guide/pr/pr.html",
+			"checksum": "8d9fe6253e9cfd451dc9c610f08c184724a7c9f8"
+		},
+		{
+			"path": "client/views/guide/pr/pr.js",
+			"checksum": "089650b49c04607c99263b1db16607a9c115cff3"
+		},
+		{
+			"path": "client/views/guide/pr/pr_controller.js",
+			"checksum": "5cc1ac0e153620a1347b9fc1a519466e41e9d6d4"
 		},
 		{
 			"path": "client/views/guide/preparation/preparation.html",
@@ -249,76 +621,148 @@
 			"checksum": "ba13c78500627cb22daa3fceee2a142892b994fc"
 		},
 		{
-			"path": "client/views/guide/ideas/ideas.html",
-			"checksum": "eadde265c24dff85ef4ee1242193468d7fc59ac1"
+			"path": "client/views/guide/priorities/priorities.html",
+			"checksum": "910310e1e91bc6ecc4daa1245f8bb7d2107ffbfc"
 		},
 		{
-			"path": "client/views/guide/ideas/ideas.js",
-			"checksum": "af468c6548d5c900f185e106466e2db356f0a45b"
+			"path": "client/views/guide/priorities/priorities.js",
+			"checksum": "ce0692430f980a9f32ae167a28c5a648a4d040c7"
 		},
 		{
-			"path": "client/views/guide/ideas/ideas_controller.js",
-			"checksum": "bcefd4633bdd2c4f3405429c109119c07719c773"
+			"path": "client/views/guide/priorities/priorities_controller.js",
+			"checksum": "da8643d40b662b0122988b718509bff55108c54b"
 		},
 		{
-			"path": "client/views/guide/idea_validation/idea_validation.html",
-			"checksum": "21a0e3d7c138d2b533534a515341f50fe042a199"
+			"path": "client/views/guide/product/product.html",
+			"checksum": "5acc416414d3ba1adc7614d60343ecfe77268c8b"
 		},
 		{
-			"path": "client/views/guide/idea_validation/idea_validation.js",
-			"checksum": "2548e4f6be225255600a2fd12a8ae19a11f29619"
+			"path": "client/views/guide/product/product.js",
+			"checksum": "324e5d9ca008b98123276a652c85f475db4be25e"
 		},
 		{
-			"path": "client/views/guide/idea_validation/idea_validation_controller.js",
-			"checksum": "b04fbf9e0c0e73fc2be35fe3173af579acc95aad"
+			"path": "client/views/guide/product/product_controller.js",
+			"checksum": "2462a4075e73e91b1911d90ad2fccdd193dd59c3"
 		},
 		{
-			"path": "client/views/guide/market/market.html",
-			"checksum": "c94057eec0d411044ab236ae30b3a4dfa09b0701"
+			"path": "client/views/guide/product_market_fit/product_market_fit.html",
+			"checksum": "ae1d966c1915cf8cf745c6cad19844b6864b7abb"
 		},
 		{
-			"path": "client/views/guide/market/market.js",
-			"checksum": "611411c2f63db9fe23adde35701a3347ac744c49"
+			"path": "client/views/guide/product_market_fit/product_market_fit.js",
+			"checksum": "cce9a7dc9def4738d4d716b9726b1fd2c36bb767"
 		},
 		{
-			"path": "client/views/guide/market/market_controller.js",
-			"checksum": "a1f6719688f95dd0e8f519fb522b83582a172160"
+			"path": "client/views/guide/product_market_fit/product_market_fit_controller.js",
+			"checksum": "b87d249231757519f98e4a425ea22a32fdbe8e84"
 		},
 		{
-			"path": "client/views/guide/founders/founders.html",
-			"checksum": "e37dd6f09e91e7f3ced63238d324cd0f117454c1"
+			"path": "client/views/guide/promotion/promotion.html",
+			"checksum": "638d6d0de2ec5f85bfeaaffbc74e82bc302f8dc1"
 		},
 		{
-			"path": "client/views/guide/founders/founders.js",
-			"checksum": "801cab31fad1061a9c4275e312cd061b08f71c5e"
+			"path": "client/views/guide/promotion/promotion.js",
+			"checksum": "435a3c8fad33abb0a9e3dd18a94d66d4d12959e8"
 		},
 		{
-			"path": "client/views/guide/founders/founders_controller.js",
-			"checksum": "4eb8fca34d2267e5dd9c7b7151dea8785bba401d"
+			"path": "client/views/guide/promotion/promotion_controller.js",
+			"checksum": "09f7e99870afbc1c40afe54f65ca1317e3393419"
 		},
 		{
-			"path": "client/views/guide/interviews/interviews.html",
-			"checksum": "d4907908429f2ebb6e0728810489a75e418632ff"
+			"path": "client/views/guide/sales/sales.html",
+			"checksum": "2c2661610a33f091a538d3ba79cbd8ff7d23d7da"
 		},
 		{
-			"path": "client/views/guide/interviews/interviews.js",
-			"checksum": "10c94783d4a6ff4dcfbfe969ef3348cd56ff1545"
+			"path": "client/views/guide/sales/sales.js",
+			"checksum": "ad5c5ecb3b375e0e2ef4eb72fec8d822eb73f1e7"
 		},
 		{
-			"path": "client/views/guide/interviews/interviews_controller.js",
-			"checksum": "148ff353e3dbe58ac940afa08e5f27c209f0d481"
+			"path": "client/views/guide/sales/sales_controller.js",
+			"checksum": "10a297aa045612cc570bd11ac1826323faed67f7"
 		},
 		{
-			"path": "client/views/guide/first_users/first_users.html",
-			"checksum": "d5b8815db0f7d944bcab35c27a93e0a5697ad9b2"
+			"path": "client/views/guide/series_a/series_a.html",
+			"checksum": "6be86edc5f7baded2aa527f8e02cd4a851ab851e"
 		},
 		{
-			"path": "client/views/guide/first_users/first_users.js",
-			"checksum": "4bfcd9bac1950b3af6351f202fed40a96f4d8ff7"
+			"path": "client/views/guide/series_a/series_a.js",
+			"checksum": "41bf0556d2266202ad93ce9142e77d912314aea4"
 		},
 		{
-			"path": "client/views/guide/first_users/first_users_controller.js",
-			"checksum": "1130fb7a7494a673b805504dfec70025e406a9b9"
+			"path": "client/views/guide/series_a/series_a_controller.js",
+			"checksum": "ace6dd41fcd375142b634a5657b46eec2a39abb1"
+		},
+		{
+			"path": "client/views/guide/user_feedback/user_feedback.html",
+			"checksum": "649c5c2807a9409ed52025372608acbb6c8b1600"
+		},
+		{
+			"path": "client/views/guide/user_feedback/user_feedback.js",
+			"checksum": "3c999d71873da7c359f71a57a38b63af27bc03d0"
+		},
+		{
+			"path": "client/views/guide/user_feedback/user_feedback_controller.js",
+			"checksum": "826ccc41e4be61a7a609133f4b956ae69dee77d3"
+		},
+		{
+			"path": "client/views/guide/user_interviews/user_interviews.html",
+			"checksum": "2dc79e162172c7cf9dc0a5714dfee46cad674221"
+		},
+		{
+			"path": "client/views/guide/user_interviews/user_interviews.js",
+			"checksum": "db146caa9de3149e17af5d2ce408c059c3d5ee64"
+		},
+		{
+			"path": "client/views/guide/user_interviews/user_interviews_controller.js",
+			"checksum": "6ed57b224fd99d4149e7250d55a2431047f7d9bd"
+		},
+		{
+			"path": "client/views/guide/users/users.html",
+			"checksum": "e9a56e8b1d2967bc90292c736afc92edab1b4322"
+		},
+		{
+			"path": "client/views/guide/users/users.js",
+			"checksum": "67a73c877e5fc11d257c80aca0d4929968ef6afe"
+		},
+		{
+			"path": "client/views/guide/users/users_controller.js",
+			"checksum": "49be5ab0634f68fe8b5511ec4eb84c25d312358d"
+		},
+		{
+			"path": "client/views/guide/vc/vc.html",
+			"checksum": "b7f4deeec3986987296e4e1327e029ceb9ad55be"
+		},
+		{
+			"path": "client/views/guide/vc/vc.js",
+			"checksum": "884b1cb661b12ccbcb26ce3eeb7004d5fac6a456"
+		},
+		{
+			"path": "client/views/guide/vc/vc_controller.js",
+			"checksum": "1277a997c343eaff40362b75695ea7ac87899107"
+		},
+		{
+			"path": "client/views/guide/vision/vision.html",
+			"checksum": "9f8e62c253bf0d1f03b728096cef3d176fb70670"
+		},
+		{
+			"path": "client/views/guide/vision/vision.js",
+			"checksum": "997232c55ebaa01dd08735b6d2f9a0cda4b70a70"
+		},
+		{
+			"path": "client/views/guide/vision/vision_controller.js",
+			"checksum": "30c0a71ffa9e92fd9eee4bd7f524b02d160e0491"
+		},
+		{
+			"path": "client/views/guide/aha_moment/aha_moment.html",
+			"checksum": "7fba9b107ed235b4635e5f10c6fe4dbe8a1f5466"
+		},
+		{
+			"path": "client/views/guide/aha_moment/aha_moment.js",
+			"checksum": "001e7c0ca28f3385ad86a55d23eec64ed60a750a"
+		},
+		{
+			"path": "client/views/guide/aha_moment/aha_moment_controller.js",
+			"checksum": "390d7bccc7c4d087b85e1d76e6f8d0037d800f7d"
 		},
 		{
 			"path": "both/collections/authors.js",
@@ -409,12 +853,12 @@
 			"checksum": "62dce4c81f8955ca99e429737ae41eb8416bf632"
 		},
 		{
-			"path": "client/styles/framework/bootstrap3/custom.bootstrap.json",
-			"checksum": "59c3803dde72dfd34e95a52dc4f5cae65018ec38"
-		},
-		{
 			"path": "client/styles/framework/bootstrap3/custom.bootstrap.import.less",
 			"checksum": "8007cd69773c1c62284460f7c0fd8310e7f60094"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3/custom.bootstrap.json",
+			"checksum": "59c3803dde72dfd34e95a52dc4f5cae65018ec38"
 		},
 		{
 			"path": "client/styles/framework/bootstrap3/custom.bootstrap.less",
@@ -425,68 +869,84 @@
 			"checksum": "b53332a4c7dffc57aefda1db82b4e09258dad07a"
 		},
 		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_cz.js",
-			"checksum": "146a2a2bd0e89b62b775eee929907970e875ddf6"
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput.css",
+			"checksum": "30ba45c948bcb125cf0cb550b4a9d2f13ffcc710"
 		},
 		{
 			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput.js",
 			"checksum": "b6c83cb478c232284b8b6cae90d0ec2840d93332"
 		},
 		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_th.js",
-			"checksum": "05fec04f2b334bd579126eeb54321fbec516470f"
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_cz.js",
+			"checksum": "146a2a2bd0e89b62b775eee929907970e875ddf6"
 		},
 		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_ru.js",
-			"checksum": "4939e4b72d235b9a68602aba3501bd72bde77611"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_pt.js",
-			"checksum": "f1d3b0c83a6a10b6e1cd7b8f523a98a7a51720ac"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_pl.js",
-			"checksum": "77ce969c9532dc4cda50d57bad7c8e8c9e792386"
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_de.js",
+			"checksum": "fcad7c9406cb7ab1959ee5a62825a62b905f34a2"
 		},
 		{
 			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_el.js",
 			"checksum": "d00eebe17389c41dbdfdd5611573ba52169f16eb"
 		},
 		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_pt-BR.js",
-			"checksum": "8caeab2c4b40a90eba4412eb5a31c76405e5a04a"
-		},
-		{
 			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_es.js",
 			"checksum": "6eb5775359ee3e6199962d05fb6a2ddf79426766"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_sk.js",
-			"checksum": "1dc9d65243156006cf762ed85cdf36501c27f38a"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_it.js",
-			"checksum": "09d41c11dadf15f197bd443f5ad01a68e3408bde"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_ro.js",
-			"checksum": "7fcbd870c67fbd4646b6b53c4e07f84ebaf6ebd1"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_tr.js",
-			"checksum": "25e2ea3f23c594180a3496f814ae907343de1add"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_LANG.js",
-			"checksum": "e80901eda8d09ee66e3375ddd6d7f7a53dbfcda8"
 		},
 		{
 			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_fr.js",
 			"checksum": "aea834881f99fe187153560b32011c2af7f56092"
 		},
 		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_hu.js",
+			"checksum": "500bfd774110b73e07e9f4e23a4cbf9c896fbcea"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_it.js",
+			"checksum": "09d41c11dadf15f197bd443f5ad01a68e3408bde"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_LANG.js",
+			"checksum": "e80901eda8d09ee66e3375ddd6d7f7a53dbfcda8"
+		},
+		{
 			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_nl.js",
 			"checksum": "106dfa775832df6830675c8927603a813063986c"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_pl.js",
+			"checksum": "77ce969c9532dc4cda50d57bad7c8e8c9e792386"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_pt-BR.js",
+			"checksum": "8caeab2c4b40a90eba4412eb5a31c76405e5a04a"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_pt.js",
+			"checksum": "f1d3b0c83a6a10b6e1cd7b8f523a98a7a51720ac"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_ro.js",
+			"checksum": "7fcbd870c67fbd4646b6b53c4e07f84ebaf6ebd1"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_ru.js",
+			"checksum": "4939e4b72d235b9a68602aba3501bd72bde77611"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_sk.js",
+			"checksum": "1dc9d65243156006cf762ed85cdf36501c27f38a"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_sr.js",
+			"checksum": "50ac58590814ab9959e34d94a4b2bb8cf9be35b9"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_th.js",
+			"checksum": "05fec04f2b334bd579126eeb54321fbec516470f"
+		},
+		{
+			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_tr.js",
+			"checksum": "25e2ea3f23c594180a3496f814ae907343de1add"
 		},
 		{
 			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_uk.js",
@@ -495,22 +955,6 @@
 		{
 			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_zh.js",
 			"checksum": "f477aede4974871fc0ba71d3ed4f90d8b9f1a74e"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_hu.js",
-			"checksum": "500bfd774110b73e07e9f4e23a4cbf9c896fbcea"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_sr.js",
-			"checksum": "50ac58590814ab9959e34d94a4b2bb8cf9be35b9"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput.css",
-			"checksum": "30ba45c948bcb125cf0cb550b4a9d2f13ffcc710"
-		},
-		{
-			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-fileinput/fileinput_locale_de.js",
-			"checksum": "fcad7c9406cb7ab1959ee5a62825a62b905f34a2"
 		},
 		{
 			"path": "client/styles/framework/bootstrap3-plugins/bootstrap-tagsinput/bootstrap-tagsinput.css",
@@ -550,14 +994,51 @@
 		"client/views/authors/add_authors/insert/",
 		"client/views/authors/add_authors/update/",
 		"client/views/guide/",
+		"client/views/guide/aha_moment/",
+		"client/views/guide/build_products/",
+		"client/views/guide/ceo/",
+		"client/views/guide/compensation/",
+		"client/views/guide/creativity/",
+		"client/views/guide/culture/",
+		"client/views/guide/customer_service/",
+		"client/views/guide/employee_feedback/",
+		"client/views/guide/employees/",
+		"client/views/guide/enterprise/",
+		"client/views/guide/equity/",
+		"client/views/guide/features/",
+		"client/views/guide/firing/",
+		"client/views/guide/first_hires/",
 		"client/views/guide/first_users/",
 		"client/views/guide/founders/",
+		"client/views/guide/fundraising/",
+		"client/views/guide/growth/",
+		"client/views/guide/hiring/",
 		"client/views/guide/idea_validation/",
 		"client/views/guide/ideas/",
 		"client/views/guide/interviews/",
 		"client/views/guide/introduction/",
+		"client/views/guide/investor_meetings/",
+		"client/views/guide/late_stage/",
+		"client/views/guide/legal/",
+		"client/views/guide/management/",
 		"client/views/guide/market/",
+		"client/views/guide/metrics/",
+		"client/views/guide/mvp/",
+		"client/views/guide/philosophy/",
+		"client/views/guide/pitch/",
+		"client/views/guide/pr/",
 		"client/views/guide/preparation/",
+		"client/views/guide/priorities/",
+		"client/views/guide/product/",
+		"client/views/guide/product_market_fit/",
+		"client/views/guide/promotion/",
+		"client/views/guide/sales/",
+		"client/views/guide/series_a/",
+		"client/views/guide/user_feedback/",
+		"client/views/guide/user_interviews/",
+		"client/views/guide/users/",
+		"client/views/guide/vc/",
+		"client/views/guide/vision/",
 		"client/views/layout/",
 		"client/views/loading/",
 		"client/views/not_found/",

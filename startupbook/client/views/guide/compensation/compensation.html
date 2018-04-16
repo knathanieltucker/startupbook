@@ -1,0 +1,35 @@
+<template name="GuideCompensation">
+	<div class="page-container container" id="content">
+		<div class="row" id="title_row">
+			<div class="col-md-12">
+			</div>
+		</div>
+		{{> GuideCompensationCompensation}}
+	</div>
+</template>
+
+<template name="GuideCompensationCompensation">
+	{{#markdown}}# Compensation
+
+Equity should be really generous see [equity]({{pathFor 'guide.equity'}}) for more details [1]
+
+Salary ideas
+
+1. Flat salary [2]
+2. Salary bands [3]
+
+Always stay in front of vesting [4]
+
+## Footnotes
+
+[1] {{qt 'Sam Altman' 49}}
+
+[2] {{qt 'Sam Altman' 50}}
+
+[3] {{qt 'Sam Altman' 76}}
+
+[4] {{qt 'Sam Altman' 78}}
+
+{{/markdown}}
+</template>
+

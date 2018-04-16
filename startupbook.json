@@ -608,19 +608,7 @@
 								{
 									"name": "introduction",
 									"type": "markdown",
-									"source": "startupbook/private/guides/introduction.md",
-									"object_type": "markdown"
-								}
-							]
-						},
-						{
-							"name": "preparation",
-							"type": "page",
-							"components": [
-								{
-									"name": "preparation",
-									"type": "markdown",
-									"source_file": "startupbook/private/guides/preparation.md",
+									"source_file": "startupbook/private/guides/introduction.md",
 									"object_type": "markdown"
 								}
 							]
@@ -873,18 +861,6 @@
 									"name": "interviews",
 									"type": "markdown",
 									"source_file": "startupbook/private/guides/interviews.md",
-									"object_type": "markdown"
-								}
-							]
-						},
-						{
-							"name": "introduction",
-							"type": "page",
-							"components": [
-								{
-									"name": "introduction",
-									"type": "markdown",
-									"source_file": "startupbook/private/guides/introduction.md",
 									"object_type": "markdown"
 								}
 							]
