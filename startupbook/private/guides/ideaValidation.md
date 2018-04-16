@@ -22,7 +22,7 @@ Big markets are much better [2]:
 
 ## Is there competition?
 
-{{qt 'Paul Graham' 39}} [5] [6]
+{{qt 'Paul Graham' 39}} [5] [6] [100]
 
 ## Storyboard
 
@@ -77,3 +77,5 @@ The faster you can know you wrong the better, so you can move on to the next ide
 [8] {{qt 'Walker Williams' 2}}
 
 [9] {{qt 'Mark Zuckerberg' 2}}
+
+[10] {{qt 'Sam Altman' 33}}

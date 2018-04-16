@@ -1,10 +1,43 @@
-[tere]({{pathFor 'guide.preparation'}})
+## Introduction
 
-{{qt 'Sam Altman' 34}}{{/markdown}}
+One bit of meta advice: after one year, plan one year ahead, after one month, just plan for one month ahead. Don't get too far ahead of yourself. [1]
 
+## Before you start
 
+1. Find [cofounders]({{pathFor 'guide.founders'}})
+	1. Think about the role of the [CEO]({{pathFor 'guide.ceo'}})
+1. And do what you can to [prepare]({{pathFor 'guide.preparation'}})
 
-After one year, plan one year ahead, after one month, just plan for one month ahead [1]
+## Next is the idea phase
+
+1. Have an [idea]({{pathFor 'guide.ideas'}})
+	1. [Validate the idea]({{pathFor 'guide.ideaValidation'}})
+	2. Consider the [market size]({{pathFor 'guide.market'}}) for the idea
+
+## Next build the product and start the company
+
+1. [Build the product]({{pathFor 'guide.buildProducts'}})
+1. Make and articulate your [vision]({{pathFor 'guide.vision'}})
+1. Make a [culture]({{pathFor 'guide.culture'}})
+1. Stay [creative]({{pathFor 'guide.creativity'}})
+
+## Scale it up
+
+1. [Grow your users]({{pathFor 'guide.growth'}})
+	1. **[Measure it!!]({{pathFor 'guide.metrics'}})**
+1. Get some [employees]({{pathFor 'guide.employees'}})
+1. [Fund raise]({{pathFor 'guide.fundraising'}})
+	1. Make a [pitch]({{pathFor 'guide.pitch'}})
+
+## And then
+
+1. [late stage]({{pathFor 'guide.lateStage'}})
+
+## Other questions 
+
+1. [priorities]({{pathFor 'guide.priorities'}})
+1. [Philosophy]({{pathFor 'guide.philosophy'}})
+1. [Legal]({{pathFor 'guide.legal'}})
 
 
 [1] {{qt 'Patrick and John Collison' 48}}

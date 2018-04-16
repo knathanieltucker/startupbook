@@ -11,4 +11,5 @@ So you have an idea (that has been validated), what comes next?
 	1. Get [user feedback]({{pathFor 'guide.userFeedback'}})
 	1. Make good [customer service]({{pathFor 'guide.customerService'}})
 	1. Get an [aha moment]({{pathFor 'guide.ahaMoment'}})
+	1. Measure [metrics]({{pathFor 'guide.metrics'}})
 3. Get [product market fit]({{pathFor 'guide.productMarketFit'}}) 

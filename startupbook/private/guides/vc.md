@@ -12,7 +12,11 @@ When a company is in dire straights, all the terms get renegotiated [21]
 
 Investors invest in strength, not lack of weakness [2]
 
-They look for subsequent reductions in risk [4]
+They look for subsequent reductions in risk. [4] This means:
+
+1. Make investment thesis [33]
+2. Identify and steer into risk [34]
+3. Measure the right thing and look for anomalies [35]
 
 Focus on product rather than the pitch [5] [7] [9] [22] [23] [32]
 
@@ -105,3 +109,9 @@ Focus on product rather than the pitch [5] [7] [9] [22] [23] [32]
 [31] {{qt 'Kirsty Nathoo' 7}}
 
 [32] {{qt 'Marc Andreessen' 3}}
+
+[33] {{qt 'Reid Hoffman' 6}}
+
+[34] {{qt 'Keith Rabois' 12}}
+
+[35] {{qt 'Keith Rabois' 13}}
