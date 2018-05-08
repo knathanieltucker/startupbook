@@ -1,0 +1,25 @@
+name: Roger Fisher, William Ury & Bruce Patton
+
+description: Getting to Yes
+tags: [negotiation]
+
+advise:
+  - tags: [management, negotiation]
+    id: 1
+    quote: >
+      Fight the problem not the person
+
+  - tags: [management, users, negotiation]
+    id: 2
+    quote: >
+      Before you search for solutions, understand both parties’ underlying interests.
+
+  - tags: [management, negotiation]
+    id: 3
+    quote: >
+      Outline options before you search for solutions.
+
+  - tags: [management, negotiation]
+    id: 4
+    quote: >
+      Always pay attention to the knowledge gap

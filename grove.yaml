@@ -1,0 +1,10 @@
+name: Andrew Grove
+
+description: CEO of intel and writer of High Output Management
+tags: []
+
+advise:
+  - tags: [management]
+    id: 1
+    quote: >
+      Managers have three roles: gather information, make decisions, act as role models

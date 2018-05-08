@@ -15,7 +15,7 @@ Why is this so important, I'll let SA take it away [4]:
   3. Best overall solution [16]
 2. Start with something simple [2] [6] [17]
   1. And keep it simple/intuitive [15]
-  2. Modularize not customize [18]
+  2. Modularize not customize [18] [26]
 3. Talk to your users [4]
   1. Everybody should spend 2 hours with users at least every 6 weeks [14]
 4. Storyboard [5]
@@ -25,6 +25,7 @@ Why is this so important, I'll let SA take it away [4]:
 5. Do things that don't scale [7]
 6. Think about distribution [9]
 7. Users before monetization [12]
+  1. Focus on the user not the buyer [25]
 8. Prioritize the marginal user [20]
 9. Add documentation [24]
 
@@ -90,3 +91,7 @@ Check out the other section [product validation]({{pathFor 'guide.productValidat
 [23] {{qt 'Kevin Hale' 8}}
 
 [24] {{qt 'Kevin Hale' 9}}
+
+[25] {{qt 'Marc R. Benioff and Carlye Adler' 2}}
+
+[26] {{qt 'Marc R. Benioff and Carlye Adler' 3}}

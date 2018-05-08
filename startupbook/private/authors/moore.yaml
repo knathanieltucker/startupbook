@@ -1,0 +1,40 @@
+name: Geoffrey Moore
+
+description: Writer of crossing the chasm
+tags: []
+
+advise:
+  - tags: [market, users]
+    id: 1
+    quote: >
+      There are five main types of users: 1) technology enthusiasts, 2) visionaries, 3) pragmatists (1/3 of market) 4) Conservatives 5) skeptics
+
+  - tags: [market, users]
+    id: 2
+    quote: >
+      selling to visionaries is quite different from selling to pragmatists, because their buying motives are quite different. Visionaries want change, pragmatists want improvement.
+
+  - tags: [sales, users, partnerships]
+    id: 3
+    quote: >
+      Pragmatists expect to buy a whole product, not just part of one that addresses their needs. You may need to partner with other companies to address this need.
+
+  - tags: [beachhead, idea validation]
+    id: 4
+    quote: >
+      Choose the beachhead market with the most dire need of your product and stick with the beachhead until you take all of it. 
+
+  - tags: [competitors, marketing, sales]
+    id: 5
+    quote: >
+      Define yourself relative to your competitors (works well for pragmatists)
+
+  - tags: [price, marketing]
+    id: 6
+    quote: >
+      Price your product as a market leader would. 
+
+  - tags: [late stage]
+    id: 7
+    quote: >
+      Have two segments: one that manages existing products and another that seeks to push into new markets

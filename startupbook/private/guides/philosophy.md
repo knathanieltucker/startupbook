@@ -15,3 +15,7 @@ No real organizing principle here, just a dump of ideas
 {{qt 'Kevin Hale' 6}}
 
 {{qt 'Steve Jobs' 1}}
+
+{{qt 'Chade-Meng Tan' 1}}
+
+{{qt 'Grant' 1}}

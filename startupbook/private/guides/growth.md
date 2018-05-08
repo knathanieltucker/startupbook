@@ -45,6 +45,7 @@ Types of ads
 	* Don't do newsletters [12]
 	* The most effective email is a notification [13]
 * Don't be afraid of being quirky here [15]
+* Defining your self relative to your competitors works well for established clients [16]
 
 
 ## PR
@@ -82,3 +83,5 @@ See [PR]({{pathFor 'guide.pr'}})
 [14] {{qt 'Peter Thiel' 5}}
 
 [15] {{qt 'Kevin Hale' 10}}
+
+[16] {{qt 'Geoffrey Moore' 5}}

@@ -19,6 +19,8 @@ Once you hit 30 people, make a clear reporting structure. [1]
 3. Bad delegation
 4. Personal organization [2]
 
+Have two segments: one that manages existing products and another that seeks to push into new markets [13]
+
 ## Employees
 
 1. Keep in mind new HR rules. [7] 
@@ -59,3 +61,5 @@ After things start working think about taxes [12]
 [11] {{qt 'Sam Altman' 87}}
 
 [12] {{qt 'Sam Altman' 88}}
+
+[13] {{qt 'Geoffrey Moore' 7}}

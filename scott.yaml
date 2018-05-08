@@ -1,0 +1,20 @@
+name: Kim Scott
+
+description: Writer of Radical Candor
+tags: []
+
+advise:
+  - tags: [management]
+    id: 1
+    quote: >
+      A manager should personally care about employees and challenge them at work
+
+  - tags: [management]
+    id: 2
+    quote: >
+      Get to know your employees: life story, dream job, 18 month plan. 
+
+  - tags: [management]
+    id: 3
+    quote: >
+      Try quiet and loud listening

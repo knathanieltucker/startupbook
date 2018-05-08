@@ -10,10 +10,18 @@ You cannot choose a niche market, it is a recipe for failure [4]
 
 But a smaller market with high margins is the same as a larger market with low margins [9] [10]
 
+## Parts of a market
+
+There are five main types of users: 1) technology enthusiasts, 2) visionaries, 3) pragmatists (1/3 of market) 4) Conservatives 5) skeptics [15]
+
+Selling to visionaries is quite different from selling to pragmatists, because their buying motives are quite different. Visionaries want change, pragmatists want improvement. [16]
+
+Pragmatists expect to buy a whole product, not just part of one that addresses their needs. You may need to partner with other companies to address this need. [17]
+
 
 ## Beachhead
 
-You will first want to target a Beachhead market in the original one. [2] [8] [11] [12] [13] [14]
+You will first want to target a Beachhead market in the original one. [2] [8] [11] [12] [13] [14] [18]
 
 This market should be 1) as big as possible 2) capturable by you. [3] The same will hold true with enterprise [6]
 
@@ -60,3 +68,11 @@ Once you have core product market fit, a useful way to expand your business is b
 [13] {{qt 'Peter Thiel' 7}}
 
 [14] {{qt 'Peter Thiel' 18}}
+
+[15] {{qt 'Geoffrey Moore' 1}}
+
+[16] {{qt 'Geoffrey Moore' 2}}
+
+[17] {{qt 'Geoffrey Moore' 3}}
+
+[18] {{qt 'Geoffrey Moore' 4}}

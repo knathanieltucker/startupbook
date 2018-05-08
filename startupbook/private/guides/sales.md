@@ -21,6 +21,7 @@ Overall it should  be the 2.5% of innovators. [3] But more specifically:
 
 ## How to sell
 
+0. Be enthusiastic [16]
 1. Speak less, smile more [6]
 2. Drive to a yes or a no [7] [8]
 3. Use the YC deal documents [9]
@@ -28,6 +29,7 @@ Overall it should  be the 2.5% of innovators. [3] But more specifically:
 	1. Sign an agreement that says they will buy once done
 	2. Wait for other customers to ask for the same feature [10]
 5. Free trails? No, but say you can opt out after 30 days of an annual agreement [11] [14]
+6. Ask for an appointment, then pitch [17]
 
 Checkout footnote for more advice [12]
 
@@ -63,3 +65,7 @@ Checkout footnote for more advice [12]
 [14] {{qt 'Walker Williams' 3}}
 
 [15] {{qt 'Sam Altman' 67}}
+
+[16] {{qt 'Frank Bettger' 1}}
+
+[17] {{qt 'Frank Bettger' 2}}
